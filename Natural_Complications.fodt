@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2017-10-09T18:43:53.840288439</dc:date><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:editing-duration>P8DT16H49M17S</meta:editing-duration><meta:editing-cycles>129</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="129" meta:word-count="4948" meta:character-count="27410" meta:non-whitespace-character-count="22179"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">133350</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48024</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">24555</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">19493</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">147438</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">133350</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48022</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">157903</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1273210</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="Rsid" config:type="int">11168613</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Droid Sans Fallback1" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Droid Sans Fallback" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Droid Sans Fallback1" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0.3937in" fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:color="#808080" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.3in" fo:text-indent="-0.3in" fo:margin-left="0.3in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.4in" fo:text-indent="-0.4in" fo:margin-left="0.4in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.5in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6in" fo:text-indent="-0.6in" fo:margin-left="0.6in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.7in" fo:text-indent="-0.7in" fo:margin-left="0.7in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.8in" fo:text-indent="-0.8in" fo:margin-left="0.8in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.9in" fo:text-indent="-0.9in" fo:margin-left="0.9in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-1in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.1in" fo:text-indent="-1.1in" fo:margin-left="1.1in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.2in" fo:text-indent="-1.2in" fo:margin-left="1.2in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="00136d7a" officeooo:paragraph-rsid="00136d7a"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="001edc81" officeooo:paragraph-rsid="001edc81"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="001edc81" officeooo:paragraph-rsid="002e69d5"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="001edc81" officeooo:paragraph-rsid="0062be04"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="001edc81" officeooo:paragraph-rsid="00672a8d"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="0070b282" officeooo:paragraph-rsid="0070b282"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="0075dba4" officeooo:paragraph-rsid="0075dba4"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00588610" officeooo:paragraph-rsid="002e69d5" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005a208b" officeooo:paragraph-rsid="002e69d5" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005cb4c1" officeooo:paragraph-rsid="002e69d5" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00652276" officeooo:paragraph-rsid="0062be04" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0065dd48" officeooo:paragraph-rsid="0062be04" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00672a8d" officeooo:paragraph-rsid="00672a8d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00675a0f" officeooo:paragraph-rsid="00672a8d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006e0fc9" officeooo:paragraph-rsid="00672a8d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0070b282" officeooo:paragraph-rsid="00672a8d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Title">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+   <style:text-properties officeooo:rsid="0083c0b7" officeooo:paragraph-rsid="0083c0b7"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007e4a5e" officeooo:paragraph-rsid="007e4a5e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="007e4a5e" officeooo:paragraph-rsid="007e4a5e"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007e4a5e" officeooo:paragraph-rsid="007e4a5e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="007e4a5e" officeooo:paragraph-rsid="007e4a5e"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="true"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="00152e11"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="00158b5c"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00174a55"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="001922fa"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="00195fc4"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="001996e3"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="001b1532"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="002013c7"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="00214179"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="002a12af"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="002c9285"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="00305745"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00305745" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="005141f3" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00532723" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00547a4a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="006006cd" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0061feac" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="007c8fd6" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="007f414d" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00812c0c" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00887056" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00aa6b65" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="0037675f"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="00384ba2"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="003c00cd"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="003d05fc"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="003d8c3f"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="00410fcf"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="0041584c"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="004340c0"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="0046a94a"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="00532723"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00532723" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00566113" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00583a2e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00588610" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005a208b" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005b6a76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005cb4c1" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005e644f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006006cd" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0061feac" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00621bd1" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0062b49c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0062be04" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0063769a" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0063ca13" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00651151" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00651485" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00652276" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0065dd48" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00672a8d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00675a0f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0068cd69" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006a557f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006db7ad" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006e0fc9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006f71b6" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0070b282" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00722e32" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0073b86a" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0074563f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0076cb10" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0077c56c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0078104f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007a1cff" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007bf081" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007c8fd6" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007f414d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties officeooo:rsid="0085a4c3"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties officeooo:rsid="0086168e"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties officeooo:rsid="00864684"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties officeooo:rsid="00876dc2"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties officeooo:rsid="00887056"/>
+  </style:style>
+  <style:style style:name="T78" style:family="text">
+   <style:text-properties officeooo:rsid="008b61b8"/>
+  </style:style>
+  <style:style style:name="T79" style:family="text">
+   <style:text-properties officeooo:rsid="008e55ce"/>
+  </style:style>
+  <style:style style:name="T80" style:family="text">
+   <style:text-properties officeooo:rsid="0096238c"/>
+  </style:style>
+  <style:style style:name="T81" style:family="text">
+   <style:text-properties officeooo:rsid="00990675"/>
+  </style:style>
+  <style:style style:name="T82" style:family="text">
+   <style:text-properties officeooo:rsid="00a31452"/>
+  </style:style>
+  <style:style style:name="T83" style:family="text">
+   <style:text-properties officeooo:rsid="00a43afd"/>
+  </style:style>
+  <style:style style:name="T84" style:family="text">
+   <style:text-properties officeooo:rsid="00a693f3"/>
+  </style:style>
+  <style:style style:name="T85" style:family="text">
+   <style:text-properties officeooo:rsid="00aa60b3"/>
+  </style:style>
+  <style:style style:name="T86" style:family="text">
+   <style:text-properties officeooo:rsid="00aa6b65"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P18">Natural Complications</text:p>
+   <text:p text:style-name="P1"/>
+   <text:h text:style-name="P19" text:outline-level="1">Chapter 1 </text:h>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P2"><text:s text:c="2"/>The birds chirped in the canopy above a small clearing despite the dark of night still lingering long after the sun should have risen. <text:s/>Small snaps and pops could be faintly heard as energy built in the air. <text:s/>The chirping tapered off as the rising energy became obtrusive the entire forest growing still as if holding its breath. <text:s/>The tension suddenly cut as the clearing was flooded with <text:span text:style-name="T7">actinic</text:span> light from the nearby ruins of an ancient castle. <text:s/>However, the building energy remained for a second before it reached its zenith and with a thunderous boom disappeared leaving behind a creature never before seen within this forest laying on the ground. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>The creature was a woman who had seen better days. <text:s/>She had a plain pair of faded tan jeans and olive t-shirt, <text:span text:style-name="T7">originally</text:span> being blue, and forest green respectively. <text:s/>A few rips and tears showing dust covered skin with a few scars proved that the colors were not the only thing to have a rough time recently. <text:s/>Her brown hair was relatively well cared for despite the dull appearance and ragged edges. <text:s/>There was no visible dirt or debris and while it stretched most of the way down her back was straightened out and free of mats. <text:s/>A very common and unremarkable sight for the NYZ after the Blacklight virus was released and exactly what she was aiming for. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Standing up she took in her new surroundings. <text:s/>The sight a virgin forest with vibrant undergrowth and thick canopy brought a frown to her face and furrow to her brow. <text:s/>Plenty of forest would be interchangeable with this one, but none of them where near NYZ. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;What the hell is this?&quot; she mused unsure how she could be here in the first place. <text:s/>Touching one of the nearby trees confirmed that the forest was in fact real and the trees were not a facade. <text:s/>Regardless of the fact she was in the middle of a ruined city only minute ago, she was now observing the surroundings in the middle of remote forest. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;This is the Everfree forest.&quot; came an answer from behind the woman. <text:s/>She spun around in surprise at this since she had already checked the forest in that direction. <text:s/>Tensing her legs she prepared to lunge either toward or away from the stranger as needed. <text:s/>Her nerves becoming more frayed as this situation makes less sense now. <text:s/>A huge woman at least 7 feet tall stood against a tree. <text:s/>She had a simple brown dress, and hair gathered together with what appeared to be vines. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;Who are you?&quot; the smaller woman asked </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;There are a few answers to that: Gaia, Earth Mother, Janet. <text:s/>The most interesting answer for you, Audrey, is that I am the one who brought you here.&quot; </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;You what?&quot; she seethed, &quot;Why would you do that?&quot; The blacklight virus in her hands beginning to grow long claws. </text:p>
+   <text:p text:style-name="P2"><text:soft-page-break/><text:s text:c="2"/>&quot;Oh calm down, I think you might find this to be a fun adventure. <text:s/><text:span text:style-name="T7">After all</text:span>, you didn&apos;t really have <text:span text:style-name="T7">anything</text:span> tying you to New York anymore.&quot; </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>A scream erupted from the infected woman as she le<text:span text:style-name="T6">a</text:span>pt toward giant her claws aimed for the heart. <text:s/>She cleaved through Gaia&apos;s chest, however instead of falling to pieces small vines stitched the wound closed and faded back into her skin. <text:s/>After a few more swipes and an eye roll from Gaia, the infected woman finally stopped attacking. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;Finished? <text:s/>Good, I doubt you will consider me an ally, but I am not your enemy. <text:s/>I simply want to see what you will do in Equestria. <text:s/>I can&apos;t send you back, even if I wanted. <text:s/>I don&apos;t know why you even want to, you can&apos;t live with the uninfected, and you don&apos;t want to live with the evolved. <text:s/>So, what is it that you want to return to?&quot; Gaia elaborated while leaves fell from her body, &quot;Either way, good luck with the new chapter of your life.&quot; <text:s/>Gaia&apos;s body fell apart fully leaving only a pile leaves behind. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Through the whole speech the infected woman glared after seeing that nothing she did had a lasting effect. <text:s/>Still glaring she stomped out of the clearing, kicking over the leaf pile as she passed, but without the object of her ire the anger faded away. <text:s/>Gaia was right, she did not have anything to return to, her original home was destroyed by the virus that makes up her body. <text:s/>Friends were a rarity, and enemies where literally everywhere. <text:s/>With a huff she admitted to herself that this change of scenery was an improvement. That did not mean she had to be happy about it. <text:s/>However a small part of her was thankful to Gaia. Not that she would ever admit that to the bitch. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Consuming living creatures grants their memories and experiences to an infected. <text:s/>Around a forest though the only creatures around are simple wild animals. <text:s/>Animals may not be a good source of useful memories, but they do know the area they live in. <text:s/>An unfortunate deer bedded down in a clearing would learn this fact the hard way. <text:s/>Hiding within a few bushes proved poor as camouflage or defense against an evolved and the deer was consumed before it could even woke up. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;Good, a forest filled monsters straight out of myth. Thanks Gaia.&quot; deadpanned Audrey after assimilating some interesting memories. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>On the surface the forest looked normal enough, the deer&apos;s memories showed a variety of mythical fauna and flora such as manticores, or cockatrices. <text:s/>Another anomaly was that the memories contained a couple languages. <text:s/>Apparently even the deer were different and far more intelligent than they should be in this forest. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Consuming a few more animals, Audrey gained enough understanding of the language to hold a <text:span text:style-name="T1">conversation</text:span>. <text:s/>She also learned of a town nearby. <text:s/>One of the residents even providing an animal <text:span text:style-name="T2">shelter</text:span> of sorts. <text:s/>This person however was not human, but instead a tiny winged horse with a yellow coat and pink mane. <text:s/>The only other part of town close enough to be known by the forest denizens was an apple orchard. <text:s/>The orchard, same as the sanctuary, was run by a family of small horses this time without the wings. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Not wanting to try setting up a permanent camp in the forest, Audrey needed a plan to fit in with the village. <text:s/>First she would need a disguise since none of the animal memories had any humans, but <text:soft-page-break/>she did not have a DNA template for this towns species. <text:s/>The farm was a no go right off the bat since farmers are not known for liking random creatures wandering onto their land. <text:s/>So was the sanctuary for that matter. <text:s/>Animals back on earth had the uncanny ability to detect an impostor whenever she tried to get near them as a non-human species. <text:s/>The animals of this world were not likely to be any better e<text:span text:style-name="T3">s</text:span>pecially with their increased intelligence. <text:s/>Only one real option remained, sneak into the town at night and collect some gen<text:span text:style-name="T4">e</text:span>tic samples from the populace. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>When most of the lights in the town had gone out long after sundown Audrey crept her way into the town. <text:s/>In order to be more stealthy and unrecognizable she changed into a form resembling a black panther. <text:s/>Most of the traits were actually from domestic house cats and just sized up, but they worked well enough and let her hide in the shadow and travel nearly silently. <text:s/>The remaining traits were ones she worked out on her own. <text:s/>Her eyes were completely black, pupil, iris and sclera. <text:s/>She also removed the reflective layer in <text:span text:style-name="T7">the</text:span> eyes of most cats, and compensated with an increase in eye size and density of the retina to keep most of the night vision intact. <text:s/>Finally she also worked in some echolocation, having an extra method of &apos;seeing&apos; the her surrounds proved invaluable in the past. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Even at night the town had a welcoming feel to it. <text:s/>Most of the buildings were fully timbered with thatched roofs. <text:s/>Plenty of plants and other decoration spread around in an unplanned, organic. <text:s/>Basically, the exact opposite of the disaster area Audrey tried to call home for the past year or so. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Tearing her eyes away from admiring the town she made her way to one of the houses. <text:s/>Testing the door showed it was unlocked. <text:s/>Slipping through the small gap she made it inside without a single sound. <text:s/>Her paws silent on the wooden floor brought her swiftly to the back rooms. <text:s/>The first door she tried lead to a small bathroom. <text:s/>The guest bedroom was next, before finally she entered the master bedroom with a single sleeping pony in the bed. <text:s/>Now all she needed to do was get a bit of DNA and abscond. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Checking the nearby vanity supplied plenty of hair strands, but none of them had any viable cells with them. <text:s/>A short mental curse of her luck later and she was at the side of the bed. <text:s/>Carefully raising a paw over the <text:span text:style-name="T5">unconscious</text:span> pony she gently gave a small poke on the withers. <text:s/>Not visible a few <text:span text:style-name="T5">minuscule</text:span> tendrils extended from the pad of her paw to collect a wealth of skin cells. <text:s/>More than enough for <text:span text:style-name="T5">Audrey&apos;s</text:span> purposes, but too few to even be able to notice. <text:s/>Retracing her steps, Audrey was on her way to next house. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>A couple more houses and Audrey had collected enough samples to create a disguise. <text:s/>She could even make sure that she did not resemble any of the &apos;donors&apos;. <text:s/>Still wanting one more just to be sure. <text:s/>Everything went the same as the other houses until she was just about to retreat. <text:s/>Still facing the bed she felt a soft impact on her nose. <text:s/>A hoof was on her nose stretching to the pony just now stir<text:span text:style-name="T7">r</text:span>ing in its sleep. <text:s/>The pony had booped her snoot. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;Fuck&quot; Audrey repeated over and over again in her mind while hoping the pony would just stay asleep. <text:s/>Her mantra doubled in force when a second hoof joined the first in touching her face. <text:s/>Knowing there were only seconds before the pony woke up fully she made haste for the exit. <text:s/>Almost out of the room she heard a scream. <text:s/>Stealth was no longer an option so she broke out into a sprint and <text:soft-page-break/>tore down the road. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Making it back to the edge of the forest she took a look back to the town. <text:s/>Several ponies were peeking out their doors, and more houses had lights in the windows. <text:s/>Making her way deeper into the forest she snorted. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>&quot;I&apos;m sure that won&apos;t come back to haunt me.&quot; she quipped. </text:p>
+   <text:p text:style-name="P2"><text:s text:c="2"/>Picking a nice looking tree she sat down and began her work mixing the DNA she had collected into a brand new sequence. <text:s/>At least her mission was technically a success. </text:p>
+   <text:p text:style-name="P1"/>
+   <text:h text:style-name="P19" text:outline-level="1">Chapter 2</text:h>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P3">Hours after the sun rose Audrey was tinkering with her new form. <text:s/>The DNA she got provided all she needed for the general anatomy, now all she needed to do was settle on the outer details. <text:s/>Colors, hair style and such. <text:s/>She needed something that fit in without drawing too much attention, but also worked with her back story. <text:s/><text:span text:style-name="T8">Her lack of knowledge or family in the surrounding country drastically reduced her options. <text:s/>She settled on a being a drifter, the lonely independent type with a penchant for wanderlust. <text:s/>No formal education, orphaned at an early age, and spending most of her time travel in the wilderness would attract more attention than she liked, but it would also explain why she could not answer many of the common questions. <text:s/>Besides honesty is the best policy especially in deception, and its not like she could believably pass for anything close to a typical pony.</text:span></text:p>
+   <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T9">The form that she settled on was an Earth pony mare with a grass green coat and dusty gray mane and tail. <text:s/>Her coat was in order enough to not have any mats, but her mane was just mess of long hair hanging off her neck haphazardly. <text:s/>Modifying the base a bit, she added a few inches of height and increased the muscle mass of her legs. <text:s/>Since she was supposed to be living in the woods, there was just enough fat on her bones to not look starved, but still have a faint impression of ribs along her barrel. <text:s/>A visible scar appeared no her left shoulder and stretched to below her neck. <text:s/>A variety of smaller scars were also added, but would only be noticeable from up close. <text:s/>Finally a pair of saddlebags appeared on her back. <text:s/>Really they looked more like a couple sacks connected by a wide strap. <text:s/>The entire thing was a faded brown almost gray leather like material with signs of wear added. <text:s/>Neither sack had a clasp instead just a lose flap over the top to cover the opening. <text:s/>Inside she put a few canteens filled earlier form a river inside.</text:span></text:p>
+   <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">Alright, I&apos;m a tiny horse and I got my stuff, am I missing anything?” Audrey wondered before realizing that she did not have a local name. <text:s/>Her name would not translate into anything pronounceable with the equine language. <text:s/>Fortunately, she could glean from the wildlife memories she had that the ponies typically went with a pair of words for their name. <text:s/>An odd trend, but an easy one to follow.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T11">Wild Way sounds good enough.” she said testing out the new name and language for this </text:span><text:soft-page-break/><text:span text:style-name="T11">world, “I&apos;m Wild Way the Earth pony, setting out on a pony adventure to learn pony stuff.” <text:s/>Putting actions to words, Wild Way, nee Audrey, trotted off in the direction of the town.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T12">Emerging from the tree line, Wild Way continued into the town as if nothing was out of the ordinary. <text:s/>Humans let you get away with all kinds of things if you act like its supposed to be that way, maybe ponies are the same. <text:s/>Making her way into the town proper she had her answer. <text:s/>Barely a a hundred meters into the town and the stares started. <text:s/>They were not acting aggressive or frightened, but having every pair of eyes on her as she walked and they just stared. <text:s/></text:span><text:span text:style-name="T14">A bioweapon capable of level cities,</text:span><text:span text:style-name="T12"> she thought, </text:span><text:span text:style-name="T14">and I&apos;m intimidated by pastel color ponies, in a pastel color</text:span><text:span text:style-name="T15">ed pony</text:span><text:span text:style-name="T14"> town. <text:s/>How </text:span><text:span text:style-name="T15">has</text:span><text:span text:style-name="T14"> my life </text:span><text:span text:style-name="T15">become </text:span><text:span text:style-name="T14">this absurd.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T25">Mustering her courage, she stopped in the middle of the road and inquired, “Is there a reason all of you are staring?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T26">Most of the ponies immediately looked away and went back to what they were doing. <text:s/>Now irritated at being ignored Wild Way choose a pony at random and marched over. <text:s/>A pegasus mare with a <text:s/>lilac coat, light teal mane, and large bow on her head. <text:s/>Seeing that the mare was looking around like she wanted to bolt away, Wild Way softened her expression. <text:s/>The mare calmed in response a little, but her eyes were still shifting looking for a way out.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">Look, I just want to know whats wrong.” Wild said</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">Um, well its just that...” The mare said before trailing off</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">Its just what?” </text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">You don&apos;t have a cutie mark.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">What&apos;s a cutie mark?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">You don&apos;t know what a cutie mark is?” the mare asked, as open mouthed incredulity replaced fear.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T29">Um, no.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T30">Its the mark on our flanks that represents our special talents.” <text:s/>She turned to show her cutie mark, a trio of dragonflies.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T30">OK, and how would I get one of these cutie marks?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T30">You really don&apos;t know? <text:s/>But, how is that possible.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T31">I haven&apos;t had the most stable life.” <text:s/>Wild responded. <text:s/>To try getting the conversation back on track and away from her history, she repeated, “Again, how do you get a cutie mark?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T31">Oh, right. <text:s/>They just appear when you discover your special talent, but what do you mean? <text:s/>What kind of life have you had?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T32">Well, my home was invaded by monsters. <text:s/>My parents died trying to protect me, and I had to survive on my own. <text:s/>I don&apos;t know how long I was there, but for better or worse some stranger brought </text:span><text:soft-page-break/><text:span text:style-name="T32">me here.” <text:s/>Wild confessed. <text:s/>She dearly hoped being that forth coming would be worth the risk.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T33">Oh, thats so horrible.” the mare breathed as tears gathered in her eyes.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T34">I&apos;ve made peace with it a long time ago.” Wild attempted to soothe, the mare began crying in earnest. <text:s/></text:span><text:span text:style-name="T16">Have I really become that jaded, </text:span><text:span text:style-name="T36">Wild worried after seeing the reaction of a complete stranger to hearing about her life, </text:span><text:span text:style-name="T16">God, I&apos;ve lost so much I&apos;m not even sure what&apos;s </text:span><text:span text:style-name="T17">left</text:span><text:span text:style-name="T16">.</text:span><text:span text:style-name="T36"> <text:s/>The two mares </text:span><text:span text:style-name="T37">found </text:span><text:span text:style-name="T36">now in a hug with neither knowing who started it. <text:s/></text:span><text:span text:style-name="T38">They stayed that way until Wild felt a hoof poke her side.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T38"><text:tab/></text:span><text:span text:style-name="T39">Before she could ask what the mare was doing, said mare asked, “You&apos;re so thin, when was the last time you had a good meal?”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“Yesterday.”</text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T39"><text:tab/>“But, its almost noon already. <text:s/>You need to </text:span><text:span text:style-name="T40">get some food.” the pegasus stated before turning to walk away. <text:s/>When she saw that Wild Way was not following she turned and questioned, “Well aren&apos;t you coming.”</text:span></text:p>
+   <text:p text:style-name="P10"><text:tab/>“Where are we going?” Wild asked as she began moving.</text:p>
+   <text:p text:style-name="P10"><text:tab/>“To get lunch of course.”</text:p>
+   <text:p text:style-name="P10"><text:tab/>“But, I don&apos;t have any money.”</text:p>
+   <text:p text:style-name="P10"><text:tab/>“Then I will buy it.”</text:p>
+   <text:p text:style-name="P10"><text:tab/>“You don&apos;t have to do this, I can take care of myself.”</text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T40"><text:tab/>“</text:span><text:span text:style-name="T41">Clearly not.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T41"><text:tab/>Wild Way sputtered at that and </text:span><text:span text:style-name="T42">gave in with, “I don&apos;t even know your name.” <text:s/>That at last got the other mare to pause with a slight blush.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“I&apos;m Flitter.”</text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T42"><text:tab/>“</text:span><text:span text:style-name="T43">Nice to meet you. I&apos;m </text:span><text:span text:style-name="T42">Wild Way.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T44">The two made there way to one of the local restaurants. <text:s/>Along the way Wild was observing the local ponies. <text:s/>Many still watched her, but most of them went back to what they were doing quickly. <text:s/>Plenty of comments wondering about the lack of a cutie mark. <text:s/>One of the houses they passed by had a mare talking about a creature that sneaked into her house at night.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T44"><text:tab/></text:span><text:span text:style-name="T18">Guess I&apos;ve become the talk of the town practically overnight, </text:span><text:span text:style-name="T44">Wild noted, </text:span><text:span text:style-name="T18">at least they are just curious, I can work with that. <text:s/></text:span><text:span text:style-name="T44">She also noted a pony following them trying to remain hidden, but that did little against Wild&apos;s echolocation. <text:s/></text:span><text:span text:style-name="T19">Huh, I&apos;ve already picked up a stalker, not a very good one if he&apos;s acting that obvious about it, </text:span><text:span text:style-name="T45">Wild analyzed </text:span><text:span text:style-name="T46">before deciding to keep track of the pony. <text:s/>It should be amusing if nothing else.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T46"><text:tab/></text:span><text:span text:style-name="T47">The pair got an outdoor table at Cafe Hay when they arrived. <text:s/></text:span><text:span text:style-name="T48">The cafe had the same timbered </text:span><text:soft-page-break/><text:span text:style-name="T48">architecture of most of the town. <text:s/>The outdoor tables had piles of hay to sit on with a vase of flowers in the middle of the table as an appetizer.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T48"><text:tab/></text:span><text:span text:style-name="T47">Before the waiter even asked for their orders another mare showed up at the table. <text:s/>She had the same colors as Flitter though without the bow. <text:s/></text:span><text:span text:style-name="T48">Her mane </text:span><text:span text:style-name="T49">had white highlights and a wilder style than Flitter.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T49"><text:tab/>“</text:span><text:span text:style-name="T50">Hey Flitter, who&apos;s your friend.” the new mare asked, before sitting at the table too.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T50"><text:tab/>“</text:span><text:span text:style-name="T51">Cloud Chaser, t</text:span><text:span text:style-name="T50">his is Wild Way. <text:s/>This is my </text:span><text:span text:style-name="T52">nosy</text:span><text:span text:style-name="T51"> </text:span><text:span text:style-name="T50">sister, Cloud Chaser.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T50"><text:tab/>“</text:span><text:span text:style-name="T53">Hello”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“Hi. <text:s/>Are you new to Ponyville, I don&apos;t think I&apos;ve seen you around before?”</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T53"><text:tab/>“</text:span><text:span text:style-name="T54">Yes, I just wandered in today.”</text:span></text:p>
+   <text:p text:style-name="P13"><text:tab/>“You wandered in. <text:s/>So then you must be the mare that everyone is talking about.”</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T54"><text:tab/>Cloud Chaser </text:span><text:span text:style-name="T61">leaned</text:span><text:span text:style-name="T54"> over to get a look at Wild&apos;s Flank before saying, “Wow, you really don&apos;t have a cutie mark.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T54"><text:tab/>“Cloud Chaser! <text:s/></text:span><text:span text:style-name="T55">I&apos;m sorry Wild Way, usually she&apos;s better behaved than this.”</text:span></text:p>
+   <text:p text:style-name="P14"><text:tab/>Wild just chuckled, “Its not a big deal. <text:s/>Although sounds like I&apos;m gaining an interesting reputation.”</text:p>
+   <text:p text:style-name="P14"><text:tab/>Before the conversation could continue the waiter returned and asked for their order simply taking the presence of a third mare in stride.</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T55"><text:tab/>“</text:span><text:span text:style-name="T56">I&apos;ll have just have a daisy sandwich.”</text:span></text:p>
+   <text:p text:style-name="P15"><text:tab/>Wild picked up her menu. <text:s/>Wild then put the menu down after realizing that she could not read any of it.</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T56"><text:tab/>“</text:span><text:span text:style-name="T57">I&apos;ll just have the same.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T57"><text:tab/>“</text:span><text:span text:style-name="T58">I want a chocolate milkshake.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T58"><text:tab/></text:span><text:span text:style-name="T59">The waiter went back inside after collecting the menus. <text:s/>Cloud Chaser turned to Wild and asked, “If you weren&apos;t going to read the menu, why </text:span><text:span text:style-name="T60">pick it up?”</text:span></text:p>
+   <text:p text:style-name="P16"><text:tab/>“Well I was going to read it, but then I remembered that I can&apos;t actually read.”</text:p>
+   <text:p text:style-name="P16"><text:tab/>The other two mares just stared at that for a while. <text:s/>Wild Way just sat there awkwardly once she thought about how that last sentence sounded.</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T60"><text:tab/>“How are you so detached about this?” <text:s/></text:span><text:span text:style-name="T61">Flitter inquired.</text:span></text:p>
+   <text:p text:style-name="P16"><text:tab/>“Its an easy problem to fix, I just never had the opportunity before to learn to read.”</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T60"><text:tab/></text:span><text:span text:style-name="T62">Cloud Chaser just started laughing at that.</text:span></text:p>
+   <text:p text:style-name="P17"><text:soft-page-break/><text:tab/>“Cloud! <text:s/>Quit being insensitive.”</text:p>
+   <text:p text:style-name="P17"><text:tab/>“Lighten up, Flitter, she&apos;s fine with it.”</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T35"><text:tab/>Wild just shrugged and agreed, “It&apos;s not a big deal. <text:s/>Now I actually have the opportunity to learn.” <text:s/></text:span><text:span text:style-name="T63">Flitter&apos;s response was to the drop her head on the table. <text:s/></text:span><text:span text:style-name="T64">The waiter returned with their orders and the meal continued without any more surprise depressing facts. <text:s/>Afterward the three of them said their goodbyes and went their </text:span><text:span text:style-name="T65">separate</text:span><text:span text:style-name="T64"> ways.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T64"><text:tab/>W</text:span><text:span text:style-name="T35">ild decided to just wander around the town and get the lay of the land. <text:s/>Keeping a smile on her face she waved to and greeted every pony she could. <text:s/>Some of them even waved back, though many just gave a small return greeting before hurrying away. <text:s/></text:span><text:span text:style-name="T66">Along the way she made a note of the location of the important buildings like the library, and town hall. <text:s/>There were also a few truly odd buildings like the ginger bread themed bakery, </text:span><text:span text:style-name="T69">and some kind of carousel building</text:span><text:span text:style-name="T66">. <text:s/>Throughout all of this the pony stalking Wild earlier was </text:span><text:span text:style-name="T67">still following</text:span><text:span text:style-name="T66"> </text:span><text:span text:style-name="T68">on her tail</text:span><text:span text:style-name="T67">.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T67"><text:tab/></text:span><text:span text:style-name="T70">Taking a turn between two buildings, Wild jumped into the air and changed her hooves to soft paws. <text:s/>Landing quietly on the roof he looked over the edge waiting for her stalker. <text:s/>Sure enough he came around the corner </text:span><text:span text:style-name="T71">and look everywhere, but up. <text:s/>He even checked some potted plants too small to conceal her, but the roof would just be too crazy.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T71"><text:tab/>“Horseapples, how did that </text:span><text:span text:style-name="T72">undead abomination</text:span><text:span text:style-name="T71"> disappear.” he fumed and took his frustration out on a small rock. <text:s/>One final check of the alley turned up nothing for him, and he stalked away.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T71"><text:tab/></text:span><text:span text:style-name="T20">I&apos;m </text:span><text:span text:style-name="T21">undead</text:span><text:span text:style-name="T20"> now, </text:span><text:span text:style-name="T71">Wild considered, </text:span><text:span text:style-name="T20">that&apos;s a new one. <text:s/></text:span><text:span text:style-name="T22">Where</text:span><text:span text:style-name="T20"> did he get that idea? <text:s/>Damn, this is going to end up a constant problem isn&apos;t it. </text:span><text:span text:style-name="T71"><text:s/>Not wanting to consider the implication further she changed her hooves back, rolled onto her side, and went to sleep. <text:s/>This would just have to be tomorrows problem.</text:span></text:p>
+   <text:p text:style-name="P8"/>
+   <text:h text:style-name="P21" text:outline-level="1"><text:span text:style-name="T71">C</text:span><text:span text:style-name="T35">hapter 3</text:span></text:h>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T73">A pegasus landed on the roof next to Wild Way with a clatter of hooves. <text:s/>A head with a gray mop of a mane sprang up in response and began looking for the source of the noise. <text:s/>The source turned out to be a bemused Cloud Chaser.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">What are you doing on the roof?” Cloud Chaser asked.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">Sleeping.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">I guessed that part, so why on the roof?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">Some stallion was following all yesterday, so I came up here to lose him. <text:s/>On a related note, do I look undead to you?” <text:s/>Wild Way inquired. <text:s/>She took the time to shift into a sitting position while Cloud Chaser tried to make sense of the question.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">No? <text:s/>Should you look undead?” Cloud Chaser responded. <text:s/>She then gasped, “Are you </text:span><text:soft-page-break/><text:span text:style-name="T74">undead?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">Nope, but that stallion seemed to think so.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T75">Wait back up, you were being stalked. <text:s/>We need to tell the guard. <text:s/>What did he look like?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T75">We do?” Wild questioned, “He didn&apos;t seem very good at it, and I could take him in a fight.” <text:s/>She did a few punches with her forelegs to demonstrate.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T76">You should still tell the guard though.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T76">Alright, I&apos;ll do that first thing.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T77">Good, I&apos;m headed off to work. <text:s/>See you later.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T77">Wild Way watched Cloud Chaser leap into the air and begin flying away. <text:s/></text:span><text:span text:style-name="T23">Huh, they actually can fly with those wings, </text:span><text:span text:style-name="T77">she noted, before looking at the ground below. <text:s/>A small hop and she was headed to the ground level the express way. <text:s/>Cloud, however, had also turned at the same time when she realized that Wild did not have a good way down.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T77">WILD!” Cloud yelled, and tried dive to catch her despite the distance. <text:s/>Wild just landed on the ground her legs absorbing the impact easily making the landing much softer than one would expect.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T78">What.” <text:s/>Wild yelled back in surprise.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T78">You just jumped off a building.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T79">Looking back at the building like it would offer an explanation Wild said, “Yes, it&apos;s only a couple of stories. <text:s/>Not that big a jump.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T79">Cloud gave a snicker and muttered, “Not a big jump she says. <text:s/>Alright this time I&apos;m really going, before you manage to give me a heart attack.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T79">Oh, bye again, sorry for the almost heart attack.” <text:s/>Wild earnestly replied waving at the retreating form of Cloud Chaser. <text:s/>Finding the guard house was easy after her exploration yesterday. <text:s/>Filling a report with the guard was not as successful, but at least they were aware of the issue. <text:s/>That out of the way Wild could start on her goal for the day. <text:s/>Begin learning to read and write the pony language.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T80">The local library was an interesting divergence from the local architecture. <text:s/>It was actually built into a tree large enough to contain a full three story building. <text:s/>Even more impressive, the tree was still alive and had full boughs of leaves covering a large portion of the surrounding grass. <text:s/>Going inside Wild saw that walls and the built in shelves were all composed of living wood. <text:s/>Little carving decorated the main room with a complement of tables spread around the edges of the room. <text:s/>The largest table taking the center of the room had a equine head bust. <text:s/>How the ponies managed to keep the tree alive and avoid have sap covering everything in here eluded Wild Way.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T81">Hello, welcome to the Golden Oak Library. <text:s/>I&apos;m Twilight Sparkle the librarian. <text:s/>If you need any help feel free to ask.” <text:s/>a purple coated unicorn mare announced. <text:s text:c="2"/>She had an navy blue mane with </text:span><text:soft-page-break/><text:span text:style-name="T81">a with a pink and purple stripe near the center. <text:s/>She also had straight cut bangs that could make a ruler jealous.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T82">Oh, well that&apos;s good, I was actually hoping that you could help me. <text:s/>You see I don&apos;t actually know how to read or write for that matter.” <text:s/>Wild confessed with a foreleg behind her head, “I&apos;m Wild Way, by the way.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T83">You don&apos;t know how to read.” Twilight gasped before darting off to collect a variety of books. <text:s/>By the time she was done there were over a dozen volumes floating by her head in a purple glow. <text:s/>Judging by the picture on the top books and the vibrant colors they were most likely books for young foals. <text:s/>“Here just start with the top book. <text:s/>It must be terrible not being able to read.” <text:s/>Twilight explained.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T83">Oh, don&apos;t worry with the amount of time I spent just fending for my life not being able to read wasn&apos;t too detrimental.” <text:s/>Wild reassured and took the pile of books from Twilight balancing them on her hoof. <text:s/>Twilight though just stood there trying to get her mind back on track after that factoid.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T83">Setting up and little study nest at one of the tables Wild Way began working her way through the material. <text:s/>Fortunately, the Blacklight virus came with good mental improvements as well as the physical ones. <text:s/>In order to contain and process the memories it assimilates from any consumed creature the virus needed a much more organized and resilient structure. <text:s/>A side effect of this is that the infected all have a photographic memory. <text:s/>Combined with their faster ability to process information they had a superb ability to learn.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T84">Wild made full use of this to speed up studying. <text:s/>The result is that by lunch time she had already worked through most of the guides and already she had a grade school reading level. <text:s/>The rest of the books in her stack were more review than anything and could simply be skimmed for new material. <text:s/>Putting the last book back on the stack Wild got up and stretched and looked around for Twilight. <text:s/>Twilight had already gone to get her own lunch, so Wild found herself alone in the main room. <text:s/>Deciding to continue with studying she returned all of the books back to their place and select another to read through.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T85">When Twilight came back into the room she was not surprised to find her guest still reading. <text:s/>More surprising was the fact that Wild was in a different location with a different book, and the previous collection of study material nowhere in sight.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">Excuse me,” Twilight asked, “where did you put the other stack of books?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">I finished those, so I put them away.” <text:s/>Wild answered</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">You put them away.” <text:s/>Twilight parroted. <text:s/>Looking around she found that all of the books were back on the shelves in their correct places. <text:s/>“How did you figure out where to put them?” she wondered.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">That was simple, I just remembered where you got them from and put them back in that spot.” Wild smiled, “I got them all back correctly, right?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T85">Yes, yes you did. <text:s/>If you don&apos;t mind me asking, what book are you reading now?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">I figured that the next thing I needed was vocabulary.” <text:s/>Wild beamed. <text:s/>She turned the book over to show the title was </text:span><text:span text:style-name="T24">The Oxhoof Equestrian Dictionary.</text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T86"><text:tab/>“That is an effective way to increase your vocabulary.” <text:s/>Twilight agreed. <text:s/></text:span><text:span text:style-name="T24">I&apos;m glad to see another pony reading a dictionary. <text:s/>I almost thought I was the only one. <text:s/></text:span><text:span text:style-name="T86">Twilight thought.</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>
