@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2017-10-09T18:43:53.840288439</dc:date><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:editing-duration>P8DT16H49M17S</meta:editing-duration><meta:editing-cycles>129</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="129" meta:word-count="4948" meta:character-count="27410" meta:non-whitespace-character-count="22179"/></office:meta>
+ <office:meta><dc:date>2017-10-11T03:31:51.384708421</dc:date><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:editing-duration>P10DT1H37M9S</meta:editing-duration><meta:editing-cycles>141</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="12" meta:paragraph-count="144" meta:word-count="5419" meta:character-count="30054" meta:non-whitespace-character-count="24334"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">133350</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">137372</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">48024</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">24555</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19493</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">147438</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">32251</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">148022</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">133350</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">137372</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">48022</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">157903</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">161925</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -81,7 +81,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">11168613</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">11357432</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -407,190 +407,199 @@
    <style:text-properties fo:font-style="italic" officeooo:rsid="00aa6b65" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties officeooo:rsid="0037675f"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00ad4cf8" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="00384ba2"/>
+   <style:text-properties officeooo:rsid="0037675f"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties officeooo:rsid="003c00cd"/>
+   <style:text-properties officeooo:rsid="00384ba2"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties officeooo:rsid="003d05fc"/>
+   <style:text-properties officeooo:rsid="003c00cd"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties officeooo:rsid="003d8c3f"/>
+   <style:text-properties officeooo:rsid="003d05fc"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="00410fcf"/>
+   <style:text-properties officeooo:rsid="003d8c3f"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="0041584c"/>
+   <style:text-properties officeooo:rsid="00410fcf"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="004340c0"/>
+   <style:text-properties officeooo:rsid="0041584c"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="0046a94a"/>
+   <style:text-properties officeooo:rsid="004340c0"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="00532723"/>
+   <style:text-properties officeooo:rsid="0046a94a"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="00532723"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00532723" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00566113" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00532723" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00583a2e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00566113" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00588610" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00583a2e" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="005a208b" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00588610" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="005b6a76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005a208b" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="005cb4c1" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005b6a76" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="005e644f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005cb4c1" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="006006cd" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005e644f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0061feac" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006006cd" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00621bd1" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0061feac" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0062b49c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00621bd1" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0062be04" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0062b49c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0063769a" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0062be04" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0063ca13" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0063769a" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00651151" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0063ca13" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00651485" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00651151" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00652276" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00651485" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0065dd48" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00652276" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00672a8d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0065dd48" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00675a0f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00672a8d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0068cd69" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00675a0f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="006a557f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0068cd69" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="006db7ad" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006a557f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="006e0fc9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006db7ad" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="006f71b6" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006e0fc9" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0070b282" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006f71b6" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00722e32" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0070b282" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0073b86a" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00722e32" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0074563f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0073b86a" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0076cb10" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0074563f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0077c56c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0076cb10" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0078104f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0077c56c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="007a1cff" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0078104f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="007bf081" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007a1cff" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="007c8fd6" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007bf081" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="007f414d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007c8fd6" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties officeooo:rsid="0085a4c3"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007f414d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties officeooo:rsid="0086168e"/>
+   <style:text-properties officeooo:rsid="0085a4c3"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties officeooo:rsid="00864684"/>
+   <style:text-properties officeooo:rsid="0086168e"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties officeooo:rsid="00876dc2"/>
+   <style:text-properties officeooo:rsid="00864684"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties officeooo:rsid="00887056"/>
+   <style:text-properties officeooo:rsid="00876dc2"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties officeooo:rsid="008b61b8"/>
+   <style:text-properties officeooo:rsid="00887056"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties officeooo:rsid="008e55ce"/>
+   <style:text-properties officeooo:rsid="008b61b8"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties officeooo:rsid="0096238c"/>
+   <style:text-properties officeooo:rsid="008e55ce"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties officeooo:rsid="00990675"/>
+   <style:text-properties officeooo:rsid="0096238c"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties officeooo:rsid="00a31452"/>
+   <style:text-properties officeooo:rsid="00990675"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
-   <style:text-properties officeooo:rsid="00a43afd"/>
+   <style:text-properties officeooo:rsid="00a31452"/>
   </style:style>
   <style:style style:name="T84" style:family="text">
-   <style:text-properties officeooo:rsid="00a693f3"/>
+   <style:text-properties officeooo:rsid="00a43afd"/>
   </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties officeooo:rsid="00aa60b3"/>
+   <style:text-properties officeooo:rsid="00a693f3"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
+   <style:text-properties officeooo:rsid="00aa60b3"/>
+  </style:style>
+  <style:style style:name="T87" style:family="text">
    <style:text-properties officeooo:rsid="00aa6b65"/>
+  </style:style>
+  <style:style style:name="T88" style:family="text">
+   <style:text-properties officeooo:rsid="00ac6ccc"/>
+  </style:style>
+  <style:style style:name="T89" style:family="text">
+   <style:text-properties officeooo:rsid="00ad4cf8"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
@@ -649,102 +658,117 @@
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">Alright, I&apos;m a tiny horse and I got my stuff, am I missing anything?” Audrey wondered before realizing that she did not have a local name. <text:s/>Her name would not translate into anything pronounceable with the equine language. <text:s/>Fortunately, she could glean from the wildlife memories she had that the ponies typically went with a pair of words for their name. <text:s/>An odd trend, but an easy one to follow.</text:span></text:p>
    <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T11">Wild Way sounds good enough.” she said testing out the new name and language for this </text:span><text:soft-page-break/><text:span text:style-name="T11">world, “I&apos;m Wild Way the Earth pony, setting out on a pony adventure to learn pony stuff.” <text:s/>Putting actions to words, Wild Way, nee Audrey, trotted off in the direction of the town.</text:span></text:p>
    <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T12">Emerging from the tree line, Wild Way continued into the town as if nothing was out of the ordinary. <text:s/>Humans let you get away with all kinds of things if you act like its supposed to be that way, maybe ponies are the same. <text:s/>Making her way into the town proper she had her answer. <text:s/>Barely a a hundred meters into the town and the stares started. <text:s/>They were not acting aggressive or frightened, but having every pair of eyes on her as she walked and they just stared. <text:s/></text:span><text:span text:style-name="T14">A bioweapon capable of level cities,</text:span><text:span text:style-name="T12"> she thought, </text:span><text:span text:style-name="T14">and I&apos;m intimidated by pastel color ponies, in a pastel color</text:span><text:span text:style-name="T15">ed pony</text:span><text:span text:style-name="T14"> town. <text:s/>How </text:span><text:span text:style-name="T15">has</text:span><text:span text:style-name="T14"> my life </text:span><text:span text:style-name="T15">become </text:span><text:span text:style-name="T14">this absurd.</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T25">Mustering her courage, she stopped in the middle of the road and inquired, “Is there a reason all of you are staring?”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T26">Most of the ponies immediately looked away and went back to what they were doing. <text:s/>Now irritated at being ignored Wild Way choose a pony at random and marched over. <text:s/>A pegasus mare with a <text:s/>lilac coat, light teal mane, and large bow on her head. <text:s/>Seeing that the mare was looking around like she wanted to bolt away, Wild Way softened her expression. <text:s/>The mare calmed in response a little, but her eyes were still shifting looking for a way out.</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">Look, I just want to know whats wrong.” Wild said</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">Um, well its just that...” The mare said before trailing off</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">Its just what?” </text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T27">You don&apos;t have a cutie mark.”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">What&apos;s a cutie mark?”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">You don&apos;t know what a cutie mark is?” the mare asked, as open mouthed incredulity replaced fear.</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T29">Um, no.”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T30">Its the mark on our flanks that represents our special talents.” <text:s/>She turned to show her cutie mark, a trio of dragonflies.</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T30">OK, and how would I get one of these cutie marks?”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T30">You really don&apos;t know? <text:s/>But, how is that possible.”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T31">I haven&apos;t had the most stable life.” <text:s/>Wild responded. <text:s/>To try getting the conversation back on track and away from her history, she repeated, “Again, how do you get a cutie mark?”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T31">Oh, right. <text:s/>They just appear when you discover your special talent, but what do you mean? <text:s/>What kind of life have you had?”</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T32">Well, my home was invaded by monsters. <text:s/>My parents died trying to protect me, and I had to survive on my own. <text:s/>I don&apos;t know how long I was there, but for better or worse some stranger brought </text:span><text:soft-page-break/><text:span text:style-name="T32">me here.” <text:s/>Wild confessed. <text:s/>She dearly hoped being that forth coming would be worth the risk.</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T33">Oh, thats so horrible.” the mare breathed as tears gathered in her eyes.</text:span></text:p>
-   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T34">I&apos;ve made peace with it a long time ago.” Wild attempted to soothe, the mare began crying in earnest. <text:s/></text:span><text:span text:style-name="T16">Have I really become that jaded, </text:span><text:span text:style-name="T36">Wild worried after seeing the reaction of a complete stranger to hearing about her life, </text:span><text:span text:style-name="T16">God, I&apos;ve lost so much I&apos;m not even sure what&apos;s </text:span><text:span text:style-name="T17">left</text:span><text:span text:style-name="T16">.</text:span><text:span text:style-name="T36"> <text:s/>The two mares </text:span><text:span text:style-name="T37">found </text:span><text:span text:style-name="T36">now in a hug with neither knowing who started it. <text:s/></text:span><text:span text:style-name="T38">They stayed that way until Wild felt a hoof poke her side.</text:span></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T38"><text:tab/></text:span><text:span text:style-name="T39">Before she could ask what the mare was doing, said mare asked, “You&apos;re so thin, when was the last time you had a good meal?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T26">Mustering her courage, she stopped in the middle of the road and inquired, “Is there a reason all of you are staring?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T27">Most of the ponies immediately looked away and went back to what they were doing. <text:s/>Now irritated at being ignored Wild Way choose a pony at random and marched over. <text:s/>A pegasus mare with a <text:s/>lilac coat, light teal mane, and large bow on her head. <text:s/>Seeing that the mare was looking around like she wanted to bolt away, Wild Way softened her expression. <text:s/>The mare calmed in response a little, but her eyes were still shifting looking for a way out.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">Look, I just want to know whats wrong.” Wild said</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">Um, well its just that...” The mare said before trailing off</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">Its just what?” </text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T28">You don&apos;t have a cutie mark.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T29">What&apos;s a cutie mark?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T29">You don&apos;t know what a cutie mark is?” the mare asked, as open mouthed incredulity replaced fear.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T30">Um, no.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T31">Its the mark on our flanks that represents our special talents.” <text:s/>She turned to show her cutie mark, a trio of dragonflies.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T31">OK, and how would I get one of these cutie marks?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T31">You really don&apos;t know? <text:s/>But, how is that possible.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T32">I haven&apos;t had the most stable life.” <text:s/>Wild responded. <text:s/>To try getting the conversation back on track and away from her history, she repeated, “Again, how do you get a cutie mark?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T32">Oh, right. <text:s/>They just appear when you discover your special talent, but what do you mean? <text:s/>What kind of life have you had?”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T33">Well, my home was invaded by monsters. <text:s/>My parents died trying to protect me, and I had to survive on my own. <text:s/>I don&apos;t know how long I was there, but for better or worse some stranger brought </text:span><text:soft-page-break/><text:span text:style-name="T33">me here.” <text:s/>Wild confessed. <text:s/>She dearly hoped being that forth coming would be worth the risk.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T34">Oh, thats so horrible.” the mare breathed as tears gathered in her eyes.</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T35">I&apos;ve made peace with it a long time ago.” Wild attempted to soothe, the mare began crying in earnest. <text:s/></text:span><text:span text:style-name="T16">Have I really become that jaded, </text:span><text:span text:style-name="T37">Wild worried after seeing the reaction of a complete stranger to hearing about her life, </text:span><text:span text:style-name="T16">God, I&apos;ve lost so much I&apos;m not even sure what&apos;s </text:span><text:span text:style-name="T17">left</text:span><text:span text:style-name="T16">.</text:span><text:span text:style-name="T37"> <text:s/>The two mares </text:span><text:span text:style-name="T38">found </text:span><text:span text:style-name="T37">now in a hug with neither knowing who started it. <text:s/></text:span><text:span text:style-name="T39">They stayed that way until Wild felt a hoof poke her side.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T39"><text:tab/></text:span><text:span text:style-name="T40">Before she could ask what the mare was doing, said mare asked, “You&apos;re so thin, when was the last time you had a good meal?”</text:span></text:p>
    <text:p text:style-name="P9"><text:tab/>“Yesterday.”</text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T39"><text:tab/>“But, its almost noon already. <text:s/>You need to </text:span><text:span text:style-name="T40">get some food.” the pegasus stated before turning to walk away. <text:s/>When she saw that Wild Way was not following she turned and questioned, “Well aren&apos;t you coming.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T40"><text:tab/>“But, its almost noon already. <text:s/>You need to </text:span><text:span text:style-name="T41">get some food.” the pegasus stated before turning to walk away. <text:s/>When she saw that Wild Way was not following she turned and questioned, “Well aren&apos;t you coming.”</text:span></text:p>
    <text:p text:style-name="P10"><text:tab/>“Where are we going?” Wild asked as she began moving.</text:p>
    <text:p text:style-name="P10"><text:tab/>“To get lunch of course.”</text:p>
    <text:p text:style-name="P10"><text:tab/>“But, I don&apos;t have any money.”</text:p>
    <text:p text:style-name="P10"><text:tab/>“Then I will buy it.”</text:p>
    <text:p text:style-name="P10"><text:tab/>“You don&apos;t have to do this, I can take care of myself.”</text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T40"><text:tab/>“</text:span><text:span text:style-name="T41">Clearly not.”</text:span></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T41"><text:tab/>Wild Way sputtered at that and </text:span><text:span text:style-name="T42">gave in with, “I don&apos;t even know your name.” <text:s/>That at last got the other mare to pause with a slight blush.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T41"><text:tab/>“</text:span><text:span text:style-name="T42">Clearly not.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T42"><text:tab/>Wild Way sputtered at that and </text:span><text:span text:style-name="T43">gave in with, “I don&apos;t even know your name.” <text:s/>That at last got the other mare to pause with a slight blush.</text:span></text:p>
    <text:p text:style-name="P11"><text:tab/>“I&apos;m Flitter.”</text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T42"><text:tab/>“</text:span><text:span text:style-name="T43">Nice to meet you. I&apos;m </text:span><text:span text:style-name="T42">Wild Way.”</text:span></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T44">The two made there way to one of the local restaurants. <text:s/>Along the way Wild was observing the local ponies. <text:s/>Many still watched her, but most of them went back to what they were doing quickly. <text:s/>Plenty of comments wondering about the lack of a cutie mark. <text:s/>One of the houses they passed by had a mare talking about a creature that sneaked into her house at night.</text:span></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T44"><text:tab/></text:span><text:span text:style-name="T18">Guess I&apos;ve become the talk of the town practically overnight, </text:span><text:span text:style-name="T44">Wild noted, </text:span><text:span text:style-name="T18">at least they are just curious, I can work with that. <text:s/></text:span><text:span text:style-name="T44">She also noted a pony following them trying to remain hidden, but that did little against Wild&apos;s echolocation. <text:s/></text:span><text:span text:style-name="T19">Huh, I&apos;ve already picked up a stalker, not a very good one if he&apos;s acting that obvious about it, </text:span><text:span text:style-name="T45">Wild analyzed </text:span><text:span text:style-name="T46">before deciding to keep track of the pony. <text:s/>It should be amusing if nothing else.</text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T46"><text:tab/></text:span><text:span text:style-name="T47">The pair got an outdoor table at Cafe Hay when they arrived. <text:s/></text:span><text:span text:style-name="T48">The cafe had the same timbered </text:span><text:soft-page-break/><text:span text:style-name="T48">architecture of most of the town. <text:s/>The outdoor tables had piles of hay to sit on with a vase of flowers in the middle of the table as an appetizer.</text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T48"><text:tab/></text:span><text:span text:style-name="T47">Before the waiter even asked for their orders another mare showed up at the table. <text:s/>She had the same colors as Flitter though without the bow. <text:s/></text:span><text:span text:style-name="T48">Her mane </text:span><text:span text:style-name="T49">had white highlights and a wilder style than Flitter.</text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T49"><text:tab/>“</text:span><text:span text:style-name="T50">Hey Flitter, who&apos;s your friend.” the new mare asked, before sitting at the table too.</text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T50"><text:tab/>“</text:span><text:span text:style-name="T51">Cloud Chaser, t</text:span><text:span text:style-name="T50">his is Wild Way. <text:s/>This is my </text:span><text:span text:style-name="T52">nosy</text:span><text:span text:style-name="T51"> </text:span><text:span text:style-name="T50">sister, Cloud Chaser.”</text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T50"><text:tab/>“</text:span><text:span text:style-name="T53">Hello”</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T43"><text:tab/>“</text:span><text:span text:style-name="T44">Nice to meet you. I&apos;m </text:span><text:span text:style-name="T43">Wild Way.”</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T43"><text:tab/></text:span><text:span text:style-name="T45">The two made there way to one of the local restaurants. <text:s/>Along the way Wild was observing the local ponies. <text:s/>Many still watched her, but most of them went back to what they were doing quickly. <text:s/>Plenty of comments wondering about the lack of a cutie mark. <text:s/>One of the houses they passed by had a mare talking about a creature that sneaked into her house at night.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T45"><text:tab/></text:span><text:span text:style-name="T18">Guess I&apos;ve become the talk of the town practically overnight, </text:span><text:span text:style-name="T45">Wild noted, </text:span><text:span text:style-name="T18">at least they are just curious, I can work with that. <text:s/></text:span><text:span text:style-name="T45">She also noted a pony following them trying to remain hidden, but that did little against Wild&apos;s echolocation. <text:s/></text:span><text:span text:style-name="T19">Huh, I&apos;ve already picked up a stalker, not a very good one if he&apos;s acting that obvious about it, </text:span><text:span text:style-name="T46">Wild analyzed </text:span><text:span text:style-name="T47">before deciding to keep track of the pony. <text:s/>It should be amusing if nothing else.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T47"><text:tab/></text:span><text:span text:style-name="T48">The pair got an outdoor table at Cafe Hay when they arrived. <text:s/></text:span><text:span text:style-name="T49">The cafe had the same timbered </text:span><text:soft-page-break/><text:span text:style-name="T49">architecture of most of the town. <text:s/>The outdoor tables had piles of hay to sit on with a vase of flowers in the middle of the table as an appetizer.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T49"><text:tab/></text:span><text:span text:style-name="T48">Before the waiter even asked for their orders another mare showed up at the table. <text:s/>She had the same colors as Flitter though without the bow. <text:s/></text:span><text:span text:style-name="T49">Her mane </text:span><text:span text:style-name="T50">had white highlights and a wilder style than Flitter.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T50"><text:tab/>“</text:span><text:span text:style-name="T51">Hey Flitter, who&apos;s your friend.” the new mare asked, before sitting at the table too.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T51"><text:tab/>“</text:span><text:span text:style-name="T52">Cloud Chaser, t</text:span><text:span text:style-name="T51">his is Wild Way. <text:s/>This is my </text:span><text:span text:style-name="T53">nosy</text:span><text:span text:style-name="T52"> </text:span><text:span text:style-name="T51">sister, Cloud Chaser.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T51"><text:tab/>“</text:span><text:span text:style-name="T54">Hello”</text:span></text:p>
    <text:p text:style-name="P12"><text:tab/>“Hi. <text:s/>Are you new to Ponyville, I don&apos;t think I&apos;ve seen you around before?”</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T53"><text:tab/>“</text:span><text:span text:style-name="T54">Yes, I just wandered in today.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T54"><text:tab/>“</text:span><text:span text:style-name="T55">Yes, I just wandered in today.”</text:span></text:p>
    <text:p text:style-name="P13"><text:tab/>“You wandered in. <text:s/>So then you must be the mare that everyone is talking about.”</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T54"><text:tab/>Cloud Chaser </text:span><text:span text:style-name="T61">leaned</text:span><text:span text:style-name="T54"> over to get a look at Wild&apos;s Flank before saying, “Wow, you really don&apos;t have a cutie mark.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T54"><text:tab/>“Cloud Chaser! <text:s/></text:span><text:span text:style-name="T55">I&apos;m sorry Wild Way, usually she&apos;s better behaved than this.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T55"><text:tab/>Cloud Chaser </text:span><text:span text:style-name="T62">leaned</text:span><text:span text:style-name="T55"> over to get a look at Wild&apos;s Flank before saying, “Wow, you really don&apos;t have a cutie mark.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T55"><text:tab/>“Cloud Chaser! <text:s/></text:span><text:span text:style-name="T56">I&apos;m sorry Wild Way, usually she&apos;s better behaved than this.”</text:span></text:p>
    <text:p text:style-name="P14"><text:tab/>Wild just chuckled, “Its not a big deal. <text:s/>Although sounds like I&apos;m gaining an interesting reputation.”</text:p>
    <text:p text:style-name="P14"><text:tab/>Before the conversation could continue the waiter returned and asked for their order simply taking the presence of a third mare in stride.</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T55"><text:tab/>“</text:span><text:span text:style-name="T56">I&apos;ll have just have a daisy sandwich.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T56"><text:tab/>“</text:span><text:span text:style-name="T57">I&apos;ll have just have a daisy sandwich.”</text:span></text:p>
    <text:p text:style-name="P15"><text:tab/>Wild picked up her menu. <text:s/>Wild then put the menu down after realizing that she could not read any of it.</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T56"><text:tab/>“</text:span><text:span text:style-name="T57">I&apos;ll just have the same.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T57"><text:tab/>“</text:span><text:span text:style-name="T58">I want a chocolate milkshake.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T58"><text:tab/></text:span><text:span text:style-name="T59">The waiter went back inside after collecting the menus. <text:s/>Cloud Chaser turned to Wild and asked, “If you weren&apos;t going to read the menu, why </text:span><text:span text:style-name="T60">pick it up?”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T57"><text:tab/>“</text:span><text:span text:style-name="T58">I&apos;ll just have the same.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T58"><text:tab/>“</text:span><text:span text:style-name="T59">I want a chocolate milkshake.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T59"><text:tab/></text:span><text:span text:style-name="T60">The waiter went back inside after collecting the menus. <text:s/>Cloud Chaser turned to Wild and asked, “If you weren&apos;t going to read the menu, why </text:span><text:span text:style-name="T61">pick it up?”</text:span></text:p>
    <text:p text:style-name="P16"><text:tab/>“Well I was going to read it, but then I remembered that I can&apos;t actually read.”</text:p>
    <text:p text:style-name="P16"><text:tab/>The other two mares just stared at that for a while. <text:s/>Wild Way just sat there awkwardly once she thought about how that last sentence sounded.</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T60"><text:tab/>“How are you so detached about this?” <text:s/></text:span><text:span text:style-name="T61">Flitter inquired.</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T61"><text:tab/>“How are you so detached about this?” <text:s/></text:span><text:span text:style-name="T62">Flitter inquired.</text:span></text:p>
    <text:p text:style-name="P16"><text:tab/>“Its an easy problem to fix, I just never had the opportunity before to learn to read.”</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T60"><text:tab/></text:span><text:span text:style-name="T62">Cloud Chaser just started laughing at that.</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T61"><text:tab/></text:span><text:span text:style-name="T63">Cloud Chaser just started laughing at that.</text:span></text:p>
    <text:p text:style-name="P17"><text:soft-page-break/><text:tab/>“Cloud! <text:s/>Quit being insensitive.”</text:p>
    <text:p text:style-name="P17"><text:tab/>“Lighten up, Flitter, she&apos;s fine with it.”</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T35"><text:tab/>Wild just shrugged and agreed, “It&apos;s not a big deal. <text:s/>Now I actually have the opportunity to learn.” <text:s/></text:span><text:span text:style-name="T63">Flitter&apos;s response was to the drop her head on the table. <text:s/></text:span><text:span text:style-name="T64">The waiter returned with their orders and the meal continued without any more surprise depressing facts. <text:s/>Afterward the three of them said their goodbyes and went their </text:span><text:span text:style-name="T65">separate</text:span><text:span text:style-name="T64"> ways.</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T64"><text:tab/>W</text:span><text:span text:style-name="T35">ild decided to just wander around the town and get the lay of the land. <text:s/>Keeping a smile on her face she waved to and greeted every pony she could. <text:s/>Some of them even waved back, though many just gave a small return greeting before hurrying away. <text:s/></text:span><text:span text:style-name="T66">Along the way she made a note of the location of the important buildings like the library, and town hall. <text:s/>There were also a few truly odd buildings like the ginger bread themed bakery, </text:span><text:span text:style-name="T69">and some kind of carousel building</text:span><text:span text:style-name="T66">. <text:s/>Throughout all of this the pony stalking Wild earlier was </text:span><text:span text:style-name="T67">still following</text:span><text:span text:style-name="T66"> </text:span><text:span text:style-name="T68">on her tail</text:span><text:span text:style-name="T67">.</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T67"><text:tab/></text:span><text:span text:style-name="T70">Taking a turn between two buildings, Wild jumped into the air and changed her hooves to soft paws. <text:s/>Landing quietly on the roof he looked over the edge waiting for her stalker. <text:s/>Sure enough he came around the corner </text:span><text:span text:style-name="T71">and look everywhere, but up. <text:s/>He even checked some potted plants too small to conceal her, but the roof would just be too crazy.</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T71"><text:tab/>“Horseapples, how did that </text:span><text:span text:style-name="T72">undead abomination</text:span><text:span text:style-name="T71"> disappear.” he fumed and took his frustration out on a small rock. <text:s/>One final check of the alley turned up nothing for him, and he stalked away.</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T71"><text:tab/></text:span><text:span text:style-name="T20">I&apos;m </text:span><text:span text:style-name="T21">undead</text:span><text:span text:style-name="T20"> now, </text:span><text:span text:style-name="T71">Wild considered, </text:span><text:span text:style-name="T20">that&apos;s a new one. <text:s/></text:span><text:span text:style-name="T22">Where</text:span><text:span text:style-name="T20"> did he get that idea? <text:s/>Damn, this is going to end up a constant problem isn&apos;t it. </text:span><text:span text:style-name="T71"><text:s/>Not wanting to consider the implication further she changed her hooves back, rolled onto her side, and went to sleep. <text:s/>This would just have to be tomorrows problem.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T36"><text:tab/>Wild just shrugged and agreed, “It&apos;s not a big deal. <text:s/>Now I actually have the opportunity to learn.” <text:s/></text:span><text:span text:style-name="T64">Flitter&apos;s response was to the drop her head on the table. <text:s/></text:span><text:span text:style-name="T65">The waiter returned with their orders and the meal continued without any more surprise depressing facts. <text:s/>Afterward the three of them said their goodbyes and went their </text:span><text:span text:style-name="T66">separate</text:span><text:span text:style-name="T65"> ways.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T65"><text:tab/>W</text:span><text:span text:style-name="T36">ild decided to just wander around the town and get the lay of the land. <text:s/>Keeping a smile on her face she waved to and greeted every pony she could. <text:s/>Some of them even waved back, though many just gave a small return greeting before hurrying away. <text:s/></text:span><text:span text:style-name="T67">Along the way she made a note of the location of the important buildings like the library, and town hall. <text:s/>There were also a few truly odd buildings like the ginger bread themed bakery, </text:span><text:span text:style-name="T70">and some kind of carousel building</text:span><text:span text:style-name="T67">. <text:s/>Throughout all of this the pony stalking Wild earlier was </text:span><text:span text:style-name="T68">still following</text:span><text:span text:style-name="T67"> </text:span><text:span text:style-name="T69">on her tail</text:span><text:span text:style-name="T68">.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T68"><text:tab/></text:span><text:span text:style-name="T71">Taking a turn between two buildings, Wild jumped into the air and changed her hooves to soft paws. <text:s/>Landing quietly on the roof he looked over the edge waiting for her stalker. <text:s/>Sure enough he came around the corner </text:span><text:span text:style-name="T72">and look everywhere, but up. <text:s/>He even checked some potted plants too small to conceal her, but the roof would just be too crazy.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T72"><text:tab/>“Horseapples, how did that </text:span><text:span text:style-name="T73">undead abomination</text:span><text:span text:style-name="T72"> disappear.” he fumed and took his frustration out on a small rock. <text:s/>One final check of the alley turned up nothing for him, and he stalked away.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T72"><text:tab/></text:span><text:span text:style-name="T20">I&apos;m </text:span><text:span text:style-name="T21">undead</text:span><text:span text:style-name="T20"> now, </text:span><text:span text:style-name="T72">Wild considered, </text:span><text:span text:style-name="T20">that&apos;s a new one. <text:s/></text:span><text:span text:style-name="T22">Where</text:span><text:span text:style-name="T20"> did he get that idea? <text:s/>Damn, this is going to end up a constant problem isn&apos;t it. </text:span><text:span text:style-name="T72"><text:s/>Not wanting to consider the implication further she changed her hooves back, rolled onto her side, and went to sleep. <text:s/>This would just have to be tomorrows problem.</text:span></text:p>
    <text:p text:style-name="P8"/>
-   <text:h text:style-name="P21" text:outline-level="1"><text:span text:style-name="T71">C</text:span><text:span text:style-name="T35">hapter 3</text:span></text:h>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T73">A pegasus landed on the roof next to Wild Way with a clatter of hooves. <text:s/>A head with a gray mop of a mane sprang up in response and began looking for the source of the noise. <text:s/>The source turned out to be a bemused Cloud Chaser.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">What are you doing on the roof?” Cloud Chaser asked.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">Sleeping.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">I guessed that part, so why on the roof?”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T73">Some stallion was following all yesterday, so I came up here to lose him. <text:s/>On a related note, do I look undead to you?” <text:s/>Wild Way inquired. <text:s/>She took the time to shift into a sitting position while Cloud Chaser tried to make sense of the question.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">No? <text:s/>Should you look undead?” Cloud Chaser responded. <text:s/>She then gasped, “Are you </text:span><text:soft-page-break/><text:span text:style-name="T74">undead?”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">Nope, but that stallion seemed to think so.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T75">Wait back up, you were being stalked. <text:s/>We need to tell the guard. <text:s/>What did he look like?”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T75">We do?” Wild questioned, “He didn&apos;t seem very good at it, and I could take him in a fight.” <text:s/>She did a few punches with her forelegs to demonstrate.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T76">You should still tell the guard though.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T76">Alright, I&apos;ll do that first thing.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T77">Good, I&apos;m headed off to work. <text:s/>See you later.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T77">Wild Way watched Cloud Chaser leap into the air and begin flying away. <text:s/></text:span><text:span text:style-name="T23">Huh, they actually can fly with those wings, </text:span><text:span text:style-name="T77">she noted, before looking at the ground below. <text:s/>A small hop and she was headed to the ground level the express way. <text:s/>Cloud, however, had also turned at the same time when she realized that Wild did not have a good way down.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T77">WILD!” Cloud yelled, and tried dive to catch her despite the distance. <text:s/>Wild just landed on the ground her legs absorbing the impact easily making the landing much softer than one would expect.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T78">What.” <text:s/>Wild yelled back in surprise.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T78">You just jumped off a building.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T79">Looking back at the building like it would offer an explanation Wild said, “Yes, it&apos;s only a couple of stories. <text:s/>Not that big a jump.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T79">Cloud gave a snicker and muttered, “Not a big jump she says. <text:s/>Alright this time I&apos;m really going, before you manage to give me a heart attack.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T79">Oh, bye again, sorry for the almost heart attack.” <text:s/>Wild earnestly replied waving at the retreating form of Cloud Chaser. <text:s/>Finding the guard house was easy after her exploration yesterday. <text:s/>Filling a report with the guard was not as successful, but at least they were aware of the issue. <text:s/>That out of the way Wild could start on her goal for the day. <text:s/>Begin learning to read and write the pony language.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T80">The local library was an interesting divergence from the local architecture. <text:s/>It was actually built into a tree large enough to contain a full three story building. <text:s/>Even more impressive, the tree was still alive and had full boughs of leaves covering a large portion of the surrounding grass. <text:s/>Going inside Wild saw that walls and the built in shelves were all composed of living wood. <text:s/>Little carving decorated the main room with a complement of tables spread around the edges of the room. <text:s/>The largest table taking the center of the room had a equine head bust. <text:s/>How the ponies managed to keep the tree alive and avoid have sap covering everything in here eluded Wild Way.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T81">Hello, welcome to the Golden Oak Library. <text:s/>I&apos;m Twilight Sparkle the librarian. <text:s/>If you need any help feel free to ask.” <text:s/>a purple coated unicorn mare announced. <text:s text:c="2"/>She had an navy blue mane with </text:span><text:soft-page-break/><text:span text:style-name="T81">a with a pink and purple stripe near the center. <text:s/>She also had straight cut bangs that could make a ruler jealous.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T82">Oh, well that&apos;s good, I was actually hoping that you could help me. <text:s/>You see I don&apos;t actually know how to read or write for that matter.” <text:s/>Wild confessed with a foreleg behind her head, “I&apos;m Wild Way, by the way.”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T83">You don&apos;t know how to read.” Twilight gasped before darting off to collect a variety of books. <text:s/>By the time she was done there were over a dozen volumes floating by her head in a purple glow. <text:s/>Judging by the picture on the top books and the vibrant colors they were most likely books for young foals. <text:s/>“Here just start with the top book. <text:s/>It must be terrible not being able to read.” <text:s/>Twilight explained.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T83">Oh, don&apos;t worry with the amount of time I spent just fending for my life not being able to read wasn&apos;t too detrimental.” <text:s/>Wild reassured and took the pile of books from Twilight balancing them on her hoof. <text:s/>Twilight though just stood there trying to get her mind back on track after that factoid.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T83">Setting up and little study nest at one of the tables Wild Way began working her way through the material. <text:s/>Fortunately, the Blacklight virus came with good mental improvements as well as the physical ones. <text:s/>In order to contain and process the memories it assimilates from any consumed creature the virus needed a much more organized and resilient structure. <text:s/>A side effect of this is that the infected all have a photographic memory. <text:s/>Combined with their faster ability to process information they had a superb ability to learn.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T84">Wild made full use of this to speed up studying. <text:s/>The result is that by lunch time she had already worked through most of the guides and already she had a grade school reading level. <text:s/>The rest of the books in her stack were more review than anything and could simply be skimmed for new material. <text:s/>Putting the last book back on the stack Wild got up and stretched and looked around for Twilight. <text:s/>Twilight had already gone to get her own lunch, so Wild found herself alone in the main room. <text:s/>Deciding to continue with studying she returned all of the books back to their place and select another to read through.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T85">When Twilight came back into the room she was not surprised to find her guest still reading. <text:s/>More surprising was the fact that Wild was in a different location with a different book, and the previous collection of study material nowhere in sight.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">Excuse me,” Twilight asked, “where did you put the other stack of books?”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">I finished those, so I put them away.” <text:s/>Wild answered</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">You put them away.” <text:s/>Twilight parroted. <text:s/>Looking around she found that all of the books were back on the shelves in their correct places. <text:s/>“How did you figure out where to put them?” she wondered.</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">That was simple, I just remembered where you got them from and put them back in that spot.” Wild smiled, “I got them all back correctly, right?”</text:span></text:p>
-   <text:p text:style-name="P20"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T85">Yes, yes you did. <text:s/>If you don&apos;t mind me asking, what book are you reading now?”</text:span></text:p>
-   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T85">I figured that the next thing I needed was vocabulary.” <text:s/>Wild beamed. <text:s/>She turned the book over to show the title was </text:span><text:span text:style-name="T24">The Oxhoof Equestrian Dictionary.</text:span></text:p>
-   <text:p text:style-name="P20"><text:span text:style-name="T86"><text:tab/>“That is an effective way to increase your vocabulary.” <text:s/>Twilight agreed. <text:s/></text:span><text:span text:style-name="T24">I&apos;m glad to see another pony reading a dictionary. <text:s/>I almost thought I was the only one. <text:s/></text:span><text:span text:style-name="T86">Twilight thought.</text:span></text:p>
+   <text:h text:style-name="P21" text:outline-level="1"><text:span text:style-name="T72">C</text:span><text:span text:style-name="T36">hapter 3</text:span></text:h>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T74">A pegasus landed on the roof next to Wild Way with a clatter of hooves. <text:s/>A head with a gray mop of a mane sprang up in response and began looking for the source of the noise. <text:s/>The source turned out to be a bemused Cloud Chaser.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">What are you doing on the roof?” Cloud Chaser asked.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">Sleeping.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">I guessed that part, so why on the roof?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T74">Some stallion was following all yesterday, so I came up here to lose him. <text:s/>On a related note, do I look undead to you?” <text:s/>Wild Way inquired. <text:s/>She took the time to shift into a sitting position while Cloud Chaser tried to make sense of the question.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T75">No? <text:s/>Should you look undead?” Cloud Chaser responded. <text:s/>She then gasped, “Are you </text:span><text:soft-page-break/><text:span text:style-name="T75">undead?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T75">Nope, but that stallion seemed to think so.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T76">Wait back up, you were being stalked. <text:s/>We need to tell the guard. <text:s/>What did he look like?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T76">We do?” Wild questioned, “He didn&apos;t seem very good at it, and I could take him in a fight.” <text:s/>She did a few punches with her forelegs to demonstrate.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T77">You should still tell the guard though.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T77">Alright, I&apos;ll do that first thing.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T78">Good, I&apos;m headed off to work. <text:s/>See you later.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T78">Wild Way watched Cloud Chaser leap into the air and begin flying away. <text:s/></text:span><text:span text:style-name="T23">Huh, they actually can fly with those wings, </text:span><text:span text:style-name="T78">she noted, before looking at the ground below. <text:s/>A small hop and she was headed to the ground level the express way. <text:s/>Cloud, however, had also turned at the same time when she realized that Wild did not have a good way down.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T78">WILD!” Cloud yelled, and tried dive to catch her despite the distance. <text:s/>Wild just landed on the ground her legs absorbing the impact easily making the landing much softer than one would expect.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T79">What.” <text:s/>Wild yelled back in surprise.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T79">You just jumped off a building.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T80">Looking back at the building like it would offer an explanation Wild said, “Yes, it&apos;s only a couple of stories. <text:s/>Not that big a jump.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T80">Cloud gave a snicker and muttered, “Not a big jump she says. <text:s/>Alright this time I&apos;m really going, before you manage to give me a heart attack.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T80">Oh, bye again, sorry for the almost heart attack.” <text:s/>Wild earnestly replied waving at the retreating form of Cloud Chaser. <text:s/>Finding the guard house was easy after her exploration yesterday. <text:s/>Filling a report with the guard was not as successful, but at least they were aware of the issue. <text:s/>That out of the way Wild could start on her goal for the day. <text:s/>Begin learning to read and write the pony language.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T81">The local library was an interesting divergence from the local architecture. <text:s/>It was actually built into a tree large enough to contain a full three story building. <text:s/>Even more impressive, the tree was still alive and had full boughs of leaves covering a large portion of the surrounding grass. <text:s/>Going inside Wild saw that walls and the built in shelves were all composed of living wood. <text:s/>Little carving decorated the main room with a complement of tables spread around the edges of the room. <text:s/>The largest table taking the center of the room had a equine head bust. <text:s/>How the ponies managed to keep the tree alive and avoid have sap covering everything in here eluded Wild Way.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T82">Hello, welcome to the Golden Oak Library. <text:s/>I&apos;m Twilight Sparkle the librarian. <text:s/>If you need any help feel free to ask.” <text:s/>a purple coated unicorn mare announced. <text:s text:c="2"/>She had an navy blue mane with </text:span><text:soft-page-break/><text:span text:style-name="T82">a with a pink and purple stripe near the center. <text:s/>She also had straight cut bangs that could make a ruler jealous.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">Well thats good, my name&apos;s Wild Way and I just wandered into town. I was actually hoping to find someone that could help me. <text:s/>You see I don&apos;t actually know how to read or write for that matter.” <text:s/>Wild confessed with a foreleg behind her head, “I&apos;m Wild Way, by the way.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T84">You don&apos;t know how to read.” Twilight gasped before darting off to collect a variety of books. <text:s/>By the time she was done there were over a dozen volumes floating by her head in a purple glow. <text:s/>Judging by the picture on the top books and the vibrant colors they were most likely books for young foals. <text:s/>“Here just start with the top book. <text:s/>It must be terrible not being able to read.” <text:s/>Twilight explained.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T84">Oh, don&apos;t worry with the amount of time I spent just fending for my life not being able to read wasn&apos;t too detrimental.” <text:s/>Wild reassured and took the pile of books from Twilight balancing them on her hoof. <text:s/>Twilight though just stood there trying to get her mind back on track after that factoid.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T84">Setting up and little study nest at one of the tables Wild Way began working her way through the material. <text:s/>Fortunately, the Blacklight virus came with good mental improvements as well as the physical ones. <text:s/>In order to contain and process the memories it assimilates from any consumed creature the virus needed a much more organized and resilient structure. <text:s/>A side effect of this is that the infected all have a photographic memory. <text:s/>Combined with their faster ability to process information they had a superb ability to learn.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T85">Wild made full use of this to speed up studying. <text:s/>The result is that by lunch time she had already worked through most of the guides and already she had a grade school reading level. <text:s/>The rest of the books in her stack were more review than anything and could simply be skimmed for new material. <text:s/>Putting the last book back on the stack Wild got up and stretched and looked around for Twilight. <text:s/>Twilight had already gone to get her own lunch, so Wild found herself alone in the main room. <text:s/>Deciding to continue with studying she returned all of the books back to their place and select another to read through.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T86">When Twilight came back into the room she was not surprised to find her guest still reading. <text:s/>More surprising was the fact that Wild was in a different location with a different book, and the previous collection of study material nowhere in sight.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T86">Excuse me,” Twilight asked, “where did you put the other stack of books?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T86">I finished those, so I put them away.” <text:s/>Wild answered</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T86">You put them away.” <text:s/>Twilight parroted. <text:s/>Looking around she found that all of the books were back on the shelves in their correct places. <text:s/>“How did you figure out where to put them?” she wondered.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T86">That was simple, I just remembered where you got them from and put them back in that spot.” Wild smiled, “I got them all back correctly, right?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T86">Yes, yes you did. <text:s/>If you don&apos;t mind me asking, what book are you reading now?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T86">I figured that the next thing I needed was vocabulary.” <text:s/>Wild beamed. <text:s/>She turned the book over to show the title was </text:span><text:span text:style-name="T24">The Oxhoof Equestrian Dictionary.</text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T87"><text:tab/>“That is an effective way to increase your vocabulary.” <text:s/>Twilight agreed. <text:s/></text:span><text:span text:style-name="T24">I&apos;m glad to see another pony reading a dictionary. <text:s/>I almost thought I was the only one, </text:span><text:span text:style-name="T87">Twilight thought. <text:s/>Both ponies settled down to return to their respective books. <text:s/>The reading pair did not last long as the door was slammed open drawing their attention as a pink pony talked in. <text:s/>This pony had a pink curly mane and tail, and pink coat. <text:s/>She was the kind of pink that only exists in nature to show a creature is far more dangerous that it seems.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">Twilight, there&apos;s a new pony in town and I can&apos;t find her. <text:s/>She must be playing hide and seek.” <text:s/>the Pink announced.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T88">Instead of Twilight, Wild responded, “Why are you looking for this pony?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">To throw her a surprise welcome party, of course.” <text:s/>All three ponies just stopped at that. <text:s/>Wild was trying to figure out this new pony, Twilight was waiting for the new pony to figure out who she was talking to, and the Pink pony was busy being pink.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">Oh hey, you&apos;re a new pony aren&apos;t you. <text:s/>I&apos;m Pinkie Pie, or just Pinkie, the welcoming committee.” the aptly named pony realized. <text:s/>Twilight just had her face in her hoof.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">Hello Pinkie, I&apos;m Wild Way.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T88">Pinkie just sat there in front of Wild staring at her. <text:s/>Slowly she leaned closer until the two ponies were almost touching snouts before popping back to her original position. <text:s/>During this Wild had simply frozen, her instincts telling her that she id not want to attract any more attention than necessary from the strange mare.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">Hmm, that&apos;s why it took so long to find you.” Pinkie muttered, “You&apos;re a something or other. Must be G&apos;s handy work.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">What are you talking about.” Wild hazarded.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">Don&apos;t worry, you will do fine. <text:s/>Also, don&apos;t be late.” Pinkie added before bouncing out through the door.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">What just happened?” Wild asked Twilight.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">You met Pinkie. <text:s/>She a nice pony, just a little ...enthusiastic. <text:s/>Also, you have something sticking out of your bag.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T88">Sure enough when she looked, Wild saw that a colorful envelope was sticking out of her saddle bag. <text:s/>Taking it in her hoof she opened it releasing a blast of confetti, and removed the card inside. <text:s/>The was an invitation for her &apos;Welcome to Ponyville&apos; party at Sugarcube Corner happening this evening. <text:s/>In the habit of not leaving any evidence of her presence behind Wild went to pick up the confetti that had popped out only to find nothing.</text:span></text:p>
+   <text:p text:style-name="P20"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T88">Well, I think I&apos;m just going to go for a walk around town before the party.” Wild said bemused by the recent events.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T88">Alright, see you tonight.” replied Twilight.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T89">Putting away the dictionary and leaving the library, Wild picked a random direction and started walking. <text:s/></text:span><text:span text:style-name="T25">There is no way that was a regular earth pony, </text:span><text:span text:style-name="T89">Wild thought as she meandered around, </text:span><text:span text:style-name="T25">just what the hell did I just experience?</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
