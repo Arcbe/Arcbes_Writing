@@ -1,111 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-10-20T22:46:39.485949888</meta:creation-date><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><dc:date>2018-08-20T17:15:54.121822580</dc:date><meta:editing-duration>P61DT10H51M44S</meta:editing-duration><meta:editing-cycles>556</meta:editing-cycles><dc:creator>Russell </dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="128" meta:word-count="2893" meta:character-count="16450" meta:non-whitespace-character-count="13627"/></office:meta>
+ <office:meta><meta:creation-date>2017-10-20T22:46:39.485949888</meta:creation-date><meta:generator>LibreOffice/6.0.3.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2018-09-12T21:11:05.784950993</dc:date><meta:editing-duration>P67DT8H13M</meta:editing-duration><meta:editing-cycles>560</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="138" meta:word-count="2918" meta:character-count="16607" meta:non-whitespace-character-count="13764"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">78355</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">67</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">45221</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19988</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">43249</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21096</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">5327</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">92899</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14780</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">10869</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">78355</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">45219</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">98342</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">67</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">43247</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21161</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintFaxName" config:type="string"/>
-   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">938764</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
    <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">2480421</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">938764</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2499951</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -125,7 +133,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -142,17 +150,17 @@
   </style:default-style>
   <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Droid Sans Fallback" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="120%"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
   </style:style>
   <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
@@ -160,60 +168,60 @@
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
   </style:style>
   <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
-   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0.3937in" fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0.3937in" fo:margin-top="0in" fo:margin-bottom="0.1965in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
   </style:style>
   <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none"/>
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none"/>
    <style:text-properties fo:font-size="150%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="600"/>
   </style:style>
   <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto"/>
+   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto"/>
    <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="600"/>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
-   <style:paragraph-properties fo:margin-left="0.3in" fo:margin-right="0in" fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:shadow="none">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+   <style:paragraph-properties fo:margin-left="0.3in" fo:margin-right="0in" fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:shadow="none">
     <style:tab-stops/>
-    <style:background-image/>
    </style:paragraph-properties>
    <style:text-properties fo:text-transform="capitalize" style:text-line-through-style="none" style:text-line-through-type="none" fo:font-size="12pt" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#000000" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="600"/>
   </style:style>
   <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" style:page-number="auto" fo:background-color="transparent" style:shadow="none">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" style:page-number="auto" fo:background-color="transparent" style:shadow="none">
     <style:tab-stops/>
-    <style:background-image/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" fo:font-size="85%" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="95%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="95%" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0417in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="85%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="80%" fo:font-weight="bold" style:font-size-asian="80%" style:font-weight-asian="bold" style:font-size-complex="80%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_8" style:display-name="Heading 8" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="8" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="80%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="80%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="80%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_9" style:display-name="Heading 9" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="9" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_10" style:display-name="Heading 10" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="10" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
@@ -402,169 +410,184 @@
   <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0024a7fc"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000e530c"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000e530c" officeooo:paragraph-rsid="000e530c"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000e8a53" officeooo:paragraph-rsid="000e8a53"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0013a963" officeooo:paragraph-rsid="0013a963"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0015f1ea" officeooo:paragraph-rsid="0015f1ea"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0015f1ea"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001e9855" officeooo:paragraph-rsid="001e9855"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00229ac7" officeooo:paragraph-rsid="00229ac7"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00229ac7" officeooo:paragraph-rsid="00229ac7"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0024a7fc" officeooo:paragraph-rsid="0024a7fc"/>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="001e9855"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0025d925"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000e530c"/>
   </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000e530c" officeooo:paragraph-rsid="000e530c"/>
   </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000e8a53" officeooo:paragraph-rsid="000e8a53"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0013a963" officeooo:paragraph-rsid="0013a963"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
   </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
   </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
   </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0015f1ea" officeooo:paragraph-rsid="0015f1ea"/>
   </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0015f1ea"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="001e9855" officeooo:paragraph-rsid="001e9855"/>
   </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0025d925"/>
   </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="00229ac7" officeooo:paragraph-rsid="00229ac7"/>
   </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0026256f" officeooo:paragraph-rsid="0026256f"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0015f1ea" officeooo:paragraph-rsid="0015f1ea"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001e9855" officeooo:paragraph-rsid="001e9855"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0026256f" officeooo:paragraph-rsid="0026256f"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00229ac7" officeooo:paragraph-rsid="00229ac7"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -628,7 +651,7 @@
    <style:text-properties officeooo:rsid="0025d925"/>
   </style:style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
@@ -646,9 +669,17 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P63">Athena cannot enter dream realm normally since her soul is quasi-physical. She can follow a dream walker though and return to her own mind from anywhere.</text:p>
-   <text:p text:style-name="P63"/>
-   <text:p text:style-name="P63">Spontaneous musicals caused by excess order magic in Equestria.</text:p>
+   <text:p text:style-name="P34">Athena cannot enter dream realm normally since her soul is quasi-physical. She can follow a dream walker though and return to her own mind from anywhere.</text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34">Spontaneous musicals caused by excess order magic in Equestria.</text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P68">Gluttony – Athena</text:p>
+   <text:p text:style-name="P68">Sloth – Attini</text:p>
+   <text:p text:style-name="P68">Pride – Fleur-de-lis (Siren?)</text:p>
+   <text:p text:style-name="P68">Lust – Lilith (Succubus)</text:p>
+   <text:p text:style-name="P68">Wrath – Bon Bon</text:p>
+   <text:p text:style-name="P68">Envy - ???</text:p>
+   <text:p text:style-name="P68">Greed - ???</text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Characters</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Audrey Anderson</text:h>
@@ -658,16 +689,16 @@
    <text:p text:style-name="P25"><text:span text:style-name="T18">~</text:span>20</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P9">Blacklight <text:span text:style-name="T6">Viral Strain &apos;Athena&apos;</text:span></text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P21"><text:tab/><text:span text:style-name="T18">As a virus her default state is an amorphous biomass composed of tendrils. She can also turn into a fluid state with a consistency ranging from thin syrup to tar like at will.</text:span></text:p>
-   <text:h text:style-name="P60" text:outline-level="4">Human</text:h>
+   <text:h text:style-name="P66" text:outline-level="4">Human</text:h>
    <text:p text:style-name="P31"><text:tab/><text:span text:style-name="T18">When she appears as a human she has long brown hair, and green eyes. Her height and clothing are dependent on the situation but she uses a default of jeans and solid green shirt with a height of about 5&apos;4&apos;&apos;.</text:span></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Personality</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Personality</text:h>
    <text:p text:style-name="P31"><text:tab/><text:span text:style-name="T18">She is typically pretty passive and when she decides to act tries to do so out of sight. She enjoys learning and new experiences. While friendly she tends to be somewhat oblivious about finer nuances such as peoples aversion to more morbid topics.</text:span></text:p>
    <text:p text:style-name="P30"><text:tab/>She has little to no fighting skills but between her strategic mindset and shear strength can more than hold her own. Regardless she would rather stay on the sideline and provide support than join the fray. Pragmatism is strong trait of hers and she will try to end a fight as fast as possible with lethal force.</text:p>
-   <text:p text:style-name="P32"><text:tab/><text:span text:style-name="T19">Her time spent in the care of Gentech drastically changed every part of her. On the positive side </text:span><text:soft-page-break/><text:span text:style-name="T19">she gain a wealth of biological knowledge and desire to learn more about her situation and what she can do as a virus. On the other hand she ended up with list of neurosis:</text:span></text:p>
-   <text:p text:style-name="P62">- Pyrophobia</text:p>
-   <text:p text:style-name="P62">- Fear of losing autonomy (Mind control, locked in a cage, etc.)</text:p>
+   <text:p text:style-name="P32"><text:tab/><text:span text:style-name="T19">Her time spent in the care of Gentech drastically changed every part of her. On the positive side she gain a wealth of biological knowledge and desire to learn more about her situation and what she can do as a virus. On the other hand she ended up with list of neurosis:</text:span></text:p>
+   <text:p text:style-name="P33">- Pyrophobia</text:p>
+   <text:p text:style-name="P33">- Fear of losing autonomy (Mind control, locked in a cage, etc.)</text:p>
    <text:p text:style-name="P32">- <text:span text:style-name="T19">lack of personal boundaries</text:span></text:p>
    <text:p text:style-name="P32">- <text:span text:style-name="T19">lack of taboos (Killing, Cannibalism, etc.)</text:span></text:p>
    <text:p text:style-name="P32">- <text:span text:style-name="T19">Truthfulness to the point of being brutal</text:span></text:p>
@@ -676,38 +707,38 @@
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Background</text:h>
    <text:p text:style-name="Text_20_body"><text:tab/>Audrey was one of the citizen caught on Manhattan island when the Blacklight virus was released. <text:span text:style-name="T8">She managed to evade the infection for a few days, but was infected along with her parents on the fourth day.</text:span> <text:span text:style-name="T8">Like Mercer she woke up with control of the infection, but she retained her memories as she was not killed by the infection and not before. H</text:span>er parents were <text:span text:style-name="T8">also </text:span>reanimated at the same time <text:span text:style-name="T8">as the standard infected and dismembered their daughter before leaving</text:span>. <text:span text:style-name="T8">She figure out how to pull herself back together after they left, but still had no way to suppress the pain.</text:span> <text:span text:style-name="T8">She tried to hide among the uninfected population but was quickly outed by one of the viral sensors.</text:span></text:p>
    <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T8">She was imprisoned at a secret Gentek facility below Los Alamost and used for research and experiments. Fire was used gratuitously as a means of punishment and containment including biomass reduction to keep her weak. One area of experimentation was mind control since normal humans could not withstand the repeated mental stress. Particularly they wanted the ability to apply compulsions to people for interrogations and other stuff.</text:span></text:p>
-   <text:p text:style-name="P17"><text:tab/>Before they could perform the experiments they need a compliant subject. In order to break her will starting with physical pain using intense flames. When that failed, they moved onto using live prisoners to feed her. The first time she tried to starve herself, but only discover that she loses control of the virus . That was the only time she allowed that to happen and afterward tried to kill them as painlessly as possible before consuming the body. The scientist had to escalate at that point and made sure that the &apos;food&apos; was informed of their fate before being put in the cage. Once she became numb to that, they moved on to their final attempt to finally tip her over the edge. They had found Audrey&apos;s friends from before the outbreak and captured the surviving ones. All of the girls were forced into the same cage with no indication of what was going to happen while the researchers simply waited. After that she became near catatonic simple flopping on the floor when she was not following some command.</text:p>
-   <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T8">During this time she experimented with her abilities in order to refine her control of the Blacklight virus. She developed the ability to remove her own virus from cells as well as a way to </text:span><text:soft-page-break/><text:span text:style-name="T8">precision target organs in the body and even disguise as a cloned part of her targets body. As well she developed ways to miniaturize sensory organs and refined her hearing in an attempt to extend her senses beyond her cell. The key ability to her escape was being able to split herself into multiple bodies. Using her new skills she created a dust mite sized body and managed to leave the cell through an air duct with it. Once out she infected the body of the first person she found and set up a beachhead. She spread through contact taking care to avoid letting any of the virus enter the air to avoid detection. Once the rate of infection stopped she infected and took control of the furthest body from herself.</text:span></text:p>
+   <text:p text:style-name="P17"><text:tab/>Before they could perform the experiments they need a compliant subject. In order to break her will starting with physical pain using intense flames. When that failed, they moved onto using live prisoners to feed her. The first time she tried to starve herself, but only discover that she loses control of the virus . That was the only time she allowed that to happen and afterward tried to kill them as painlessly as possible before consuming the body. The scientist had to escalate at that point and made sure that the &apos;food&apos; was informed of their fate before being put in the cage. Once she became numb to that, they moved on to their final attempt to finally tip her over the edge. They had found Audrey&apos;s <text:soft-page-break/>friends from before the outbreak and captured the surviving ones. All of the girls were forced into the same cage with no indication of what was going to happen while the researchers simply waited. After that she became near catatonic simple flopping on the floor when she was not following some command.</text:p>
+   <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T8">During this time she experimented with her abilities in order to refine her control of the Blacklight virus. She developed the ability to remove her own virus from cells as well as a way to precision target organs in the body and even disguise as a cloned part of her targets body. As well she developed ways to miniaturize sensory organs and refined her hearing in an attempt to extend her senses beyond her cell. The key ability to her escape was being able to split herself into multiple bodies. Using her new skills she created a dust mite sized body and managed to leave the cell through an air duct with it. Once out she infected the body of the first person she found and set up a beachhead. She spread through contact taking care to avoid letting any of the virus enter the air to avoid detection. Once the rate of infection stopped she infected and took control of the furthest body from herself.</text:span></text:p>
    <text:p text:style-name="P17"><text:tab/>She ended up on the outskirts of Los Alamos as a partially formed copy of herself struggling to get out of the city. Her mind was in turmoil until a quick response unit arrived to recapture her. This new threat galvanized her and her demeanor changed. She switched to a resigned expression and collapsed to the ground as the soldiers approached. Instead of surrendering she had let her virus run wild and in a desire for &apos;them to rot in hell&apos;. Unfortunately, that resulted in the virus repaidly decomposing the everyone in the entire town. The resulting methane cloud ignited causing an explosion that rivaled a nuclear bomb.</text:p>
    <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T11">Being on the edge of the explosion she was tossed into the mountainside and completely dissolved into a puddle of liquid biomass. She was also connected to every body in the town and subjected to pain beyond anything she had felt before. That and the massive amount of information gained from consuming 12k people caused her to spend an unknown amount of time as a stained patch of dirt. By the end of it she had experienced between 300-400 thousand years of memories, but managed to use them to repair her sanity. Seeing humanity from every angle like that diluted the effect of Blackwatch and give her an appreciation for everything they overcame. She was still severely damaged mentally, but could at least function and set out to return to Manhattan.</text:span></text:p>
    <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T11">She cannot navigate worth a damn and was picked up in California by Gaea 6 months later.</text:span></text:p>
-   <text:h text:style-name="P52" text:outline-level="2">Citrine</text:h>
-   <text:h text:style-name="P44" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P57" text:outline-level="2">Citrine</text:h>
+   <text:h text:style-name="P48" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P16">327</text:p>
-   <text:h text:style-name="P45" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P49" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P16"><text:span text:style-name="T9">Female </text:span>Changeling (Pink)</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P18"><text:tab/><text:span text:style-name="T8">Her natural form is a generic pink changeling. Dark gray chitin, pink crest and tail. Her eyes area a solid pink.</text:span></text:p>
-   <text:p text:style-name="P18"><text:tab/><text:span text:style-name="T8">As a pony she takes the form of a orange unicorn with a teal mane and tail. Her cutie mark is a partially cut citrine.</text:span></text:p>
-   <text:h text:style-name="P45" text:outline-level="3"><text:soft-page-break/>Background</text:h>
+   <text:p text:style-name="P18"><text:soft-page-break/><text:tab/><text:span text:style-name="T8">As a pony she takes the form of a orange unicorn with a teal mane and tail. Her cutie mark is a partially cut citrine.</text:span></text:p>
+   <text:h text:style-name="P49" text:outline-level="3">Background</text:h>
    <text:p text:style-name="P18"><text:tab/><text:span text:style-name="T8">She was chosen to be an advisor and aid to the future Queen Formica. The two of them were introduced at an early age and grew up together. When the hive was invaded she was the only one to escape with the then Princess Formica. Since then she has been living with her Queen first in Canterlot, then Ponyville. She works as an aid at the Rose Garden and has switched identities once dring this time allowing her to appear much younger than her boss.</text:span></text:p>
-   <text:h text:style-name="P58" text:outline-level="2">Spark Gap</text:h>
-   <text:h text:style-name="P47" text:outline-level="3">Alias</text:h>
+   <text:h text:style-name="P63" text:outline-level="2">Spark Gap</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Alias</text:h>
    <text:p text:style-name="P25">Akemi</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P25">2<text:span text:style-name="T17">64</text:span></text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P25">Kitsune</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P19">She has a sky blue coat but no cutie mark. Her mane and tail are yellow and wind swept.</text:p>
-   <text:h text:style-name="P54" text:outline-level="2">Esoteric Tome</text:h>
-   <text:h text:style-name="P46" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P59" text:outline-level="2">Esoteric Tome</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P25">41</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P19">Male Unicorn</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P19">He has a gray coat and blue mane and tail. He keeps his mane short and combed. His cutie mark is circumscribed hexagram with an open eye in the center.</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Personality</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Personality</text:h>
    <text:p text:style-name="P19">Quiet and curious best describe him. He is perfectly capable of being outgoing, but is more interested in learning and gathering information.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Gaea</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Aliases</text:h>
@@ -716,10 +747,10 @@
    <text:p text:style-name="P9">~4 billion years / 8,000 years conscious</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P9"><text:span text:style-name="T6">Celestial </text:span>Avatar</text:p>
-   <text:h text:style-name="P43" text:outline-level="3">Personality</text:h>
+   <text:h text:style-name="P47" text:outline-level="3">Personality</text:h>
    <text:p text:style-name="P14"><text:tab/><text:span text:style-name="T6">Prefers to remain hands off, but will take action occasionally. She tends to make a single action that is likely to achieve whatever her goal is and watch the events unfold. Making contact with her is an effort in futility. When she does meet with someone she is willing to answer most questions, but will almost always do so in an ambiguous manner.</text:span></text:p>
-   <text:h text:style-name="P51" text:outline-level="2">Formica</text:h>
-   <text:h text:style-name="P48" text:outline-level="3">Titles</text:h>
+   <text:h text:style-name="P56" text:outline-level="2">Formica</text:h>
+   <text:h text:style-name="P52" text:outline-level="3">Titles</text:h>
    <text:p text:style-name="P26">Marchioness of the Everfree, Queen of the Pink hive</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Aliases</text:h>
    <text:p text:style-name="P12">Rose <text:span text:style-name="T17">Quartz</text:span></text:p>
@@ -727,56 +758,58 @@
    <text:p text:style-name="P9"><text:span text:style-name="T17">3</text:span>27</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P9">Changeling <text:span text:style-name="T9">Queen </text:span>(Pink)</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="Text_20_body"><text:tab/>As a changeling queen she has the typical dark gray chitin, diaphanous wings, and twisted horn. <text:s/>She stands just shy of two meters and her mane, tail, and eyes are all pink. <text:s/>Like her pony form she keeps her mane in a simple bun, <text:span text:style-name="T6">but her eyes have slit pupils and mouth a pair of small fangs</text:span>.</text:p>
    <text:p text:style-name="Text_20_body"><text:tab/>As an Earth Pony she is <text:span text:style-name="T6">between the height of her changeling form and an average pony at a h</text:span>eight of 1.5 meters. <text:s/>Her coat is jade green and her mane and tail are both a rosy pink. <text:s/>Her hair is styled in a <text:span text:style-name="T6">simple</text:span> bun and her cutie mark is an open rose bloom. <text:span text:style-name="T6">She also has a few creases on her face, as well as a couple gray hairs belying an old age.</text:span></text:p>
-   <text:h text:style-name="P44" text:outline-level="3"><text:soft-page-break/>Background</text:h>
-   <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T7">While she was a changeling princess her hive was located near Canterlot. The hive was envied by many of the other queens and was eventually invaded successfully. When it was clear that the hive would not survive her mother sent Princess Formica out of the hive through a secret passage to Canterlot. The only other survivor was a servant, Citrine, sent to aid her. The pair spent decades living in Canterlot disconnected from other hives.</text:span></text:p>
+   <text:h text:style-name="P48" text:outline-level="3">Background</text:h>
+   <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T7">While she was a changeling princess her hive was located near Canterlot. The hive was envied </text:span><text:soft-page-break/><text:span text:style-name="T7">by many of the other queens and was eventually invaded successfully. When it was clear that the hive would not survive her mother sent Princess Formica out of the hive through a secret passage to Canterlot. The only other survivor was a servant, Citrine, sent to aid her. The pair spent decades living in Canterlot disconnected from other hives.</text:span></text:p>
    <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T7">Eventually they met Granny Smith and manage to join her when she sets out to found Ponyville. They have been living in Ponyville ever since although Formica has not changed disguises meaning this one is nearing the point of becoming suspicious. She has been running the Rose Garden a children&apos;s home she established once the town had gotten on its feet. Unfortunately it sees more business than a small town normally would due to the Everfree forest.</text:span></text:p>
-   <text:h text:style-name="P54" text:outline-level="2">Ruby</text:h>
-   <text:h text:style-name="P46" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P59" text:outline-level="2">Ruby</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P25"><text:span text:style-name="T16">102</text:span>3</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P25">Poltergeist</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P19">She has a red coat, but no cutie mark. Her mane is blue with a light blue stripe done in a short curly style.</text:p>
-   <text:h text:style-name="P39" text:outline-level="1">Culture</text:h>
-   <text:h text:style-name="P57" text:outline-level="2">Equestrian Ponies</text:h>
+   <text:h text:style-name="P42" text:outline-level="1">Culture</text:h>
+   <text:h text:style-name="P62" text:outline-level="2">Equestrian Ponies</text:h>
    <text:p text:style-name="P26">Their culture is heavily influenced by lingering herding instincts. They are a collectivist society and will almost always go along with the general consensus. They also inherently view social hierarchies as nested herds, i.e. a family is a herd of ponies, a town is a herd of families, and so on.</text:p>
    <text:p text:style-name="P26">Insulting or disagreeing with the leader of a herd is a serious offense and a challenge to their authority. However, complaints and insults to things associated with the leader are not included in this. This difference is subtle and can easily trip up visitors. For example saying the ponies of Canterlot are snobby is fine, but saying Canterlot is snobby would be scandalous.</text:p>
    <text:p text:style-name="P26">Equestria is still partially feudal, but many cities have modernized and transferred titles to the government. Many of the powers of nobility are still present, but so rarely used that titles play little role outside of social standing. </text:p>
-   <text:h text:style-name="P69" text:outline-level="1"><text:soft-page-break/>Factions</text:h>
-   <text:h text:style-name="P75" text:outline-level="2">Equestria</text:h>
-   <text:h text:style-name="P75" text:outline-level="2">Vampire Court</text:h>
-   <text:h text:style-name="P75" text:outline-level="2">Changeling Court</text:h>
-   <text:h text:style-name="P75" text:outline-level="2">Chrysalis</text:h>
-   <text:h text:style-name="P75" text:outline-level="2">Inari</text:h>
-   <text:p text:style-name="P65"/>
-   <text:h text:style-name="P38" text:outline-level="1">Magic</text:h>
+   <text:h text:style-name="P43" text:outline-level="1"><text:soft-page-break/>Factions</text:h>
+   <text:h text:style-name="P64" text:outline-level="2">Equestria</text:h>
+   <text:h text:style-name="P90" text:outline-level="3">Royal Guard</text:h>
+   <text:h text:style-name="P90" text:outline-level="3">Lunar Guard</text:h>
+   <text:h text:style-name="P64" text:outline-level="2">Vampire Court</text:h>
+   <text:h text:style-name="P90" text:outline-level="3">Monster Hunters</text:h>
+   <text:h text:style-name="P64" text:outline-level="2">Changeling Court</text:h>
+   <text:h text:style-name="P64" text:outline-level="2">Chrysalis</text:h>
+   <text:h text:style-name="P79" text:outline-level="2"><text:span text:style-name="T20">Inari</text:span></text:h>
+   <text:h text:style-name="P41" text:outline-level="1">Magic</text:h>
    <text:p text:style-name="P29">Magic is the manipulation of energy through will power. One key component of magic is intent which determines the effect of the magic. Generally intent is conveyed through the soul, a self sustaining magical construct that acts as part or even all of a creatures consciousness. The soul allows a being to interact with magic but it also allows magic to interact with the creature as well. This is critical to the function of all mental magic and most healing magic.</text:p>
    <text:p text:style-name="P29">Mana, the capacity to effect the world, is the second component of magic. Mana is attracted to highly ordered materials such as crystals and will try to fill the available space without any external forces. Large collections of mana have a tendency to produce light either matching the materials color or a color specific to the soul of the creature using the mana.</text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Creatures</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Changeling</text:h>
    <text:p text:style-name="P7"><text:tab/>A race of shape-shifting emotivores. <text:s/>They feed on love primarily though they can sense all emotions. <text:s/>The process of feeding uses love as a catalyst to siphon magic form their target resulting in a proportional amount of fatigue. <text:s/>Physically they are on par with ponies, though their magic is weaker but can work as the magic of any pony race. <text:s/>They also have an affinity for mental and transformation magic including telepathy, mind control, and form lock. <text:s/>Form lock is a passive ability embedded in their biology that prevents any transformation that are not caused by magic from their hive. <text:s/>That includes magical transformation and physical ones such as combustion or other chemical reactions.</text:p>
-   <text:p text:style-name="P7"><text:tab/>Changelings social structure resembles a bee hive, they will have a population of workers with a single queen leading each hive. <text:s/>The main divergence is that they will also have infiltrators associated with the hive that live among pony society to collect love for the rest. <text:s/>How the infiltrators are placed <text:soft-page-break/>and how long they stay varies from hive to hive. <text:s/>There are rarely any dedicated defenders for a hive as they prefer stealth to confrontation. <text:s/>The queen and workers act as defenders when needed.</text:p>
-   <text:h text:style-name="P40" text:outline-level="3">Deer</text:h>
-   <text:h text:style-name="P41" text:outline-level="3">Demon</text:h>
+   <text:p text:style-name="P7"><text:tab/>Changelings social structure resembles a bee hive, they will have a population of workers with a single queen leading each hive. <text:s/>The main divergence is that they will also have infiltrators associated <text:soft-page-break/>with the hive that live among pony society to collect love for the rest. <text:s/>How the infiltrators are placed and how long they stay varies from hive to hive. <text:s/>There are rarely any dedicated defenders for a hive as they prefer stealth to confrontation. <text:s/>The queen and workers act as defenders when needed.</text:p>
+   <text:h text:style-name="P44" text:outline-level="3">Deer</text:h>
+   <text:h text:style-name="P45" text:outline-level="3">Demon</text:h>
    <text:p text:style-name="P22"><text:tab/><text:span text:style-name="T9">Not a well defined type <text:s/>of creature, but more of a miscellaneous category for &apos;bad&apos; aliens. The defining feature of a demon is that it is not native to Equis and is characterized by one of the 7 vices (Pride, Wrath, Envy, Gluttony, Lust, Greed, and Sloth). All examples of demons have lacked a soul like those native to Equis so that is considered equivalent to being non-native. </text:span></text:p>
    <text:p text:style-name="P20"><text:tab/>It has also been assumed that <text:s/>all demons come from Tartarus, or at least a similar environment. Nobody has nor wants to check so this assumption is unlikely to change despite being incorrect. Another assumption is that each class of demon has a leader which is true for Tartarian demons.</text:p>
-   <text:h text:style-name="P49" text:outline-level="3">Kitsune</text:h>
+   <text:h text:style-name="P53" text:outline-level="3">Kitsune</text:h>
    <text:p text:style-name="P28"><text:tab/><text:span text:style-name="T14">A fox spirit rarely found outside of forests. They have an affinity for fire and can use faerie fire to cast sorceries they have an affinity for. They often have a second affinity, usually either wind or lightning. These spirits are formed from normal foxes that live in magically rich areas. While they are ageless, few actually ascend and fewer still make it past the first few decades.</text:span></text:p>
    <text:p text:style-name="P28"><text:tab/><text:span text:style-name="T15">As they age they accrue more and more magical power until they finally become a being of pure magic. Each century they also gain a new tail from this power, up to a maximum of 9.</text:span></text:p>
-   <text:h text:style-name="P85" text:outline-level="3"><text:span text:style-name="T20">Mageripper</text:span></text:h>
-   <text:p text:style-name="P65"><text:tab/><text:span text:style-name="T20">They travel in large swarms and are attracted to concentration of magic. They can consume meat but prefer raw magic particularly from spirits. They have no eyes instead relying on their ability to sense magic for navigation and hunting. The only known predator for them are changelings since their chitin hides them from the senses of a mageripper as well as providing a resistance to their bite. They appear as small balls of fur with a mouth full of sharp teeth and four spider like legs. There are two tentacles that extend from their top containing their magic sensing organs.</text:span></text:p>
-   <text:h text:style-name="P40" text:outline-level="3">Pony</text:h>
-   <text:h text:style-name="P59" text:outline-level="4">Biology</text:h>
+   <text:h text:style-name="P89" text:outline-level="3">Mageripper</text:h>
+   <text:p text:style-name="P35"><text:tab/><text:span text:style-name="T20">They travel in large swarms and are attracted to concentration of magic. They can consume meat but prefer raw magic particularly from spirits. They have no eyes instead relying on their ability to sense magic for navigation and hunting. The only known predator for them are changelings since their chitin hides them from the senses of a mageripper as well as providing a resistance to their bite. They appear as small balls of fur with a mouth full of sharp teeth and four spider like legs. There are two tentacles that extend from their top containing their magic sensing organs.</text:span></text:p>
+   <text:h text:style-name="P44" text:outline-level="3">Pony</text:h>
+   <text:h text:style-name="P65" text:outline-level="4">Biology</text:h>
    <text:p text:style-name="P8">For the most part they are a typical equinoid. The main differences are the bright colors and their strong magical abilities. <text:span text:style-name="T5">Half of there mental abilities are handled by a none physical construct termed a soul. <text:s/>This allows them to apply intent to magic and controls their more supernatural abilities. </text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T5">The colors of a pony are determined by their magic, and will fade to gray should their reserves deplete.</text:span> <text:span text:style-name="T5">The fat cells in a pony are specialized for the creation magic potential and can use it as an extra storage of energy. This also makes them resistant to gaining weight as well as allowing for high sugar intake. <text:s/>This energy is distributed by a pony&apos;s bones which contain a large amount of corundum giving them a </text:span><text:soft-page-break/><text:span text:style-name="T5">stronger partially crystalline skeleton.</text:span></text:p>
-   <text:p text:style-name="P11">The have senses on par with humans although smell is better developed. In addition they can sense the general magic level in an area.</text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T5">The colors of a pony are determined by their magic, and will fade to gray should their reserves deplete.</text:span> <text:span text:style-name="T5">The fat cells in a pony are specialized for the creation magic potential and can use it as an extra storage of energy. This also makes them resistant to gaining weight as well as allowing for high sugar intake. <text:s/>This energy is distributed by a pony&apos;s bones which contain a large amount of corundum giving them a stronger partially crystalline skeleton.</text:span></text:p>
+   <text:p text:style-name="P11"><text:soft-page-break/>The have senses on par with humans although smell is better developed. In addition they can sense the general magic level in an area.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Roc</text:h>
    <text:p text:style-name="Text_20_body"><text:tab/><text:span text:style-name="T4">A giant wild raptor. <text:s/>They resemble an eagle about 12 meters in length with an enormous wing span often reaching 50 meters. <text:s/>They primarily hunt large mammals and fish, but will eat anything if an opportunity arises. <text:s/>They kill their prey by swooping down, carrying them into the sky, and dropping them from a great height.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:tab/><text:span text:style-name="T4">They are ageless, and often live for centuries as no predator targets them. <text:s/>Fights over territory are the most common cause of death for them. <text:s/>Since they mate for life they are almost always found in mating pairs. <text:s/>They will find another mate if the previous one dies. <text:s/>Their nests are located on the ground due to sheer size. <text:s/>They use full trees to make their nest making them to nest in or near forested areas.</text:span></text:p>
-   <text:h text:style-name="P37" text:outline-level="1">Events</text:h>
+   <text:h text:style-name="P40" text:outline-level="1">Events</text:h>
   </office:text>
  </office:body>
 </office:document>
