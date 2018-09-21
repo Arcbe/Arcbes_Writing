@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-10-20T22:46:39.485949888</meta:creation-date><meta:generator>LibreOffice/6.0.3.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2018-09-12T21:11:05.784950993</dc:date><meta:editing-duration>P67DT8H13M</meta:editing-duration><meta:editing-cycles>560</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="138" meta:word-count="2918" meta:character-count="16607" meta:non-whitespace-character-count="13764"/></office:meta>
+ <office:meta><meta:creation-date>2017-10-20T22:46:39.485949888</meta:creation-date><meta:generator>LibreOffice/6.0.3.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2018-09-20T12:34:27.667038194</dc:date><meta:editing-duration>P69DT7H24M53S</meta:editing-duration><meta:editing-cycles>561</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="138" meta:word-count="2918" meta:character-count="16618" meta:non-whitespace-character-count="13774"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">67</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">43249</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21096</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">14780</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">10869</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">17073</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">10086</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">67</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">43247</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21161</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21094</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2499951</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2576921</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -419,175 +419,178 @@
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0025d925"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000e530c"/>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0026256f" officeooo:paragraph-rsid="0026256f"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000e530c" officeooo:paragraph-rsid="000e530c"/>
+   <style:text-properties officeooo:rsid="000e530c"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000e8a53" officeooo:paragraph-rsid="000e8a53"/>
+   <style:text-properties officeooo:rsid="000e530c" officeooo:paragraph-rsid="000e530c"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0013a963" officeooo:paragraph-rsid="0013a963"/>
+   <style:text-properties officeooo:rsid="000e8a53" officeooo:paragraph-rsid="000e8a53"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+   <style:text-properties officeooo:rsid="0013a963" officeooo:paragraph-rsid="0013a963"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0015f1ea" officeooo:paragraph-rsid="0015f1ea"/>
+   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
   </style:style>
   <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0015f1ea"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001e9855" officeooo:paragraph-rsid="001e9855"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00229ac7" officeooo:paragraph-rsid="00229ac7"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0026256f" officeooo:paragraph-rsid="0026256f"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
-  </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0025d925"/>
-  </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
-  </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
-  </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
-  </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
-  </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
-  </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
-  </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
-  </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0015f1ea" officeooo:paragraph-rsid="0015f1ea"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0015f1ea"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="001e9855" officeooo:paragraph-rsid="001e9855"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
   </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0026256f" officeooo:paragraph-rsid="0026256f"/>
   </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="00229ac7" officeooo:paragraph-rsid="00229ac7"/>
   </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0017f51e" officeooo:paragraph-rsid="0017f51e"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001b5692" officeooo:paragraph-rsid="001b5692"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0026256f" officeooo:paragraph-rsid="0026256f"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0015f1ea" officeooo:paragraph-rsid="0015f1ea"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001e9855" officeooo:paragraph-rsid="001e9855"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0017812f" officeooo:paragraph-rsid="0017812f"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00213a2f" officeooo:paragraph-rsid="00213a2f"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0019b7a5" officeooo:paragraph-rsid="0019b7a5"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0016bf0e" officeooo:paragraph-rsid="0016bf0e"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001cf9a1" officeooo:paragraph-rsid="001cf9a1"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0025d925" officeooo:paragraph-rsid="0025d925"/>
+  </style:style>
   <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00229ac7" officeooo:paragraph-rsid="00229ac7"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="00143df0" officeooo:paragraph-rsid="00143df0"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -650,6 +653,9 @@
   <style:style style:name="T20" style:family="text">
    <style:text-properties officeooo:rsid="0025d925"/>
   </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="00275219"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -673,13 +679,13 @@
    <text:p text:style-name="P34"/>
    <text:p text:style-name="P34">Spontaneous musicals caused by excess order magic in Equestria.</text:p>
    <text:p text:style-name="P34"/>
-   <text:p text:style-name="P68">Gluttony – Athena</text:p>
-   <text:p text:style-name="P68">Sloth – Attini</text:p>
-   <text:p text:style-name="P68">Pride – Fleur-de-lis (Siren?)</text:p>
-   <text:p text:style-name="P68">Lust – Lilith (Succubus)</text:p>
-   <text:p text:style-name="P68">Wrath – Bon Bon</text:p>
-   <text:p text:style-name="P68">Envy - ???</text:p>
-   <text:p text:style-name="P68">Greed - ???</text:p>
+   <text:p text:style-name="P36">Gluttony – Athena</text:p>
+   <text:p text:style-name="P36">Sloth – Attini</text:p>
+   <text:p text:style-name="P36">Pride – Fleur-de-lis (Siren?)</text:p>
+   <text:p text:style-name="P36">Lust – Lilith (Succubus)</text:p>
+   <text:p text:style-name="P36">Wrath – Bon Bon</text:p>
+   <text:p text:style-name="P36">Envy – <text:span text:style-name="T21">Nightmare Moon</text:span></text:p>
+   <text:p text:style-name="P36">Greed - ???</text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Characters</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Audrey Anderson</text:h>
@@ -689,9 +695,9 @@
    <text:p text:style-name="P25"><text:span text:style-name="T18">~</text:span>20</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P9">Blacklight <text:span text:style-name="T6">Viral Strain &apos;Athena&apos;</text:span></text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P21"><text:tab/><text:span text:style-name="T18">As a virus her default state is an amorphous biomass composed of tendrils. She can also turn into a fluid state with a consistency ranging from thin syrup to tar like at will.</text:span></text:p>
-   <text:h text:style-name="P66" text:outline-level="4">Human</text:h>
+   <text:h text:style-name="P70" text:outline-level="4">Human</text:h>
    <text:p text:style-name="P31"><text:tab/><text:span text:style-name="T18">When she appears as a human she has long brown hair, and green eyes. Her height and clothing are dependent on the situation but she uses a default of jeans and solid green shirt with a height of about 5&apos;4&apos;&apos;.</text:span></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Personality</text:h>
    <text:p text:style-name="P31"><text:tab/><text:span text:style-name="T18">She is typically pretty passive and when she decides to act tries to do so out of sight. She enjoys learning and new experiences. While friendly she tends to be somewhat oblivious about finer nuances such as peoples aversion to more morbid topics.</text:span></text:p>
@@ -712,33 +718,33 @@
    <text:p text:style-name="P17"><text:tab/>She ended up on the outskirts of Los Alamos as a partially formed copy of herself struggling to get out of the city. Her mind was in turmoil until a quick response unit arrived to recapture her. This new threat galvanized her and her demeanor changed. She switched to a resigned expression and collapsed to the ground as the soldiers approached. Instead of surrendering she had let her virus run wild and in a desire for &apos;them to rot in hell&apos;. Unfortunately, that resulted in the virus repaidly decomposing the everyone in the entire town. The resulting methane cloud ignited causing an explosion that rivaled a nuclear bomb.</text:p>
    <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T11">Being on the edge of the explosion she was tossed into the mountainside and completely dissolved into a puddle of liquid biomass. She was also connected to every body in the town and subjected to pain beyond anything she had felt before. That and the massive amount of information gained from consuming 12k people caused her to spend an unknown amount of time as a stained patch of dirt. By the end of it she had experienced between 300-400 thousand years of memories, but managed to use them to repair her sanity. Seeing humanity from every angle like that diluted the effect of Blackwatch and give her an appreciation for everything they overcame. She was still severely damaged mentally, but could at least function and set out to return to Manhattan.</text:span></text:p>
    <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T11">She cannot navigate worth a damn and was picked up in California by Gaea 6 months later.</text:span></text:p>
-   <text:h text:style-name="P57" text:outline-level="2">Citrine</text:h>
-   <text:h text:style-name="P48" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P60" text:outline-level="2">Citrine</text:h>
+   <text:h text:style-name="P49" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P16">327</text:p>
-   <text:h text:style-name="P49" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P16"><text:span text:style-name="T9">Female </text:span>Changeling (Pink)</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P18"><text:tab/><text:span text:style-name="T8">Her natural form is a generic pink changeling. Dark gray chitin, pink crest and tail. Her eyes area a solid pink.</text:span></text:p>
    <text:p text:style-name="P18"><text:soft-page-break/><text:tab/><text:span text:style-name="T8">As a pony she takes the form of a orange unicorn with a teal mane and tail. Her cutie mark is a partially cut citrine.</text:span></text:p>
-   <text:h text:style-name="P49" text:outline-level="3">Background</text:h>
+   <text:h text:style-name="P50" text:outline-level="3">Background</text:h>
    <text:p text:style-name="P18"><text:tab/><text:span text:style-name="T8">She was chosen to be an advisor and aid to the future Queen Formica. The two of them were introduced at an early age and grew up together. When the hive was invaded she was the only one to escape with the then Princess Formica. Since then she has been living with her Queen first in Canterlot, then Ponyville. She works as an aid at the Rose Garden and has switched identities once dring this time allowing her to appear much younger than her boss.</text:span></text:p>
-   <text:h text:style-name="P63" text:outline-level="2">Spark Gap</text:h>
-   <text:h text:style-name="P51" text:outline-level="3">Alias</text:h>
+   <text:h text:style-name="P66" text:outline-level="2">Spark Gap</text:h>
+   <text:h text:style-name="P52" text:outline-level="3">Alias</text:h>
    <text:p text:style-name="P25">Akemi</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P25">2<text:span text:style-name="T17">64</text:span></text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P25">Kitsune</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P19">She has a sky blue coat but no cutie mark. Her mane and tail are yellow and wind swept.</text:p>
-   <text:h text:style-name="P59" text:outline-level="2">Esoteric Tome</text:h>
-   <text:h text:style-name="P50" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P62" text:outline-level="2">Esoteric Tome</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P25">41</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P19">Male Unicorn</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P19">He has a gray coat and blue mane and tail. He keeps his mane short and combed. His cutie mark is circumscribed hexagram with an open eye in the center.</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Personality</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Personality</text:h>
    <text:p text:style-name="P19">Quiet and curious best describe him. He is perfectly capable of being outgoing, but is more interested in learning and gathering information.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Gaea</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Aliases</text:h>
@@ -747,10 +753,10 @@
    <text:p text:style-name="P9">~4 billion years / 8,000 years conscious</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P9"><text:span text:style-name="T6">Celestial </text:span>Avatar</text:p>
-   <text:h text:style-name="P47" text:outline-level="3">Personality</text:h>
+   <text:h text:style-name="P48" text:outline-level="3">Personality</text:h>
    <text:p text:style-name="P14"><text:tab/><text:span text:style-name="T6">Prefers to remain hands off, but will take action occasionally. She tends to make a single action that is likely to achieve whatever her goal is and watch the events unfold. Making contact with her is an effort in futility. When she does meet with someone she is willing to answer most questions, but will almost always do so in an ambiguous manner.</text:span></text:p>
-   <text:h text:style-name="P56" text:outline-level="2">Formica</text:h>
-   <text:h text:style-name="P52" text:outline-level="3">Titles</text:h>
+   <text:h text:style-name="P59" text:outline-level="2">Formica</text:h>
+   <text:h text:style-name="P53" text:outline-level="3">Titles</text:h>
    <text:p text:style-name="P26">Marchioness of the Everfree, Queen of the Pink hive</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Aliases</text:h>
    <text:p text:style-name="P12">Rose <text:span text:style-name="T17">Quartz</text:span></text:p>
@@ -758,58 +764,58 @@
    <text:p text:style-name="P9"><text:span text:style-name="T17">3</text:span>27</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P9">Changeling <text:span text:style-name="T9">Queen </text:span>(Pink)</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="Text_20_body"><text:tab/>As a changeling queen she has the typical dark gray chitin, diaphanous wings, and twisted horn. <text:s/>She stands just shy of two meters and her mane, tail, and eyes are all pink. <text:s/>Like her pony form she keeps her mane in a simple bun, <text:span text:style-name="T6">but her eyes have slit pupils and mouth a pair of small fangs</text:span>.</text:p>
    <text:p text:style-name="Text_20_body"><text:tab/>As an Earth Pony she is <text:span text:style-name="T6">between the height of her changeling form and an average pony at a h</text:span>eight of 1.5 meters. <text:s/>Her coat is jade green and her mane and tail are both a rosy pink. <text:s/>Her hair is styled in a <text:span text:style-name="T6">simple</text:span> bun and her cutie mark is an open rose bloom. <text:span text:style-name="T6">She also has a few creases on her face, as well as a couple gray hairs belying an old age.</text:span></text:p>
-   <text:h text:style-name="P48" text:outline-level="3">Background</text:h>
+   <text:h text:style-name="P49" text:outline-level="3">Background</text:h>
    <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T7">While she was a changeling princess her hive was located near Canterlot. The hive was envied </text:span><text:soft-page-break/><text:span text:style-name="T7">by many of the other queens and was eventually invaded successfully. When it was clear that the hive would not survive her mother sent Princess Formica out of the hive through a secret passage to Canterlot. The only other survivor was a servant, Citrine, sent to aid her. The pair spent decades living in Canterlot disconnected from other hives.</text:span></text:p>
    <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T7">Eventually they met Granny Smith and manage to join her when she sets out to found Ponyville. They have been living in Ponyville ever since although Formica has not changed disguises meaning this one is nearing the point of becoming suspicious. She has been running the Rose Garden a children&apos;s home she established once the town had gotten on its feet. Unfortunately it sees more business than a small town normally would due to the Everfree forest.</text:span></text:p>
-   <text:h text:style-name="P59" text:outline-level="2">Ruby</text:h>
-   <text:h text:style-name="P50" text:outline-level="3">Age</text:h>
+   <text:h text:style-name="P62" text:outline-level="2">Ruby</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Age</text:h>
    <text:p text:style-name="P25"><text:span text:style-name="T16">102</text:span>3</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Species</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Species</text:h>
    <text:p text:style-name="P25">Poltergeist</text:p>
-   <text:h text:style-name="P50" text:outline-level="3">Appearance</text:h>
+   <text:h text:style-name="P51" text:outline-level="3">Appearance</text:h>
    <text:p text:style-name="P19">She has a red coat, but no cutie mark. Her mane is blue with a light blue stripe done in a short curly style.</text:p>
-   <text:h text:style-name="P42" text:outline-level="1">Culture</text:h>
-   <text:h text:style-name="P62" text:outline-level="2">Equestrian Ponies</text:h>
+   <text:h text:style-name="P43" text:outline-level="1">Culture</text:h>
+   <text:h text:style-name="P65" text:outline-level="2">Equestrian Ponies</text:h>
    <text:p text:style-name="P26">Their culture is heavily influenced by lingering herding instincts. They are a collectivist society and will almost always go along with the general consensus. They also inherently view social hierarchies as nested herds, i.e. a family is a herd of ponies, a town is a herd of families, and so on.</text:p>
    <text:p text:style-name="P26">Insulting or disagreeing with the leader of a herd is a serious offense and a challenge to their authority. However, complaints and insults to things associated with the leader are not included in this. This difference is subtle and can easily trip up visitors. For example saying the ponies of Canterlot are snobby is fine, but saying Canterlot is snobby would be scandalous.</text:p>
    <text:p text:style-name="P26">Equestria is still partially feudal, but many cities have modernized and transferred titles to the government. Many of the powers of nobility are still present, but so rarely used that titles play little role outside of social standing. </text:p>
-   <text:h text:style-name="P43" text:outline-level="1"><text:soft-page-break/>Factions</text:h>
-   <text:h text:style-name="P64" text:outline-level="2">Equestria</text:h>
-   <text:h text:style-name="P90" text:outline-level="3">Royal Guard</text:h>
-   <text:h text:style-name="P90" text:outline-level="3">Lunar Guard</text:h>
-   <text:h text:style-name="P64" text:outline-level="2">Vampire Court</text:h>
-   <text:h text:style-name="P90" text:outline-level="3">Monster Hunters</text:h>
-   <text:h text:style-name="P64" text:outline-level="2">Changeling Court</text:h>
-   <text:h text:style-name="P64" text:outline-level="2">Chrysalis</text:h>
-   <text:h text:style-name="P79" text:outline-level="2"><text:span text:style-name="T20">Inari</text:span></text:h>
-   <text:h text:style-name="P41" text:outline-level="1">Magic</text:h>
+   <text:h text:style-name="P44" text:outline-level="1"><text:soft-page-break/>Factions</text:h>
+   <text:h text:style-name="P67" text:outline-level="2">Equestria</text:h>
+   <text:h text:style-name="P57" text:outline-level="3">Royal Guard</text:h>
+   <text:h text:style-name="P57" text:outline-level="3">Lunar Guard</text:h>
+   <text:h text:style-name="P67" text:outline-level="2">Vampire Court</text:h>
+   <text:h text:style-name="P57" text:outline-level="3">Monster Hunters</text:h>
+   <text:h text:style-name="P67" text:outline-level="2">Changeling Court</text:h>
+   <text:h text:style-name="P67" text:outline-level="2">Chrysalis</text:h>
+   <text:h text:style-name="P67" text:outline-level="2">Inari</text:h>
+   <text:h text:style-name="P42" text:outline-level="1">Magic</text:h>
    <text:p text:style-name="P29">Magic is the manipulation of energy through will power. One key component of magic is intent which determines the effect of the magic. Generally intent is conveyed through the soul, a self sustaining magical construct that acts as part or even all of a creatures consciousness. The soul allows a being to interact with magic but it also allows magic to interact with the creature as well. This is critical to the function of all mental magic and most healing magic.</text:p>
    <text:p text:style-name="P29">Mana, the capacity to effect the world, is the second component of magic. Mana is attracted to highly ordered materials such as crystals and will try to fill the available space without any external forces. Large collections of mana have a tendency to produce light either matching the materials color or a color specific to the soul of the creature using the mana.</text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Creatures</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Changeling</text:h>
    <text:p text:style-name="P7"><text:tab/>A race of shape-shifting emotivores. <text:s/>They feed on love primarily though they can sense all emotions. <text:s/>The process of feeding uses love as a catalyst to siphon magic form their target resulting in a proportional amount of fatigue. <text:s/>Physically they are on par with ponies, though their magic is weaker but can work as the magic of any pony race. <text:s/>They also have an affinity for mental and transformation magic including telepathy, mind control, and form lock. <text:s/>Form lock is a passive ability embedded in their biology that prevents any transformation that are not caused by magic from their hive. <text:s/>That includes magical transformation and physical ones such as combustion or other chemical reactions.</text:p>
    <text:p text:style-name="P7"><text:tab/>Changelings social structure resembles a bee hive, they will have a population of workers with a single queen leading each hive. <text:s/>The main divergence is that they will also have infiltrators associated <text:soft-page-break/>with the hive that live among pony society to collect love for the rest. <text:s/>How the infiltrators are placed and how long they stay varies from hive to hive. <text:s/>There are rarely any dedicated defenders for a hive as they prefer stealth to confrontation. <text:s/>The queen and workers act as defenders when needed.</text:p>
-   <text:h text:style-name="P44" text:outline-level="3">Deer</text:h>
-   <text:h text:style-name="P45" text:outline-level="3">Demon</text:h>
+   <text:h text:style-name="P45" text:outline-level="3">Deer</text:h>
+   <text:h text:style-name="P46" text:outline-level="3">Demon</text:h>
    <text:p text:style-name="P22"><text:tab/><text:span text:style-name="T9">Not a well defined type <text:s/>of creature, but more of a miscellaneous category for &apos;bad&apos; aliens. The defining feature of a demon is that it is not native to Equis and is characterized by one of the 7 vices (Pride, Wrath, Envy, Gluttony, Lust, Greed, and Sloth). All examples of demons have lacked a soul like those native to Equis so that is considered equivalent to being non-native. </text:span></text:p>
    <text:p text:style-name="P20"><text:tab/>It has also been assumed that <text:s/>all demons come from Tartarus, or at least a similar environment. Nobody has nor wants to check so this assumption is unlikely to change despite being incorrect. Another assumption is that each class of demon has a leader which is true for Tartarian demons.</text:p>
-   <text:h text:style-name="P53" text:outline-level="3">Kitsune</text:h>
+   <text:h text:style-name="P54" text:outline-level="3">Kitsune</text:h>
    <text:p text:style-name="P28"><text:tab/><text:span text:style-name="T14">A fox spirit rarely found outside of forests. They have an affinity for fire and can use faerie fire to cast sorceries they have an affinity for. They often have a second affinity, usually either wind or lightning. These spirits are formed from normal foxes that live in magically rich areas. While they are ageless, few actually ascend and fewer still make it past the first few decades.</text:span></text:p>
    <text:p text:style-name="P28"><text:tab/><text:span text:style-name="T15">As they age they accrue more and more magical power until they finally become a being of pure magic. Each century they also gain a new tail from this power, up to a maximum of 9.</text:span></text:p>
-   <text:h text:style-name="P89" text:outline-level="3">Mageripper</text:h>
+   <text:h text:style-name="P56" text:outline-level="3">Mageripper</text:h>
    <text:p text:style-name="P35"><text:tab/><text:span text:style-name="T20">They travel in large swarms and are attracted to concentration of magic. They can consume meat but prefer raw magic particularly from spirits. They have no eyes instead relying on their ability to sense magic for navigation and hunting. The only known predator for them are changelings since their chitin hides them from the senses of a mageripper as well as providing a resistance to their bite. They appear as small balls of fur with a mouth full of sharp teeth and four spider like legs. There are two tentacles that extend from their top containing their magic sensing organs.</text:span></text:p>
-   <text:h text:style-name="P44" text:outline-level="3">Pony</text:h>
-   <text:h text:style-name="P65" text:outline-level="4">Biology</text:h>
+   <text:h text:style-name="P45" text:outline-level="3">Pony</text:h>
+   <text:h text:style-name="P69" text:outline-level="4">Biology</text:h>
    <text:p text:style-name="P8">For the most part they are a typical equinoid. The main differences are the bright colors and their strong magical abilities. <text:span text:style-name="T5">Half of there mental abilities are handled by a none physical construct termed a soul. <text:s/>This allows them to apply intent to magic and controls their more supernatural abilities. </text:span></text:p>
    <text:p text:style-name="P8"><text:span text:style-name="T5">The colors of a pony are determined by their magic, and will fade to gray should their reserves deplete.</text:span> <text:span text:style-name="T5">The fat cells in a pony are specialized for the creation magic potential and can use it as an extra storage of energy. This also makes them resistant to gaining weight as well as allowing for high sugar intake. <text:s/>This energy is distributed by a pony&apos;s bones which contain a large amount of corundum giving them a stronger partially crystalline skeleton.</text:span></text:p>
    <text:p text:style-name="P11"><text:soft-page-break/>The have senses on par with humans although smell is better developed. In addition they can sense the general magic level in an area.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Roc</text:h>
    <text:p text:style-name="Text_20_body"><text:tab/><text:span text:style-name="T4">A giant wild raptor. <text:s/>They resemble an eagle about 12 meters in length with an enormous wing span often reaching 50 meters. <text:s/>They primarily hunt large mammals and fish, but will eat anything if an opportunity arises. <text:s/>They kill their prey by swooping down, carrying them into the sky, and dropping them from a great height.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:tab/><text:span text:style-name="T4">They are ageless, and often live for centuries as no predator targets them. <text:s/>Fights over territory are the most common cause of death for them. <text:s/>Since they mate for life they are almost always found in mating pairs. <text:s/>They will find another mate if the previous one dies. <text:s/>Their nests are located on the ground due to sheer size. <text:s/>They use full trees to make their nest making them to nest in or near forested areas.</text:span></text:p>
-   <text:h text:style-name="P40" text:outline-level="1">Events</text:h>
+   <text:h text:style-name="P41" text:outline-level="1">Events</text:h>
   </office:text>
  </office:body>
 </office:document>
