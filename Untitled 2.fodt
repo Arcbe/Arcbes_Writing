@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2020-02-17T16:26:26.967814835</meta:creation-date><dc:date>2020-04-14T13:24:11.665138052</dc:date><meta:editing-duration>P36DT18H26M55S</meta:editing-duration><meta:editing-cycles>520</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="109" meta:word-count="3134" meta:character-count="17198" meta:non-whitespace-character-count="14066"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">176228</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">47574</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">23206</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">28303</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">187983</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">176228</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">47572</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">199432</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">375400</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">9702281</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="101%" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0005ef26" officeooo:paragraph-rsid="0005ef26"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0005ef26"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00242148" officeooo:paragraph-rsid="00242148"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00242148"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0047c94f"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0057894a"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0057894a" officeooo:paragraph-rsid="0057894a"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
+   <style:text-properties officeooo:paragraph-rsid="00242148"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0005ef26" officeooo:paragraph-rsid="0005ef26"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0057894a"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00759e0b"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="008139f2"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00921fe1"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0057894a"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="001b1161"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="0023e614"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00242148"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="0026d1c0"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="00281e03"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="002c3f6e"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="002e1f01"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="00345a01"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="00371997"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="0038046d"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="0039721c"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="003a1805"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="003ce386"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="003cfde2"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="003d0338"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="003d8e82"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="0041bd8c"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="004427bb"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="0047c94f"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="00492efc"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="004b45c8"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="004ef30b"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="0052f68f"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="0053a645"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="00543be2"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="005443e6"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="00561c95"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="00570a25"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="0057894a"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="0059890a"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="00604e07"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="0064cf34"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="00653cf4"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="0066eb45"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties officeooo:rsid="006921c4"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties officeooo:rsid="0069e7e9"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties officeooo:rsid="006b7656"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties officeooo:rsid="006eefc8"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties officeooo:rsid="0070ee2e"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties officeooo:rsid="0072bbbe"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="007305fc"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties officeooo:rsid="0074830c"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties officeooo:rsid="00759e0b"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties officeooo:rsid="0076083f"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties officeooo:rsid="00771c2b"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties officeooo:rsid="0078af0f"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties officeooo:rsid="007cb97b"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties officeooo:rsid="007d7deb"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties officeooo:rsid="007e50be"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties officeooo:rsid="008039f0"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties officeooo:rsid="008d05be"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties officeooo:rsid="008ded82"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties officeooo:rsid="008f16d5"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="008fb404"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties officeooo:rsid="008fef14"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties officeooo:rsid="00905dd8"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties officeooo:rsid="0090d14a"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties officeooo:rsid="00921fe1"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties officeooo:rsid="00932f0d"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties officeooo:rsid="00940b89"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:h text:style-name="P1" text:outline-level="2">Chapter 1</text:h>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T22">The streets lights were just beginning to turn on as a woman made her way down a darkening street. Parked cars lined the road with narrow houses on each side boxing them in. Every few her eyes would dart to a new shadow. Brunette hair hung just above her hunched shoulders. She kept her pace even as she walked with her arms pulled tight against her chest.</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T23">A large man in a trench coat came around the corner. She stopped but he kept walking toward her with a smile. “You lost?” he asked, “It’s going to be night soon, shouldn’t you be at home?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“I’m…<text:span text:style-name="T23"> Well, um” she stammered and took a half step back as he neared, “I’ve only been in town a few days.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T24">Ah, well in that case why don’t I help you? Are you staying nearby?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T24">My sister, um, lives nearby but…” She bit her lower lip, “She usually keeps in touch, but I haven’t heard from her in almost a week.” She took a deep breath and stammered, “I think she was kidnapped.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T24">Kidnapped?” the man blinked, “Have you contacted the police, yet?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T26">She looked away, </text:span>“<text:span text:style-name="T25">No, they would probably be too busy to help.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T27">Hmm, well, not to worry you but there have been a few assaults around here lately. Why don’t I accompany you?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T27">I don’t want to impose.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T27">Oh, I would be happy to help.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>They<text:span text:style-name="T27"> began walking back toward the end of the street that the man had come from. He fell back and let her take the lead before they rounded the corner. One hand slipped inside his coat and pulled out a combat knife. Once they got past the corner, he slipped his hand under her arm and grabbed the back of her neck while holding the knife to the front with his other hand.</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T28">She froze and cried, </text:span>“<text:span text:style-name="T28">What are you doing? I don’t have any money!”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T28">I think you already know that answer.” he said, “Now I want to know why are you here?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T28">But I already told you that! I’m looking for my sister!”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T28">Cut the act, it’s not very convincing.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T28">She paused before chuckling, “It didn’t need to be. So what do you want with little old me?” She straightened herself up to her full height. Even hunched over she was nearly as tall as the man. Now she stood at a full two meters. “You might as well put the knife away.” She suggested only for the knife to bite deep into her neck. The cut resealed itself fast enough that no blood spilled out. She rolled her eyes and turned after the man disengaged. “Well, at least you got the balls to follow through on threats. Too many people pull out lethal weapons as a bluff. So you some kind of monster hunter or something?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T29">What are you?” he demanded.</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T29">She clicked her tongue, </text:span>“’<text:span text:style-name="T29">Who’ not ‘what.’ I’m Levi. Now it’s your turn, who are you?”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T29">I didn’t ask for your name. I want to know what you are not who you are.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“Eh, it’s complicated.” she dismissed with a wave, “All you get’s a name. Sorry, but you couldn’t kill me with anything small enough to leave the block intact anyway.”</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T30">He grunted and sucker punched Levi in the face with set of brass knuckles. A fist to the gut doubled her over into an upper cut. A flurry of blows followed until she knocked him to the ground with her shoulder. “Stop that!” she growled and bent her nose back into place, “What a mess!” Despite the brutal assault on a few gashes marred her face. The blood that had spilled down her face had reversed and started flowing back into her body.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T31">A hole opened up in her stomach an instant before a gunshot tore through the air. Levi staggered back as she scanned the street for the shooter. She caught sight of a parked van that had turned on its headlights before the second shot hit. The van drove up with its side door open and a woman jumped out with a shotgun. The new woman pumped several slugs in Levi while the man got in the van. The tires squealed as they fled the scene.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T32">Once again the streams of blood stopped flowing but this time they pulled away from the ground as if they were limbs before retracting. Many of the nearby homes had lit up and at least one person was already outside trying to figure out what was happening. Once more restored, Levi hurried down the road in the same direction as the van. She clicked her tongue as she inspected the 5 extra holes in her shirt, “Damn, I’m gonna need a new one.”</text:span></text:p>
+   <text:p text:style-name="P14"><text:tab/><text:span text:style-name="T33">On the back of her hand a glowing circle appeared. A line ran along the inside doubling back on itself 9 times. In the center was a six pointed star inscribed in a smaller circle. Levi disappeared in a gust of wind rushing after the van.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T33">The van came to a stop at the end of an alley behind some shops. The woman that had used the shotgun stepped out first. “I’m just saying we need a rocket launcher, Sarah.” she said as another woman stepped out of the front of the van.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T34">The anti tank rifle was already too much, Alex.” protested Sarah, “What if those rounds had gone through her or if you missed?” Alex just huffed in response.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T34">Maybe we need to negotiate with her.” suggest the coated man as he stepped out as well, “She didn’t seem to bad.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T34">Aaron, what-” started Sarah after turning to the man.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T34">Not to bad!?” Alex shouted, “She’s a soul stealing monster! Those kids are never going to be the same! OW!” She rubbed her head after something bounced off it.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T34">Eh, they were little shits anyway.” Levi said and tossed another used bullet at Alex, “They grow back anyway. Humans are weird like that. I don’t think there’s any other species that could just shrug off having a piece of the soul sucked away.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T35">They were children, monster!”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T36">They were fully matured and besides they attacked first. Like you. You put a bunch of bullet holes in my shirt.” Levi complained and threw another bullet at Alex who managed to dodge this one, “Don’t worry, I’m only a little annoyed. We can still negotiate.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T37">Ha, like we would ever negotiate with a monster like you!” Alex declared with a finger pointed at Levi.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T37">Levi quirked an eyebrow, “You know monster is a relative term. Have you ever thought about the children that worry about the human under their bed? You guys have quite the reputation outside this world. Regardless, if you’re not willing to talk monster e monster then why shouldn’t I just kill you and go back to searching for my sister?”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T37">Sarah covered Alex’s mouth and replied, “I guess you have a point. There’s no harm in asking. Could you maybe not attack anyone else?”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T37">Eh, sure.” Levi said, “I was looking for one of paranormal residents of the city but I guess you’re close enough. So, you wouldn’t happen to know where Katherine is, Would you? If you killed her, now is the time say so.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T38">No, you’re the only monster that we’ve hunted recently.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T39">Figures, she’s not any more fragile then me.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T40">There a second one of you on the loose!?” Alex shouted.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T40">You’re not the brains of this operation, are you? No, she’s MIA, remember. Her disguise was just a disguise, though. Mine’s ready for war.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T41">War!?” gasped Sarah, “What do you mean war? Isn’t that a little drastic?”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T41">Well, that’s what I’m here to find out.” Levi grinned, “Kat disappeared without calling for help. You know, that’s probably something you guys should worry about. Something around here is able to contain me.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T42">Don’t think that means you’re off the hook.” Alex said through gritted teeth and stalked off.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T42">Sarah sighed, “I’ll deal with her later. Where are you staying?”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T43">Kat’s house. No sense wasting a perfectly good life so I’m taking her place for now.” Tomorrow they would meet at the Hunter’s Respite, the coffee house that they had parked behind. The group used it as their day jobs as well as a sort of headquarters.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Chapter <text:span text:style-name="T43">2</text:span></text:h>
+   <text:p text:style-name="P11"><text:tab/><text:span text:style-name="T43">The bell above the door jingled as Levi entered the coffee house. The scent of the fresh drinks filled the room along with a collection of small tables. For now only one table was occupied, Aaron watching Levi walk by as he nursed his cup.</text:span></text:p>
+   <text:p text:style-name="P11"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T44">You should be friendlier to customers. It’s just good business practice.” Levi said once she got to the counter. Alex continued glaring from behind the counter. “How ‘bout a Mocha?” Levi pulled out a dollar, “Look I’m a paying customer and everything!”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T45">Yes, I can see that.” Alex said with an eye tic, “Will that be all?”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T45">I’m gonna need you to not shoot any holes in my clothes, too.” Levi said and showed off her new intact apparel. She was wearing a black tshirt with a red pentagram on the back. The head of a goat was inscribed in it and a ring with hebrew characters surrounded the diagram. She was wearing a pair of Levi’s jeans as well. “They even have my name on them and everything!”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T45">You don’t even pronounce it the same way!”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T45">What ever.” Levi said as she went to take a seat with Aaron. “You know, your friend’s a bitch.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T45">I don’t think she’s the problem here.” Aaron sighed, “And what is it with you and your shirt? What are you, some kind of fashion demon?”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T46">Well, if someone poked holes in the shirt you’re wearing I would think you would be annoyed about it too.” Levi said with crossed arms.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T46">Probably, but I would be more focused on the fact someone was shooting me.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T46">Eh, even if I wasn’t outfitted for a fight small arms aren’t a big deal to me. You’d need at least a howitzer before I worry about projectiles.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T46">Small arms!?” Alex shouted, “Those were .50 BMG rounds!”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T46">Yeah, like I said small. A human can still handle the recoil from those and move the gun around with heavy equipment, ergo it’s small armament.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/><text:span text:style-name="T46">Before Alex could respond Aaron spoke up, “I’m pretty sure she’s a leviathan, Alex. Don’t worry, you’ve still got the biggest gun on the block.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T46">A leviathan? Well, I guess you could say that.” Levi leaned back, “I am the Leviathan after all.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T47">The giant biblical sea monster?” Sarah asked as she emerged from the back room, “Shouldn’t you be bigger and more serpenty then?”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T48">Yes. There’s a grain of truth in every story, but religious texts aren’t written for historical accuracy.” Levi replied, “I’m not a biological creature of any kind let alone a serpent. I’m an amorphous gestalt coalescence.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/><text:span text:style-name="T48">Several moments passed before Alex broke out into laughter, “You’re a slimeling?”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/><text:span text:style-name="T48">Levi blinked in confusion, “Wait why is that funny?”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T49">We’ve dealt with slimelings before. Just a little water and you’ll melt like the wicked witch.” Alex said and pulled out a nozzle on a hose from behind the counter. Levi just watched as the stream of water landed in her lap.</text:span></text:p>
+   <text:p text:style-name="P11"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T50">What the hell are you doing, Alex!?” Sarah shouted.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/><text:span text:style-name="T50">The infinity symbol with a double cross above it started glowing on the back of Levi’s hand before she grabbed the stream of water. Instead of passing into the stream the flow stopped in her grasp as if it had suddenly frozen. The water started covering her hand like a glove until the entire mass was gathered together.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T50">She was mistaken for a sea monster, Alex! Water’s not going to do anything to her!” Sarah scolded when Alex stopped spraying Levi. “If you can’t keep your cool maybe you should take a break.” Alex face twitched as she tried to settle on an expression as a tear rolled down her cheek. Sarah sighed and led Alex from the room saying, “Come on, it’s going to be OK but you’re just too close to this.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T50">Alright, I’m missing something here.” Levi said with her hand over the table. The mass of water oozed down and molded itself into a humanoid form. It looked like a featureless crystal statue of a person when she finished and the glowing symbol disappeared again.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T50">One of your victims was her brother.” Aaron said while looking out the window, “Why did you make that? What if someone sees it?”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T50">That’s unfortunate.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T50">Is that all you have to say for yourself?” Aaron glared at Levi.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T50">There’s not much to say. What do you want? An insincere apology? A bribe?”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T51">Forget it.” Aaron sighed, “Why did you create a… that?” he pointed at the water creation.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/><text:span text:style-name="T52">Levi shrugged, “I already gave her life so why not let her run around a little.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T52">You made a child?” he deadpanned.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T52">No, we’re a gestalt so I am as much a piece of Leviathan as Levi is.” said the water creature, “I think I’ll be Krystal. You can come up with family relations you want.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T52">You feel like jello.” Aaron said after poking Krystal.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T52">You actually poked me?” Krystal questioned.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T52">I keep forgetting how weird this world is.” Levi giggled, “Most places would evacuate the block if they saw Krystal.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T53">Why? Slimelings aren’t that dangerous. The only reason we even bother with them is because they wander into weird places.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T53">I doubt you’ve ever seen one older than a couple decades but really the problem is what we eat. I don’t know if magic makes things alive or living things make magic but the stuffs everywhere. Although for some reason this place developed weird and the creatures on Earth never really mixed well with magic.” Levi explained</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T54">That didn’t explain anything.” Aaron said.</text:span></text:p>
+   <text:p text:style-name="P12"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T54">Magic, life force, soul power, mana, Qi. Whatever you want to call it that’s what we eat. It’s a big problem since living things are the only source. You guys however don’t actually use it so it’s just lying around all over the place. Also, your technology is purely physical so you don’t have to worry about slimes eating important enchantments.” Levi said.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T54">Still doesn’t sound scary.” said Aaron.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T54">Grab my hand.” Krystal held out her hand.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T54">This is such a bad idea.” he said but grabbed her hand anyway. “What the hell?” he frowned as he tried and failed to reopen his hand. When he tried to pull away the table moved as Krystal stayed put.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/><text:span text:style-name="T54">Krystal let him go and said, “We’re sticky regardless of what we’re made of. Paralytic too since magic’s needed for nerves to work except for here.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/><text:span text:style-name="T55">Sarah walked back into the room sparing Krystal a glance before saying, “Leviathan, let’s go for a walk.” The rest watched as she walked out the door without stopping.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/><text:span text:style-name="T56">Levi clicked her tongue and got up, “She’s lucky I’m the prince of envy.” Sarah was waiting outside the door and began walking again when Levi exited. Levi drew the attention of many of the people passing on the sidewalk.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T56">Why are you here?” Sarah asked.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/><text:span text:style-name="T56">Levi raised an eyebrow, “You’re the one that wanted to go outside.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T56">I mean you’re a demon. You’re supposed to be in hell. Why was your sister here? Why are you looking for her? Shouldn’t you be torturing souls or something? How can you even have a sister in the first place?”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T57">Ah I see. You have some mistaken assumptions.” Levi said, “You’re conception of hell started thousands of years ago and has gone through some interesting translations along the way. Hell isn’t unchanging either, but the biggest thing is that I’m not a biological entity let alone a demon. My origin is terrestrial, I formed near the Mediterranean sea. Eh, sort of.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/><text:span text:style-name="T58">Sarah interrupted, “That’s nice but that doesn’t tell me why you are here.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T58">Oh, I just like living human lives. There are thousands of pieces of me scattered around the world. Men and women. Children and Adults. Bakers, bankers, accountants, retailers, prostitutes, bar tenders, slaves. Anything and everything as long as I don’t have to be a leader. Apparently that makes me envious.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/><text:span text:style-name="T58">Sarah stopped walking, “What was that last one?”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T58">Slaves?” Levi repeated, “I find the life of a slave pretty enjoyable. I’m free from pain and suffering, disease and hunger. The works really simple too so I get to see how all the other slaves handle things. It must suck for them, but that adversity exposes out every facet of humanity.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T58">That’s horrible!” Sarah gasped and swung her hand at Levi’s cheek, “How can you just watch as people suffer like that?”</text:span></text:p>
+   <text:p text:style-name="P12"><text:soft-page-break/><text:tab/><text:span text:style-name="T58">Levi caught her by the wrist before the slap connected. She met Sarah’s glare for a moment before asking, “This is the part I never understand. Why is it horrible to watch? I can understand why suffering is horrible, but you’re complaining about me watching it. Would it really be better if I closed my eyes?”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T58">Of course not!” Sarah declared, “It’s just…”</text:span></text:p>
+   <text:p text:style-name="P13"><text:tab/>“<text:span text:style-name="T58">You don’t like it. You don’t like see it in other people either. That’s good, you not supposed to like it. That’s how it drives progress. Do you have any idea how much blood, sweat, and tears it took to create a world that could host a city like New York?” Levi paused, “Do you have any idea how much it takes to keep that city running?”</text:span></text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="T58"><text:tab/>“No.” Sarah whispered while looking down at her feet.</text:span></text:p>
+   <text:p text:style-name="P13"><text:tab/>“<text:span text:style-name="T58">That’s for the best. You would have to break something inside you to truly understand the answer.” Levi looked around, “Now, I think we should get some ice cream, before attracting any more attention.” More than a few people had stopped to stare at the two women and were now blocking most of the sidewalk on both sides. As Levi’s gaze passed over them most of the people looked away and pretended they were doing something else.</text:span></text:p>
+   <text:p text:style-name="P13"><text:tab/><text:span text:style-name="T59">The pair sat in an ice cream shop. Levi was busy devouring her treat but Sarah just poked at hers with a spoon. “You raped him.” Sarah said.</text:span></text:p>
+   <text:p text:style-name="P13"><text:tab/><text:span text:style-name="T59">Levi blinked, “Well, that’s a hell of a non sequitur. I don’t think I’ve ever done that in the literally sense, so what are you talking about?”</text:span></text:p>
+   <text:p text:style-name="P13"><text:tab/>“<text:span text:style-name="T59">Alex’s brother. You held him down and ripped out his soul.” Sarah whispered but the twitches in her face hinted at her real feelings, “There’s so much that I want to do to you. For all I know you might even let me, but none of it would matter. I’m sorry, but I’m not hungry anymore.” She got up and rushed out the door.</text:span></text:p>
+   <text:p text:style-name="P13"><text:tab/>“<text:span text:style-name="T60">Well, fuck.” Levi said and pulled Sarah’s ice cream in front of herself.</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>
