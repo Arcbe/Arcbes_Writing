@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-02-17T16:26:26.967814835</meta:creation-date><dc:date>2020-06-06T14:21:49.247590576</dc:date><meta:editing-duration>P74DT3H23M51S</meta:editing-duration><meta:editing-cycles>925</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="119" meta:word-count="3633" meta:character-count="19645" meta:non-whitespace-character-count="16011"/></office:meta>
+ <office:meta><meta:creation-date>2020-02-17T16:26:26.967814835</meta:creation-date><dc:date>2020-08-22T18:21:35.522842639</dc:date><meta:editing-duration>P123DT12H11M58S</meta:editing-duration><meta:editing-cycles>1104</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="174" meta:word-count="5218" meta:character-count="28491" meta:non-whitespace-character-count="23271"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">202129</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">290070</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">47574</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">23206</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">17953</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">210762</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25183</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">306583</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">202129</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">290070</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">47572</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">225333</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">313274</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">14936371</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">17673685</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -295,43 +295,65 @@
    <style:text-properties officeooo:paragraph-rsid="00d19136"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00dacb33"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00e3e933"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00d89c24" officeooo:paragraph-rsid="00dacb33"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00ea8694" officeooo:paragraph-rsid="00e3e933"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00f36740"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties officeooo:paragraph-rsid="00242148"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties officeooo:paragraph-rsid="0057894a"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties officeooo:paragraph-rsid="00940b89"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties officeooo:paragraph-rsid="0005ef26"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
+   <style:text-properties officeooo:paragraph-rsid="00dacb33"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties fo:font-style="normal" officeooo:rsid="00a618e9" officeooo:paragraph-rsid="00940b89" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0005ef26"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="00dacb33"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
-   <style:text-properties officeooo:paragraph-rsid="00dacb33"/>
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00ea8694" officeooo:paragraph-rsid="00e3e933"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="00e3e933" officeooo:paragraph-rsid="00e3e933"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00e3e933" officeooo:paragraph-rsid="00e3e933"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0005ef26" officeooo:paragraph-rsid="0005ef26"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00cd6845" officeooo:paragraph-rsid="00cd6845"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00ea8694" officeooo:paragraph-rsid="00e3e933"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00ea8694" officeooo:paragraph-rsid="01029125"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="001b1161"/>
@@ -715,7 +737,82 @@
    <style:text-properties officeooo:rsid="00e3e933"/>
   </style:style>
   <style:style style:name="T128" style:family="text">
-   <style:text-properties style:text-underline-style="solid" style:text-underline-type="double" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+   <style:text-properties officeooo:rsid="00e4d01c"/>
+  </style:style>
+  <style:style style:name="T129" style:family="text">
+   <style:text-properties style:text-underline-style="none"/>
+  </style:style>
+  <style:style style:name="T130" style:family="text">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00e6062d"/>
+  </style:style>
+  <style:style style:name="T131" style:family="text">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00e7c2ab"/>
+  </style:style>
+  <style:style style:name="T132" style:family="text">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00e85e95"/>
+  </style:style>
+  <style:style style:name="T133" style:family="text">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00e8716e"/>
+  </style:style>
+  <style:style style:name="T134" style:family="text">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00e88938"/>
+  </style:style>
+  <style:style style:name="T135" style:family="text">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00ea8694"/>
+  </style:style>
+  <style:style style:name="T136" style:family="text">
+   <style:text-properties officeooo:rsid="00eecaf7"/>
+  </style:style>
+  <style:style style:name="T137" style:family="text">
+   <style:text-properties officeooo:rsid="00ef33ea"/>
+  </style:style>
+  <style:style style:name="T138" style:family="text">
+   <style:text-properties officeooo:rsid="00ef8863"/>
+  </style:style>
+  <style:style style:name="T139" style:family="text">
+   <style:text-properties officeooo:rsid="00f16837"/>
+  </style:style>
+  <style:style style:name="T140" style:family="text">
+   <style:text-properties officeooo:rsid="00f36740"/>
+  </style:style>
+  <style:style style:name="T141" style:family="text">
+   <style:text-properties officeooo:rsid="00f67c19"/>
+  </style:style>
+  <style:style style:name="T142" style:family="text">
+   <style:text-properties officeooo:rsid="00fc11ea"/>
+  </style:style>
+  <style:style style:name="T143" style:family="text">
+   <style:text-properties officeooo:rsid="00fc61f6"/>
+  </style:style>
+  <style:style style:name="T144" style:family="text">
+   <style:text-properties officeooo:rsid="00fcfc98"/>
+  </style:style>
+  <style:style style:name="T145" style:family="text">
+   <style:text-properties officeooo:rsid="00feb57e"/>
+  </style:style>
+  <style:style style:name="T146" style:family="text">
+   <style:text-properties officeooo:rsid="01029125"/>
+  </style:style>
+  <style:style style:name="T147" style:family="text">
+   <style:text-properties officeooo:rsid="01048238"/>
+  </style:style>
+  <style:style style:name="T148" style:family="text">
+   <style:text-properties officeooo:rsid="01050ee4"/>
+  </style:style>
+  <style:style style:name="T149" style:family="text">
+   <style:text-properties officeooo:rsid="010624e8"/>
+  </style:style>
+  <style:style style:name="T150" style:family="text">
+   <style:text-properties officeooo:rsid="0107260b"/>
+  </style:style>
+  <style:style style:name="T151" style:family="text">
+   <style:text-properties officeooo:rsid="01094739"/>
+  </style:style>
+  <style:style style:name="T152" style:family="text">
+   <style:text-properties officeooo:rsid="010aa367"/>
+  </style:style>
+  <style:style style:name="T153" style:family="text">
+   <style:text-properties officeooo:rsid="010c1133"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
@@ -741,21 +838,21 @@
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T91">It was nearing midnight when a thump and frantic scratching came from the front door. A woman grumbled as she walked up to the door and threw it open. She stood tall enough for the top of her black hair to brush the top of the door frame. Still she stumbled back when an enormous red fox the size of a large dog spilled into the hallway. “What the…” she shouted before catching sight of the myriad of red slashes on the foxes coat.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T91">Frowning she went through the door and scanned the street from the stoop. A dark clothed man was fast approaching. As he got closer it was clear something was amiss. His ears were pointed and his skin an unnatural shade of dark blue. In one hand was a small knife and a bow and quiver were strapped to his back. He slowed to a stop just a few steps away from the stoop.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T92">Move aside, human.” he ordered.</text:span></text:p>
-   <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T92">Now why would I do that, Drow?” questioned the woman, “Am I supposed to be scared of that little prick you got there?”</text:span></text:p>
+   <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T92">Now why would I do that, Draugr?” questioned the woman, “Am I supposed to be scared of that little prick you got there?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T93">The beast will be a fine prize for my Queen. Allow me to retrieve it and I will leave you be.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T93">The woman looked back to the door and saw that the fox’s head poking through the gap as it watched with wide eyes. The creature even gave a small whine as it laid down with head on paws. “Hmm, nah.” said the woman, “She’s staying right there.” She had just enough time to block a slash with her forearm when she turned back to her opponent. “That’s a little cheap going straight for the kill like that.” she chuckled and stepped down onto the street despite the gash pouring blood on her arm, “You’re going to regret that though.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T93">After the slash he had hopped back and now stabbed at the woman advancing on him. She stopped the blade by grabbing the hand holding it although the blade. He grinned, “You fool, that blade is –“</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T94">Poisoned, I know.” interrupted the woman, “I would be more surprised if it wasn’t.” His eyes darted to his knife as blood began to seep between the woman’s fingers. He pulled his hand back as if burned letting the knife drop to the ground. The knife’s blade was now pitted and worn with faint wisps of smoke coming off of it.</text:span></text:p>
-   <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T95">What are you?” he questioned as he started backing away. He pulled the bow and an arrow from his back. The woman whipped her bleeding arm toward him and braced herself. Instead of flying off her blood formed a solid rope all the way back to the start of the blood pool. The drow panicked and tried to dodge but the rope still struck him and stuck fast.</text:span></text:p>
+   <text:p text:style-name="P24"><text:tab/>“<text:span text:style-name="T95">What are you?” he questioned as he started backing away. He pulled the bow and an arrow from his back. The woman whipped her bleeding arm toward him and braced herself. Instead of flying off her blood formed a solid rope all the way back to the start of the blood pool. The draugr panicked and tried to dodge but the rope still struck him and stuck fast.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T95">Didn’t anyone tell you there were monsters here?” the woman posed before jerking her arm back and reeling in the drow. “Sometimes they dress up as humans so you got to be extra careful or they’ll eat you up.” she whispered into his ear as she held him with his back pressed against her. She looked to her closed front door after hearing it slam closed. “Well at least she’s got the right idea.” she tsked, “I’ll deal with that later.”</text:span></text:p>
    <text:p text:style-name="P3"><text:soft-page-break/><text:tab/><text:span text:style-name="T96">She held him in place despite his struggles. Her bleeding hand muffled his screams. “Hey, look on the bright side. At least you won’t die alone.” she said, “I don’t know why it matters, but that seems to cheer people up in the movies.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T97">Several sets of footsteps came from down the street. A guy in a trench coat and a pair of women armed with guns had come around the corner and were hurrying toward the two fighters. The red haired woman had a handgun while the brunette was carrying a rifle. They slowed to a stop and the guy asked, “What do we do now? Looks like she already got him.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">Hold on, Aaron.” said the red head, “Are you aware you’re bleeding out?”</text:span></text:p>
-   <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">Oh, don’t worry about that. You guys need something?” replied the woman with the drow still struggling. His screams had turned to whimpers and the attempts to escape slowed.</text:span></text:p>
+   <text:p text:style-name="P24"><text:tab/>“<text:span text:style-name="T97">Oh, don’t worry about that. You guys need something?” replied the woman with the draugr still struggling. His screams had turned to whimpers and the attempts to escape slowed.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">Why do you have your hand over his mouth? Why is he crying? Just what are you doing?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">Just tying up loose ends. If I had to guess though those are tears of existential dread.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">Well, could you let him go? I don’t think he’ll be causing anymore trouble.”</text:span></text:p>
-   <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T97">The woman paused before shrugged and letting the limp body of the drow slump to the ground. “Have at it. I was done anyway.”</text:span></text:p>
+   <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T97">The woman paused before shrugged and letting the limp body of the draugr slump to the ground. “Have at it. I was done anyway.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">Is he dead?” Aaron asked.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">Yes.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T97">No, he’s still breathing.” said the redhead.</text:span></text:p>
@@ -773,10 +870,10 @@
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T101">Ladies!” Sarah shouted, “Now, do you have any idea why he was here or why he attacked you?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T101">He’s one of Mab’s flunkies so I guess she’s taken an interest in New York for some reason.” Kate said, “Dunno why she would be interested in New York, but then neither did he.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T101">Who’s Mab?”</text:span></text:p>
-   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T101">If you’re going to chase faeries, you should already know that.” Kate said, “She’s their ice queen. I’m going home, but you guys should go brush up on your faerie tales. The old ones, not the Disney ones.”</text:span></text:p>
+   <text:p text:style-name="P28"><text:tab/>“<text:span text:style-name="T101">If you’re going to chase faeries, you should already know that.” Kate said, “She’s their ice queen. I’m going home, but you guys should go brush up on your faerie tales. The old ones, not the Disney ones.”</text:span></text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T102">It turned out that Kate had taken long enough for the visiting fox to fall asleep. However, the vixen had decided to hide under the bed in the main bedroom making it difficult to extract her. Despite all of this, Kate’s roommate was still sprawled out asleep on top of the bed. </text:span></text:p>
-   <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T102">Although the fox had not moved, she had woken up by the time Kate set her down on the coffee table in the living room. Kate went into the adjacent kitchen and came back with a basketball sized globe of water in her hands before sitting down on the couch next to the table. “Now, let’s get you cleaned up. I would say hold still, but it looks like you’ve found out the hard that dark elves like to use paralytic poisons.” Kate said and placed the water globe on the foxes back. The water spread out in a sheet over the fox causing the blood and debris to float away. “You’ve had a lot of luck this evening, although I’m not sure if it’s the good or bad kind. You resisted the poison long enough to get here, but I’ve never heard of drow hunting in the city in the first place.” The water orb had reformed now laden with contaminants so Kate carried it back to the kitchen.</text:span></text:p>
+   <text:p text:style-name="P24"><text:tab/><text:span text:style-name="T102">Although the fox had not moved, she had woken up by the time Kate set her down on the coffee table in the living room. Kate went into the adjacent kitchen and came back with a basketball sized globe of water in her hands before sitting down on the couch next to the table. “Now, let’s get you cleaned up. I would say hold still, but it looks like you’ve found out the hard that dark elves like to use paralytic poisons.” Kate said and placed the water globe on the foxes back. The water spread out in a sheet over the fox causing the blood and debris to float away. “You’ve had a lot of luck this evening, although I’m not sure if it’s the good or bad kind. You resisted the poison long enough to get here, but I’ve never heard of draugr hunting in the city in the first place.” The water orb had reformed now laden with contaminants so Kate carried it back to the kitchen.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T103">Well, you’re clean now and no longer bleeding. The remaining poison should wear off soon.” She said after sitting down again, “So I know the ending, but how was the rest of your night, Ashley?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T104">The fox stirred but her movements were weak and she was just able to mumble, “I’m sorry.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T105">Kate leaned forward and drew the fox into a hug before cooing, “Well, don’t worry everything’s going to be fine.”</text:span></text:p>
@@ -811,7 +908,7 @@
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T116">Ben quirked an eyebrow, “Shouldn’t I be asking that? I don’t even know what kind of dangers are out there let alone what to do about them.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T116">From the magical side, not many. I don’t know what interest the unseelie court has in New York, but we just need to keep our heads down while that gets sorted out. No, the only real threat for her are other humans.” Kate chuckled, “You guys scare the crap out of most things.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T116">What?”</text:span></text:p>
-   <text:p text:style-name="P23"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T116">Oh, technology is as alien to most creatures as magic is to you. On top of that you guys have this nasty habit of over reacting to perceived threats and banding together despite differences.” Kate explained, “Nope, there are very few in the other worlds willing to come here and the ones that do either learn to live peacefully or die.”</text:span></text:p>
+   <text:p text:style-name="P28"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T116">Oh, technology is as alien to most creatures as magic is to you. On top of that you guys have this nasty habit of over reacting to perceived threats and banding together despite differences.” Kate explained, “Nope, there are very few in the other worlds willing to come here and the ones that do either learn to live peacefully or die.”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T116">By the time there was movement in the bedroom, the sun had risen and ate had used repaired her injuries with the remaining supplies she had gotten out.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T116">Oh, hello. I don’t remember going to bed with anyone last night.” commented someone in the bedroom, “Hey, Kate, did you know that Ashley’s visiting?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T116">Yes, she came over last night.” Kate replied.</text:span></text:p>
@@ -826,38 +923,94 @@
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T118">You’re here too, Ben?” Kim said and came out of the bedroom. Unlike Kate, she was on the short side of average with a svelte build. A waterfall of pure white hair fan out behind her as stretched all the way to her thighs. She strode over and pulled Ben into a hug ignoring the fact that she had yet to put on a stitch of clothing.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T119">It’s nice to see you too, mom, but why don’t you take this,” Ben said and handed her the bag had brought, “to Ash so you two can get dressed?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T120">Both Kim and Ashley, now a red haired teenage girl, had gotten dressed and were now sitting in awkward silence with Kate and Ben. “So I don’t suppose this is just a friendly visit, is it?” Kim questioned.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T120">I’m sorry, dad!” Ash said before she rushed over to Ben, “I shouldn’t have snuck out! I just wanted to explore, but then everything went wrong!” He patted her back as she cried into his shoulder.</text:span></text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T120"><text:tab/> “Don’t worry, everything’s fine now.” Ben reassured. After she calmed down some he asked, “So when were you going to tell me you could transform?” Ashley tensed up again as she looked for an escape. “You’re not in trouble. I’m just wondering. Besides you aren’t the only one keeping secrets.” he continued and directed a pointed look at Kim who had frozen in place as well.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T121">I, um, didn’t… want you to be afraid of me.” Ash stammered.</text:span></text:p>
-   <text:p text:style-name="P26"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T122">I’m not going to be afraid of you, sweetie.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Even thought I’m a werewolf?” Ashley asked. When Ben blinked at her and hesitated she continued, “See, you are afraid.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/><text:span text:style-name="T122">“It’s not that.” Ben assured, “I think you may have confused a fox and a wolf.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">What?”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Ashley, your grandmother is a fox.” Kate said.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">What?” both Ashley and Kim asked. Ashley in confusion and Kim in alarm.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">literally a small forest dwelling canine.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Kate, why?” Kim pouted.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Because Ashley was chased here by a drow. If they’re going to start showing up, then secrets will only cause problems. Besides, Ben’s known since he was kid.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Really?” Kim turned her pout on Ben.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Most people can’t pull a sheet of cookies out of the oven with oven mitts.” Ben said.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Oh. I just wanted you to have normal human life.” Kim sighed.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Mom, you did a great job. I turned out fine.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T122">Wait, I thought you were adopted, dad.” Ashley questioned and turned to Kate, “Did you… are you, like, uh… my grandpa?”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/><text:span text:style-name="T123">Ben had a dumbstruck expression at the question and Kim blushed. “Nope, nobody knows who your grandpa is.” Kate said. Ashley blinked, took a sec, and looked like she had tried to swallow a lemon whole.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/><text:span text:style-name="T124">Ben said, </text:span>“<text:span text:style-name="T124">Well, you’re still my little girl regardless of species.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T124">Thanks, Dad, but what happens if I bite someone? Do they turn into a werefox, too?” Ash asked.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T124">Oh, don’t bite anyone!” Kim said, “There’s nothing special about it, but then everyone would be mad and I don’t want to lose you!”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T124">To be clear, you’re a sorceress. A natural one, at that. Akemi is a kitsune, a Japanese fox spirit. She was originally the same as any old fox, but she’s slowly gained magical powers over time.” Kate explained, “Beats me how the genetics work out, but you and your father are part fox. Your shape shifting is just shape shifting. You’re still human inside.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T124">But as a fox I have this need to hunt and chase things.” Ash mumbled, “Squirrels don’t taste too bad either.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/><text:span text:style-name="T125">Ben sighed, “Honey, please don’t eat the wild life.”</text:span></text:p>
-   <text:p text:style-name="P27"><text:tab/>“<text:span text:style-name="T125">Um, OK.” Ashley squeaked with beat red cheeks.</text:span></text:p>
-   <text:p text:style-name="P26"><text:soft-page-break/><text:tab/><text:span text:style-name="T126">Ben and Ashley had just left when Kim turned on Kate and rammed her fist into the larger woman’s stomach. With sharp teeth bared, she growled, “I can’t believe you went behind my back!” Another gut punch pushed Kate back a step. “I was protecting them and you ruined it!”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/><text:span text:style-name="T127">Kate grabbed Kim’s chin and forced her to look into Kate’s eyes when she said, “It worked. You did protect them. You just underestimated the curiosity of children. Little Benjamin was already suspicious so I gave him the answers he wanted before he did something stupid to find out.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T127">But why did you tell me?” Kim demanded.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T127">Everything was going fine, little Benjamin understood that we needed to seem human so why rock the boat.” Kate shrugged, “It wouldn’t have changed anything. You would still have to keep the act up, Ben would have to keep the act up. Kids keep secrets from their parents all the time, this was just one more. By the way, it made this little reveal go much smoother.”</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T127">I guess, but you better not be keeping anymore secrets.” Kim folded her arms across her chest.</text:span></text:p>
-   <text:p text:style-name="P26"><text:tab/>“<text:span text:style-name="T127">Ah well then, I guess I should tell you that a few monster hunters were following that elf.”</text:span></text:p>
-   <text:h text:style-name="P28" text:outline-level="1">Chapter 3</text:h>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T120">I’m sorry, dad!” Ash said before she rushed over to Ben, “I shouldn’t have snuck out! I just wanted to explore, but then everything went wrong!” He patted her back as she cried into his shoulder.</text:span></text:p>
+   <text:p text:style-name="P22"><text:tab/> “Don’t worry, everything’s fine now.” Ben reassured. After she calmed down some he asked, “So when were you going to tell me you could transform?” Ashley tensed up again as she looked for an escape. “You’re not in trouble. I’m just wondering. Besides you aren’t the only one keeping secrets.” he continued and directed a pointed look at Kim who had frozen in place as well.</text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T121">I, um, didn’t… want you to be afraid of me.” Ash stammered.</text:span></text:p>
+   <text:p text:style-name="P20"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T122">I’m not going to be afraid of you, sweetie.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Even thought I’m a werewolf?” Ashley asked. When Ben blinked at her and hesitated she continued, “See, you are afraid.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T122">“It’s not that.” Ben assured, “I think you may have confused a fox and a wolf.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">What?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Ashley, your grandmother is a fox.” Kate said.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">What?” both Ashley and Kim asked. Ashley in confusion and Kim in alarm.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">literally a small forest dwelling canine.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Kate, why?” Kim pouted.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Because Ashley was chased here by a dark elf. If they’re going to start showing up, then secrets will only cause problems. Besides, Ben’s known since he was kid.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Really?” Kim turned her pout on Ben.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Most people can’t pull a sheet of cookies out of the oven with oven mitts.” Ben said.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Oh. I just wanted you to have normal human life.” Kim sighed.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Mom, you did a great job. I turned out fine.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T122">Wait, I thought you were adopted, dad.” Ashley questioned and turned to Kate, “Did you… are you, like, uh… my grandpa?”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T123">Ben had a dumbstruck expression at the question and Kim blushed. “Nope, nobody knows who your grandpa is.” Kate said. Ashley blinked, took a sec, and looked like she had tried to swallow a lemon whole.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T124">Ben said, </text:span>“<text:span text:style-name="T124">Well, you’re still my little girl regardless of species.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T124">Thanks, Dad, but what happens if I bite someone? Do they turn into a werefox, too?” Ash asked.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T124">Oh, don’t bite anyone!” Kim said, “There’s nothing special about it, but then everyone would be mad and I don’t want to lose you!”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T124">To be clear, you’re a sorceress. A natural one, at that. Akemi is a kitsune, a Japanese fox spirit. She was originally the same as any old fox, but she’s slowly gained magical powers over time.” Kate explained, “Beats me how the genetics work out, but you and your father are part fox. Your shape shifting is just shape shifting. You’re still human inside.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T124">But as a fox I have this need to hunt and chase things.” Ash mumbled, “Squirrels don’t taste too bad either.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T125">Ben sighed, “Honey, please don’t eat the wild life.”</text:span></text:p>
+   <text:p text:style-name="P29"><text:tab/>“<text:span text:style-name="T125">Um, OK.” Ashley squeaked with beat red cheeks.</text:span></text:p>
+   <text:p text:style-name="P20"><text:soft-page-break/><text:tab/><text:span text:style-name="T126">Ben and Ashley had just left when Kim turned on Kate and rammed her fist into the larger woman’s stomach. With sharp teeth bared, she growled, “I can’t believe you went behind my back!” Another gut punch pushed Kate back a step. “I was protecting them and you ruined it!”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/><text:span text:style-name="T127">Kate grabbed Kim’s chin and forced her to look into Kate’s eyes when she said, “It worked. You did protect them. You just underestimated the curiosity of children. Little Benjamin was already suspicious so I gave him the answers he wanted before he did something stupid to find out.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T127">But why did you tell me?” Kim demanded.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T127">Everything was going fine, little Benjamin understood that we needed to seem human so why rock the boat.” Kate shrugged, “It wouldn’t have changed anything. You would still have to keep the act up, Ben would have to keep the act up. Kids keep secrets from their parents all the time, this was just one more. By the way, it made this little reveal go much smoother.”</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T127">I guess, but you better not be keeping anymore secrets.” Kim folded her arms across her chest.</text:span></text:p>
+   <text:p text:style-name="P20"><text:tab/>“<text:span text:style-name="T127">Ah well then, I guess I should tell you that a few monster hunters were following that elf.”</text:span></text:p>
+   <text:h text:style-name="P32" text:outline-level="1">Chapter 3</text:h>
+   <text:p text:style-name="P21"><text:tab/><text:span text:style-name="T128">Kim and Kate were ensconced in booth tucked away in the corner of a nearby steakhouse. A clean t-bone lay in front of Kim as she leaned back in her seat. Kate just sipped on her drink as she watched the smaller woman’s expression bounce between frowning and smiling. “I still wish you used more discretion.” Kim groused.</text:span></text:p>
+   <text:p text:style-name="P21"><text:tab/><text:span text:style-name="T129">“</text:span><text:span text:style-name="T130">I was going for a clean kill. Too bad he was being followed.” Kate shrugged, “Speaking of which.” Alex had just walked into the restaurant. </text:span><text:span text:style-name="T131">When she got close enough Kate asked, “Did you forget something?”</text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T131"><text:tab/>“</text:span><text:span text:style-name="T132">Can’t a girl just get something to eat?” Alex quipped but only got </text:span><text:span text:style-name="T133">blank stares</text:span><text:span text:style-name="T132">, “Fine, there is something. </text:span><text:span text:style-name="T133">That xeno was chasing something last night, you wouldn’t happen to know anything about it, would you? </text:span><text:span text:style-name="T134">You’re not hiding anything, are you?</text:span><text:span text:style-name="T133">” She leaned on the table toward Kate but quickly turned </text:span><text:span text:style-name="T134">when she heard a low rumble from the other side of the table. Kim had not only narrowed her eyes at the new female but her pupils were now thin slits as well. “The hell?”</text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T134"><text:tab/>“Child, you really are a naive fool.” Kate said, “You don’t need to worry about me deceiving you, or betraying you, or whatever it is you think I’m up to. If I want to do something to you, I will just reach out and do it.” She looked down to her hand wrapped around Alex’s wrist. “Now, we aren’t allies but we aren’t enemies, yet. </text:span><text:span text:style-name="T135">Take a seat, turn on your brain, because you are out of your out of your depth, but lucky.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“So you’re both demons.” Alex stated as she tried to pull her arm free, “I know how you guys work, if you could do something you would have already.”</text:p>
+   <text:p text:style-name="P23"><text:tab/>“No, you know just enough to get yourself killed.” Kate sighed but did not let go, “I wouldn’t be surprised if that was true of any demons you’ve encountered, but most don’t give a shit about humans. I have yet to decide what to do about you.”</text:p>
+   <text:p text:style-name="P23"><text:soft-page-break/><text:tab/>Kim sighed, “Kate, I’ll handle this one.” <text:span text:style-name="T136">She slid toward the wall to make room and gestured for Alex to sit, “Please, there’s no need for hostilities. Go ahead and take a seat so we can get this sorted out. If you wish you can order something, Kate’s paying.” Kate raised an eyebrow at that but didn’t comment.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T137">Alex scanned the surroundings while she thought about the offer. She sat down and placed an order of chicken and waffles before commenting, “Going for the good cop, bad cop routine. I guess I can play along.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T137">Not quite. This isn’t a routine, nor do we need to be adversaries. Kate tends to respond in kind by default and often disproportionately. If you aren’t careful about how you escalate things, she will happily kill you, your friends, and possibly your family for good measure. Personally I think she could to be more discrete about things.” Kim explained.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T137">Alex’s breathed hitched as she stared wide eyed at Kate. Kate just shrugged and said, “Eh, it’s true. Especially if you have children. They make the worst loose ends.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T138">Kim groaned, “You’re not helping.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T139">So funny, I forgot to laugh.” Alex deadpanned. A pointed look from Kim stopped Kate from replying.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T139">What is it you’re after here?” Kim asked, “He was chasing my granddaughter, I hope you aren’t doing the same.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T139">It’s the only lead we have since someone decided put our prisoner in a coma.” Alex huffed.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T139">Kim blinked at Alex. “I thought Kate told you. He’s dead. His soul has been ripped out, consumed, and sent to Hel. All you have is a corpse.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">Wait, how literal is all that?” Alex questioned.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">Completely. As for your lead, he came through the connection between central park and svartalfheim. Queen Mab has grown jealous of the riches of humans and is sending scouts into the city.” Kate explained, “They’re still a feudal society even after all this time so I don’t think she understands modern logistics. You’ve got a bunch of dark elves sneaking around looking for a magical macguffin that doesn’t exist.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">Modern logistics?” Alex repeated.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">Even after all this time, the dark elves still have a feudal society. A city of millions is beyond their comprehension.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">How do you know all this?”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">I’ve had a lot of practice with souls. His memories are mine now and they’re still more of less intact.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">Why can’t you be more discreet about these things?” Kim groaned.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T140">Just how many times have you… practiced with the souls of humans?” Alex asked.</text:span></text:p>
+   <text:p text:style-name="P31"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T140">No, we are not getting into that.” Kim said, “It’s a moot point that will only make things more tense. Don’t worry about Kate, she’s only as dangerous as you make her. Now eat your food while you think about things. You need more meat on those bones.”</text:span></text:p>
+   <text:p text:style-name="P23"/>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T140">The impromptu meeting took a lighter tone until it was ended when Alex’s phone started ringing. Alex left and Kim scarfed down the food she left behind and the bone she had been nibbling on <text:s/>before following Kate in tow. The pair started walking in the same direction they had seen Alex drive off. None of the people around them noticed the steady increase of their speed despite an unchanging gait or the way they faded until only a breeze was left behind.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T141">Once Alex had circled the same block twice, Kate and Kim rounded the corner behind her. Tightly packed stores lined the sidewalk while people milled around between them. With her height, Kate was able to survey the throngs of people milling around.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T142">What are you looking for?” Kim asked.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T143">Dunno, but she ran into us so maybe she’ll find something else interesting.” Kate said before she stopped looking around and smirked, “Like him.” Across the street standing in front of a specialty meat shop was a teenager looking away</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T143">Kim squinted, “How did you even notice that?” When Kate started crossing the street Kim hissed, “Don’t go over there!”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T144">Hey, kid, you waiting for something?” Kate asked when she got close to teenager.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“… big…” <text:span text:style-name="T144">replied the teenager.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T144">Yeah, a big boor.” Kim said as she caught up.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T144">Um, I… big sister!” the kid stammered, “Who I’m waiting for! My big sister!”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T144">And we’ll just let you get back to that.” Kim said and tried to pull Kate away.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T145">Oh, quit being a worry wart. Something’s happening and we need more information.” Kate said, “Besides, what’s a young werewolf going to do anyway?”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/><text:span text:style-name="T145">Both Kim and the young man goggled at Kate, but Kim turned to peer at him after a moment. The young man squeaked, “What? I’m not a werewolf!”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T145">Always with the paranoia from you animal spirits.” Kate glanced at Kim, “People have to much on their own plates to worry about fictional creatures.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T146">What in the fucking hell are you two doing here!?” Alex yelled running up to the group.</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T146">With a few exceptions.” Kate said before turning to the irate woman, “Hey, you followed us so I figured turn about was fair play.”</text:span></text:p>
+   <text:p text:style-name="P23"><text:tab/>“<text:span text:style-name="T146">So you come harass my brother!?” Alex fumed.</text:span></text:p>
+   <text:p text:style-name="P37"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T146">Your brother?” Kate looked between Alex and the teenage boy. She smirked, “The monster hunter has a werewolf for a brother.”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/><text:span text:style-name="T146">Alex glared at Kate but her brother was the one that cried, “Hunter!?”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T147">I’m sure she’s not going to do anything to you.” Kim reassured with a hand on the boy’s shoulder.</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T147">We were attacked by a hunter last night.” he said.</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T147">What a coincidence, I ate a hunter last night.” Kate said.</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T148">Jason, that wasn’t just a hunter. Well, not a human one at least.” Alex said while rubbing the bridge of her nose, “Ugh, don’t listen to this jerk. I’m not a monster hunter, I just deal with paranormal things. Sometimes they require a gun.”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T148">I don’t know, you pointed a rifle at me.” Kate said, “That seems something a monster hunter would do.”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T148">You killed our target! I wasn’t going to take chances!” Alex shouted back.</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/><text:span text:style-name="T148">While Kate and Alex continued to argue Kim turned to Jason and said, “So, Jason, you were attacked, too?”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T149">Well, sort of.” Jason scratched the back of his head, “The hunter actually went after Ash when she was alone. It happened so fast. They were gone before any of us could react.” He looked over to the arguing women, “Um, should we stop them or something?”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T150">Don’t worry, Kate’s pretty passive. There’s next to nothing your sister could do to aggravate Kate. Even if Alex takes a swing at her, well, Kate probably deserves it but she’ll just laugh it off.” Kim replied.</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T150">Oh,” Jason looked down and kicked at the ground, “That’s good. Hey, are you like a…. um…”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T151">Kitsune,” Kim said and after seeing Jason’s lost expression continued, “It’s the Japanese word for fox. In a way I’m the opposite of you. I was born a fox and eventually gained the power to shape shift.” Kim leaned in and asked, “So what were you doing with my granddaughter last night?”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T152">Granddaughter!?” Jason sputtered, “Uh, nothing! Um, I mean we were just hanging out… not alone or anything! I’m just digging myself in deeper aren’t I.” He sighed and took a moment before explaining, “The local werewolves get together during the full moon for a party thing rather than run wild. We were actually just picking up snacks before I called my sister.”</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>“<text:span text:style-name="T153">Ooh, that’s fun!” Kim clapped her hands together, “</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
