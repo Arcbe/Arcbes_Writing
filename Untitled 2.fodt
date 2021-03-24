@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-02-17T16:26:26.967814835</meta:creation-date><dc:date>2021-02-25T16:34:07.401224463</dc:date><meta:editing-duration>P229DT20H11M11S</meta:editing-duration><meta:editing-cycles>2514</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:print-date>2021-02-05T16:29:47.074650749</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="110" meta:word-count="2685" meta:character-count="14663" meta:non-whitespace-character-count="11978"/></office:meta>
+ <office:meta><meta:creation-date>2020-02-17T16:26:26.967814835</meta:creation-date><dc:date>2021-03-23T19:32:46.665318649</dc:date><meta:editing-duration>P234DT12H34M58S</meta:editing-duration><meta:editing-cycles>2685</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:print-date>2021-02-25T19:16:04.574639724</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="178" meta:word-count="4158" meta:character-count="22837" meta:non-whitespace-character-count="18680"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">173688</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">290070</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">47574</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">23206</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">24425</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">179167</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25869</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">300810</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">173688</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">290070</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">47572</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">196892</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">313274</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -41,7 +41,7 @@
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">owH+/0hQX0VOVllfNzY0MF9zZXJpZXNfODUwOEEwXwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9FTlZZXzc2NDBfc2VyaWVzXzg1MDhBMAAWAAMAxAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9SFBfRU5WWV83NjQwX3Nlcmllc184NTA4QTBfCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpMZXR0ZXIAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">iQH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAqgAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
@@ -71,7 +71,7 @@
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">HP_ENVY_7640_series_8508A0_</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">39287695</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">42306060</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -118,9 +118,7 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <ooo:library-embedded ooo:name="Standard"/>
-   </ooo:libraries>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -253,29 +251,39 @@
    <style:text-properties officeooo:paragraph-rsid="02470193"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0258cfe3"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="025c6c79" officeooo:paragraph-rsid="025c6c79"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="025c6c79"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties officeooo:paragraph-rsid="0005ef26"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties officeooo:paragraph-rsid="020e2470"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0258cfe3"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="025c6c79"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0005ef26" officeooo:paragraph-rsid="0005ef26"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="00cd6845" officeooo:paragraph-rsid="00cd6845"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="02470193"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0005ef26" officeooo:paragraph-rsid="0005ef26"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00cd6845" officeooo:paragraph-rsid="00cd6845"/>
+   <style:text-properties officeooo:rsid="0258cfe3" officeooo:paragraph-rsid="0258cfe3"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="016076b2"/>
@@ -406,6 +414,105 @@
   <style:style style:name="T43" style:family="text">
    <style:text-properties officeooo:rsid="02577b8f"/>
   </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties officeooo:rsid="0258cfe3"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties officeooo:rsid="025a27e8"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties officeooo:rsid="025bd4cd"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties officeooo:rsid="025c222d"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties officeooo:rsid="025e1ad1"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties officeooo:rsid="025ed560"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties officeooo:rsid="0260c1e0"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties officeooo:rsid="0261d263"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties officeooo:rsid="0263c76f"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties officeooo:rsid="026403e2"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="02655382"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties officeooo:rsid="02658de3"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties officeooo:rsid="026653a4"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties officeooo:rsid="02673136"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties officeooo:rsid="0269ac91"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties officeooo:rsid="026b48f1"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties officeooo:rsid="026c3b7f"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties officeooo:rsid="026c3c96"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties officeooo:rsid="027233b5"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties officeooo:rsid="027301ea"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties officeooo:rsid="02742488"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties officeooo:rsid="02750baf"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties officeooo:rsid="027790e2"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties officeooo:rsid="02796d21"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
+   <style:text-properties officeooo:rsid="027b14d1"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties officeooo:rsid="027dd819"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties officeooo:rsid="027ec28c"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties officeooo:rsid="02808ba3"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties officeooo:rsid="0281a4db"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties officeooo:rsid="02826122"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties officeooo:rsid="028275e8"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties officeooo:rsid="0283afb6"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties officeooo:rsid="02858a0c"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -426,7 +533,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P8" text:outline-level="2">Chapter 1</text:h>
+   <text:h text:style-name="P13" text:outline-level="2">Chapter 1</text:h>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T2">Claws scraped against concrete. Breath condense into fog in the air. Drops of blood fell to the ground. On a quiet street in the middle of the night a scarlet fox fled. Panting and wide eyed she ignored the gash on her side dripping blood. She veered after reaching one of the houses and lost a bit of fur jumping over the fence. The door rattled when she threw herself against it before pawing at the knob.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T3">The door opened and the fox fell across the threshold. After a second for the surprise to fade she scrabbled between the legs of the woman that opened the door. The woman quirked an eyebrow before scanning the street. She pulled the door closed as she stepped outside and walked up to the fence. The top of the fence was just short of her waist. Despite the deep wrinkles on her face there was not a single gray hair in her pitch black mane.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T4">A lone man in a dark trench coat appeared at the end of the street. He paused when he caught sight of the woman staring at him. They continued to eye one another as the man made his way down the street. He stopped well away from the fence and asked, “Are you a witch?”</text:span></text:p>
@@ -452,7 +559,7 @@
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T9">Aaron charged forward and punched Kate in the same spot that the bolt had hit. “That’s a bit dirty, but it won’t work.” Kate said and returned Aaron’s punch. There was a metallic thunk and Aaron stagger back with a visible dent in his coat. “Who the hell still uses metal armor?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">What the hell are you?” Sarah said drawing Kate’s attention. Sarah was holding a small stone with a hole in it to her eye.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">Oh, you have an adder stone?” Kate commented, “I’m curious. How much does it let you see?”</text:span></text:p>
-   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T10">We gotta go! The stone can’t pierce her disguise!” Sarah shouted before taking off. Kate rolled her eyes as the other two followed after their leader.</text:span></text:p>
+   <text:p text:style-name="P10"><text:tab/>“<text:span text:style-name="T10">We gotta go! The stone can’t pierce her disguise!” Sarah shouted before taking off. Kate rolled her eyes as the other two followed after their leader.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T10">The sound of running water led Kate through the house to the master bathroom. The shower washed over the occupants of the stall. The fox was being cradled in the arms of a petite white haired woman. The woman was trying to stop the flow of blood from the foxes side and scrub off the dirt and debris in her fur. Without clothes on, it was easy to see the markings taking up most of her back. It formed a pair of concentric rings with a winding path filling the area in between them. A six pointed star occupied the center of the labyrinthine display.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">Where were you Kate?” the woman demanded, “Ashley’s hurt and I can’t fix her myself!”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T1">I was taking care of her pursuers.” Kate said as she joined Kim. Kim’s breath hitched. “She’s been sneaking around at night but I don’t think she’s quite as sneaky as she thinks.”</text:span></text:p>
@@ -463,7 +570,7 @@
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T11">You knew about this, didn’t you? You knew she was sneaking out at night. Why didn’t you tell me?”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T11">You never asked.” Kate rolled her eyes at the glare Kim gave her, “I’m here for you, not your daughter.”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T11">Sometimes I hate you.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T11">That’s an improvement.”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T11">That’s an improvement.”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T12">Kate had moved back to the living room while Kim took care of her daughter. She had resumed reading her book as she sat on the couch. Kim came down stairs after putting Ashley to bed and started pacing in front of the coffee table. Kate just flipped the page.</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T13">What are we going to do?” Kim asked, “We can’t stay here if people know about us!”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T13">So move.” Kate turned the page, “You can go on the run. Consider it an adventure or something.”</text:span></text:p>
@@ -473,7 +580,7 @@
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T14">Don’t worry, she’s good enough at putting herself in danger.”</text:span></text:p>
    <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T14">This is a serious matter!”</text:span></text:p>
    <text:p text:style-name="P4"><text:tab/>“<text:span text:style-name="T14">Yep. It’s also one that you’ve been avoiding for years now. I told you, you can pretend to be human but you still have to remember that you aren’t one. You should have told you daughter a long time ago.</text:span></text:p>
-   <text:h text:style-name="P9" text:outline-level="2">Chapter 2</text:h>
+   <text:h text:style-name="P14" text:outline-level="2">Chapter 2</text:h>
    <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T15">Instead of going back to bed, Kim had sequestered herself in the kitchen. The smell of breakfast foods soon filled the house as more dishes collected on the dining table. A thud came from upstairs just before Ashley crept into the room. She was a teenager now with a striking head of red hair. Kate watched from her spot at the opposite end of the table as the girl surveyed the feast laid out. Eyeing the door to the kitchen Ashley snuck into the nearest seat.</text:span></text:p>
    <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T20">Granny Kate, what’s with all the food?” Ashley whispered.</text:span></text:p>
    <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T16">It’s breakfast.” Kate whispered back. Ash frowned. “Your mom’s trying to distract herself. She’ll probably stop before she has to start stacking things.”</text:span></text:p>
@@ -535,7 +642,75 @@
    <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T43">Things have just become complicated lately.” Kim said as she opened the bottle and brought it to her lips, “Don’t try this until you get bigger.”</text:span></text:p>
    <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T43">Um.” Ashley gaped with wide eyes as her mother drained the entire bottle in one go, “Yeah, OK. I’m sorry I drove you to drinking.”</text:span></text:p>
    <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T43">Kim belched out a gout of flame, “Don’t worry, I just didn’t expect that to be so… fun.”</text:span></text:p>
-   <text:p text:style-name="P5"><text:tab/></text:p>
+   <text:h text:style-name="P15" text:outline-level="1">Chapter 3</text:h>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T44">So you finally decided to be less boring, or what?” Kate asked.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T44">I don’t know.” Kim mutter.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T44">Figured out where you’re gonna run to?”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T44">I dunno.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T44">Wait, why do we need to leave?” Ashley asked, “Those bullies got their ass kicked! There’s no way they’re coming back now!”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T44">It’s not safe.” Kim said, “They’re just going to come back better prepared next time.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T45">Oh come on! It’s not fair! Do you even know what it’s like to be the new kid? It’ll take forever to figure out a new school!”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T46">Ash, you were already attacked once. We have to move.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T47">I’m fine, but you’re going to ruin my life anyway.” Ashley pouted and stalked off, “Whatever. I don’t care anymore.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T47">That went well.” Kate said, “You know, there are more options.”</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T47">No!” Kim said, “Just no.”</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T47">Oh, so there is a limit to what you’ll sacrifice for safety? Anyway, I said ‘options’ plural. You figure out how much you’re willing to pay for an impossible goal. I’m going to see what’s going on over at the park.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>Kate stopped on the sidewalk in front of the house to watch Ashley <text:span text:style-name="T48">climb</text:span> <text:span text:style-name="T48">down from</text:span> <text:span text:style-name="T48">a </text:span>second floor window. <text:span text:style-name="T48">The teenager froze after getting to the ground and turning around. “Why are you sneaking out?” Kate asked.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T49">Mom’s being so… urgh.” Ashley replied.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T49">Yes, but why the sneaking?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T49">So she doesn’t have a chance to say no.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/><text:span text:style-name="T50">Kate nodded and continued walking. Ashley fell in behind her and two walked to the park in silence. A block away the road was clogged with police cars. Police tape wrapped around trees and officers milled around the edge keeping a crowd of spectators out.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T50">What’s going on over there?” Ashley asked.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T50">Dead body’s my guess.” Kate replied, “We’re looking for the thing that killed ‘em though.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T50">We are? How are we going to do that?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T51">It should stand out as unnatural. It’s probably feral too so it should live somewhere around here.” Kate said, “If it’s targeting lone humans, you might even be able to bait it out.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T51">Wait what!? Why do I have to be the bait?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T51">I keep my magical signature hidden. Cuts down on problems. Besides you already survived one mortal wound, what’s one more?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T51">What do you mean I already survived a mortal wound?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T52">That was a nasty wound last night. That bolt came close to disemboweling you. You shouldn’t have been able to make that run, but then you aren’t exactly normal either.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/><text:span text:style-name="T53">Ashley blinked, “But I woke up with nothing. Hell, I didn’t even feel stiff. It’s like all of that was just a dream. Mom got hit too and she just shook it off. ”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T53">I guess things have been moving a bit fast for you and it hasn’t sunk in yet. You heard how that hunter reacted to the pain. Why do you think Kim could just shrug that off?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T54">Um,” Ashley furrowed her brows, “You said that wasn’t the worst wound… and she knew how to fight… she’s just been pretending to be boring all this time?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T55">She’s a centuries old shape shifter with enough combat experience to keep calm while bleeding out. She didn’t take well to learning the most important rule of immortality, though.” Kate said and walked into the wooded area of the park. Twigs and leaves crunch beneath feet but the underbrush was thin enough to not be an obstacle.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T56">Hey, what’s the rule?” Ashley said as she caught up.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T56">Everything has an end.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/><text:span text:style-name="T57">The two trudged through the area for a while before Ashley spoke up again, “Are things really that dangerous?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T57">As dangerous as Kim thinks?” Kate stopped, “hmm, she’s not wrong, but that doesn’t mean she’s right either. The danger was always there and it’ll be wherever she runs to as well. Now they know about you, but you also know about them. I don’t really know whether that’s better or worse.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T57">Why aren’t you more worried about this then?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T57">I’ve already died.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T57">What!?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T57">I died. My existence ended. My life reached it’s end.” Kate replied. Ashley glared at her so she rolled her eyes and continued, “It’s the pronouns. I consider this existence to be a continuation of my previous one. It would be just as accurate to say I’m the thing that ate Kate, though.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/><text:span text:style-name="T57">Ashley blanched and asked, “You’re not going to, um…”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T57">Eat you?” Kate chuckled, “This happened centuries ago. I’m the same Kate that midwifed for your birth.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T58">I guess so… ugh, now it smells gross, too. This day sucks.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T59">You can smell it?” Kate questioned, “It’s the barghest that’s been watching us. I guess there are enough people stomping around to wake it during the day.” Standing in the distance was a large black dog. It fur was patchy though with torn sections revealing bulging muscles underneath. A sickly green light was oozed from it’s chest and the skull that served as a head.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T59">Oh god, that’s a zombie dog.” Ashley stammered backing away until she bumped into a tree, “There’s a goddamn zombie going to eat me.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T59">Not really, it’s a failed hell hound. Probably some local dog in the wrong place at the wrong time.” Kate said and in the blink of an eye the creature disappeared, “It can also shape shift some and go invisible. Might as well put it out of it’s misery.” Kate took in a breath before commanding, “Come!” The command reverberated through something more than sound, but nothing happened. Kate grumbled, “Stubborn thing. Come Here!” The command was not much louder than the previous but it resonated deeper. Even the trees swayed toward Kate for a second.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/><text:span text:style-name="T60">Ashley froze wide eyed when the barghest appeared standing right in front of Kate. Kate took a knife out of her pocket and ran it across her palm. Blood bubbled up from the cut and covered her hand. She gave the barghest a casual pat on the head and the beast collapsed like a puppet with cut strings.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T61">Ah, I think I’m done for today.” Ashley said before turning a walking straight into a wall of white fur. She walked straight into a white fox with five tails. The fox was large enough to rival most cars. Hints of black markings could be seen through her fur.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T62">Mom? You’re, um… big.” Ashley said once she backed up.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T63">I suppose it has been a few decades since I stretched my legs.” Kim said without moving her lips, “If you two are done we might as well get moving.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T64">Uh, you going to go home like that?” Ashley questioned.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T64">We aren’t going home.” Kim said as wisps of flame lifted from the tips of her tails. They flew around the group and cast the entire area in an eerie blue light.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T65">That’s pretty cool, I guess.” Ashley said while trying to keep all of the flames in sight, “What do you mean we aren’t going home?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T65">She’s doing that kitsune thing.” Kate said, “Foxes are pretty skittish. They just cut and run as soon as they are revealed.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/><text:span text:style-name="T66">Ashley crossed her arms and declared, “I’m not going. We haven’t even done anything, why do we have to leave?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T66">We don’t belong here!” Kim growled</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T66">Says who!?” Ashley stomped her foot.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T67">I do.” Kim declared and the light from the wisps crept over the surroundings. Everything except for Kate, Kim, and Ashley ended up the same color as the wisps.</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T68">What did you do!?” Ashley cried and moved away from the trees. Faint lines of light pulsed under the earth connecting the trees together. </text:span></text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T69">She shifted us to the spirit world.” Kate said, “Never liked that name though. Makes it sound like a different place but it’s just the magical part of the regular world. Basically, we turned into ghosts.”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T69">A ghost?” Ashley stared at her hand, “but why?”</text:span></text:p>
+   <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T70">It’ll make traveling easier.” Kim said.</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T70">Oh.” Ashley said without emotion. She stared into the forest before continuing, “Where are we going?”</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/><text:span text:style-name="T71">Kim frowned, “South.”</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/><text:span text:style-name="T71">Ashley took a moment to answer, “Fine.”</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/><text:span text:style-name="T72">Kim cocked her head to the side as she peered at her daughter. “I expected more resistance. What’s wrong?”</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T73">What? Now you’re going to complain that I’m not complaining.” Ashley said through grit teeth, “It’s not worth it.”</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/><text:span text:style-name="T74">Kim looked to Kate who sighed, “You’ve been around for centuries and you still haven’t realized how social humans are? I told you if you had a child now you would tie yourself to this world. If you want to leave you have to cut that tie. Why are you surprised that tie isn’t taking well to being cut?”</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/><text:span text:style-name="T75">Ashley looked away when Kim looked back to her. “Alright, maybe… I rushed things a little.” Kim admitted.</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T76">Gee, ya think.” Adhley muttered.</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T76">Let’s just take stock of the situation and go from there.”</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
