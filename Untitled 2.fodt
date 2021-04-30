@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-02-17T16:26:26.967814835</meta:creation-date><dc:date>2021-03-23T19:32:46.665318649</dc:date><meta:editing-duration>P234DT12H34M58S</meta:editing-duration><meta:editing-cycles>2685</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:print-date>2021-02-25T19:16:04.574639724</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="178" meta:word-count="4158" meta:character-count="22837" meta:non-whitespace-character-count="18680"/></office:meta>
+ <office:meta><meta:creation-date>2020-02-17T16:26:26.967814835</meta:creation-date><dc:date>2021-03-28T16:32:44.804921628</dc:date><meta:editing-duration>P235DT7H6M18S</meta:editing-duration><meta:editing-cycles>2714</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:print-date>2021-02-25T19:16:04.574639724</meta:print-date><meta:document-statistic meta:character-count="24050" meta:image-count="0" meta:non-whitespace-character-count="19678" meta:object-count="0" meta:page-count="12" meta:paragraph-count="188" meta:table-count="0" meta:word-count="4374"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">290070</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">318433</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">47574</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">23206</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">25869</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">300810</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14991</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2854</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">290070</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">318433</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">47572</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">313274</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">341637</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">42306060</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">42758412</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -118,7 +118,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -260,19 +262,19 @@
    <style:text-properties officeooo:paragraph-rsid="025c6c79"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0005ef26"/>
+   <style:text-properties officeooo:paragraph-rsid="02858a0c"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
-   <style:text-properties officeooo:paragraph-rsid="020e2470"/>
+   <style:text-properties officeooo:paragraph-rsid="0005ef26"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0258cfe3"/>
+   <style:text-properties officeooo:paragraph-rsid="020e2470"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="025c6c79"/>
+   <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0258cfe3"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0005ef26" officeooo:paragraph-rsid="0005ef26"/>
@@ -284,6 +286,25 @@
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0258cfe3" officeooo:paragraph-rsid="0258cfe3"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="02858a0c" officeooo:paragraph-rsid="02858a0c"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0005ef26" officeooo:paragraph-rsid="0005ef26"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00cd6845" officeooo:paragraph-rsid="00cd6845"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0258cfe3" officeooo:paragraph-rsid="0258cfe3"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="02858a0c" officeooo:paragraph-rsid="02858a0c"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="016076b2"/>
@@ -513,6 +534,21 @@
   <style:style style:name="T76" style:family="text">
    <style:text-properties officeooo:rsid="02858a0c"/>
   </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties officeooo:rsid="0286ee79"/>
+  </style:style>
+  <style:style style:name="T78" style:family="text">
+   <style:text-properties officeooo:rsid="0288e53e"/>
+  </style:style>
+  <style:style style:name="T79" style:family="text">
+   <style:text-properties officeooo:rsid="02892bf5"/>
+  </style:style>
+  <style:style style:name="T80" style:family="text">
+   <style:text-properties officeooo:rsid="028ad09a"/>
+  </style:style>
+  <style:style style:name="T81" style:family="text">
+   <style:text-properties officeooo:rsid="028b4d22"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -559,7 +595,7 @@
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T9">Aaron charged forward and punched Kate in the same spot that the bolt had hit. “That’s a bit dirty, but it won’t work.” Kate said and returned Aaron’s punch. There was a metallic thunk and Aaron stagger back with a visible dent in his coat. “Who the hell still uses metal armor?”</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">What the hell are you?” Sarah said drawing Kate’s attention. Sarah was holding a small stone with a hole in it to her eye.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">Oh, you have an adder stone?” Kate commented, “I’m curious. How much does it let you see?”</text:span></text:p>
-   <text:p text:style-name="P10"><text:tab/>“<text:span text:style-name="T10">We gotta go! The stone can’t pierce her disguise!” Sarah shouted before taking off. Kate rolled her eyes as the other two followed after their leader.</text:span></text:p>
+   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T10">We gotta go! The stone can’t pierce her disguise!” Sarah shouted before taking off. Kate rolled her eyes as the other two followed after their leader.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T10">The sound of running water led Kate through the house to the master bathroom. The shower washed over the occupants of the stall. The fox was being cradled in the arms of a petite white haired woman. The woman was trying to stop the flow of blood from the foxes side and scrub off the dirt and debris in her fur. Without clothes on, it was easy to see the markings taking up most of her back. It formed a pair of concentric rings with a winding path filling the area in between them. A six pointed star occupied the center of the labyrinthine display.</text:span></text:p>
    <text:p text:style-name="P3"><text:tab/>“<text:span text:style-name="T10">Where were you Kate?” the woman demanded, “Ashley’s hurt and I can’t fix her myself!”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T1">I was taking care of her pursuers.” Kate said as she joined Kim. Kim’s breath hitched. “She’s been sneaking around at night but I don’t think she’s quite as sneaky as she thinks.”</text:span></text:p>
@@ -570,7 +606,7 @@
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T11">You knew about this, didn’t you? You knew she was sneaking out at night. Why didn’t you tell me?”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T11">You never asked.” Kate rolled her eyes at the glare Kim gave her, “I’m here for you, not your daughter.”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T11">Sometimes I hate you.”</text:span></text:p>
-   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T11">That’s an improvement.”</text:span></text:p>
+   <text:p text:style-name="P10"><text:tab/>“<text:span text:style-name="T11">That’s an improvement.”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T12">Kate had moved back to the living room while Kim took care of her daughter. She had resumed reading her book as she sat on the couch. Kim came down stairs after putting Ashley to bed and started pacing in front of the coffee table. Kate just flipped the page.</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T13">What are we going to do?” Kim asked, “We can’t stay here if people know about us!”</text:span></text:p>
    <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T13">So move.” Kate turned the page, “You can go on the run. Consider it an adventure or something.”</text:span></text:p>
@@ -654,7 +690,7 @@
    <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T47">I’m fine, but you’re going to ruin my life anyway.” Ashley pouted and stalked off, “Whatever. I don’t care anymore.”</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T47">That went well.” Kate said, “You know, there are more options.”</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T47">No!” Kim said, “Just no.”</text:span></text:p>
-   <text:p text:style-name="P11"><text:tab/>“<text:span text:style-name="T47">Oh, so there is a limit to what you’ll sacrifice for safety? Anyway, I said ‘options’ plural. You figure out how much you’re willing to pay for an impossible goal. I’m going to see what’s going on over at the park.”</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>“<text:span text:style-name="T47">Oh, so there is a limit to what you’ll sacrifice for safety? Anyway, I said ‘options’ plural. You figure out how much you’re willing to pay for an impossible goal. I’m going to see what’s going on over at the park.”</text:span></text:p>
    <text:p text:style-name="P7"><text:tab/>Kate stopped on the sidewalk in front of the house to watch Ashley <text:span text:style-name="T48">climb</text:span> <text:span text:style-name="T48">down from</text:span> <text:span text:style-name="T48">a </text:span>second floor window. <text:span text:style-name="T48">The teenager froze after getting to the ground and turning around. “Why are you sneaking out?” Kate asked.</text:span></text:p>
    <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T49">Mom’s being so… urgh.” Ashley replied.</text:span></text:p>
    <text:p text:style-name="P7"><text:tab/>“<text:span text:style-name="T49">Yes, but why the sneaking?”</text:span></text:p>
@@ -709,8 +745,18 @@
    <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T73">What? Now you’re going to complain that I’m not complaining.” Ashley said through grit teeth, “It’s not worth it.”</text:span></text:p>
    <text:p text:style-name="P8"><text:tab/><text:span text:style-name="T74">Kim looked to Kate who sighed, “You’ve been around for centuries and you still haven’t realized how social humans are? I told you if you had a child now you would tie yourself to this world. If you want to leave you have to cut that tie. Why are you surprised that tie isn’t taking well to being cut?”</text:span></text:p>
    <text:p text:style-name="P8"><text:tab/><text:span text:style-name="T75">Ashley looked away when Kim looked back to her. “Alright, maybe… I rushed things a little.” Kim admitted.</text:span></text:p>
-   <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T76">Gee, ya think.” Adhley muttered.</text:span></text:p>
+   <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T76">Gee, ya think.” Ashley muttered.</text:span></text:p>
    <text:p text:style-name="P8"><text:tab/>“<text:span text:style-name="T76">Let’s just take stock of the situation and go from there.”</text:span></text:p>
+   <text:h text:style-name="P16" text:outline-level="1">Chapter 4</text:h>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T77">Did you learn anything from that thing?” Kim asked indicating the barghest corpse.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T77">Local dog in the wrong place at the wrong time.” Kate replied, “It ran into some errant magic from the underworld and has been hanging around here for the past few weeks. A couple of victims in addition to the recent one at the edge of the forest. It also ran into a surprising number of magically inclined humans. Oh, it’s probably not the only one wandering around either.”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T77">Wait, how do you know all of that?” Ashley asked.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T77">I got it’s memories when I pulled out it’s soul.”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“Oh…<text:span text:style-name="T77">”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T77">I’ve found it easier to not ask how she knows what she knows.” Kim said, “so we have someone playing with powerful magic and now both the mundane and magical police think we have something to do with it.”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T79">What if we help them?” Ashley said, “I mean we can’t just let some one run around creating these creepy dog things.” When she saw her mom look away she continued, “Seriously? You’re planning on letting people die!?”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T80">Ashley, it’s not our responsibility, and someone’s already working on the problem.”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“<text:span text:style-name="T81">Well they’re not doing a very good job. Besides, this is our home. We have to do something. You’re practically a super-hero!”</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
