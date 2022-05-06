@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2021-07-12T12:28:17.683926190</meta:creation-date><dc:date>2021-11-14T19:02:00.426443819</dc:date><meta:editing-duration>P10DT3H16M20S</meta:editing-duration><meta:editing-cycles>398</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="28" meta:word-count="1341" meta:character-count="7014" meta:non-whitespace-character-count="5674"/></office:meta>
+ <office:meta><meta:creation-date>2021-07-12T12:28:17.683926190</meta:creation-date><dc:date>2022-01-31T20:30:00.465921531</dc:date><meta:editing-duration>P10DT15H46M23S</meta:editing-duration><meta:editing-cycles>474</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="47" meta:word-count="2081" meta:character-count="10793" meta:non-whitespace-character-count="8713"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">71990</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">6662</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">47574</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">23206</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">17953</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">88247</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">29866</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">16533</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">71990</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">6662</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">47572</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">95194</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">29866</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">6989518</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">8234413</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -230,38 +230,23 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00390466" officeooo:paragraph-rsid="0022a675" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00351d85" officeooo:paragraph-rsid="0022a675" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0022a675"/>
-  </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00351d85" officeooo:paragraph-rsid="0022a675"/>
-  </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="004dd82b"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0050a29a"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0022a675" officeooo:paragraph-rsid="0050a29a"/>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="006aa6ce"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="004dd82b" officeooo:paragraph-rsid="004dd82b"/>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00794d66" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
    <style:text-properties officeooo:paragraph-rsid="0050a29a"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0050a29a"/>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="006aa6ce" officeooo:paragraph-rsid="006aa6ce"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="006aa6ce" officeooo:paragraph-rsid="006aa6ce"/>
   </style:style>
@@ -269,121 +254,88 @@
    <style:text-properties officeooo:rsid="000eb83a"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0038458b" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00390466" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="003efe0c" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T6" style:family="text">
-   <style:text-properties officeooo:rsid="0022a675"/>
-  </style:style>
-  <style:style style:name="T7" style:family="text">
-   <style:text-properties officeooo:rsid="0023c512"/>
-  </style:style>
-  <style:style style:name="T8" style:family="text">
-   <style:text-properties officeooo:rsid="002b1d49"/>
-  </style:style>
-  <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="002c45fe"/>
-  </style:style>
-  <style:style style:name="T10" style:family="text">
-   <style:text-properties officeooo:rsid="002dce7f"/>
-  </style:style>
-  <style:style style:name="T11" style:family="text">
-   <style:text-properties officeooo:rsid="0038458b"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00390466" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="T13" style:family="text">
-   <style:text-properties officeooo:rsid="003a6578"/>
-  </style:style>
-  <style:style style:name="T14" style:family="text">
-   <style:text-properties officeooo:rsid="003bce49"/>
-  </style:style>
-  <style:style style:name="T15" style:family="text">
-   <style:text-properties officeooo:rsid="003d2af2"/>
-  </style:style>
-  <style:style style:name="T16" style:family="text">
-   <style:text-properties officeooo:rsid="003efe0c"/>
-  </style:style>
-  <style:style style:name="T17" style:family="text">
-   <style:text-properties officeooo:rsid="0044680a"/>
-  </style:style>
-  <style:style style:name="T18" style:family="text">
-   <style:text-properties officeooo:rsid="0045dc9e"/>
-  </style:style>
-  <style:style style:name="T19" style:family="text">
-   <style:text-properties officeooo:rsid="00464c9d"/>
-  </style:style>
-  <style:style style:name="T20" style:family="text">
-   <style:text-properties officeooo:rsid="00481ee5"/>
-  </style:style>
-  <style:style style:name="T21" style:family="text">
-   <style:text-properties officeooo:rsid="0049703c"/>
-  </style:style>
-  <style:style style:name="T22" style:family="text">
-   <style:text-properties officeooo:rsid="004b85df"/>
-  </style:style>
-  <style:style style:name="T23" style:family="text">
-   <style:text-properties officeooo:rsid="004c32f0"/>
-  </style:style>
-  <style:style style:name="T24" style:family="text">
-   <style:text-properties officeooo:rsid="004dd82b"/>
-  </style:style>
-  <style:style style:name="T25" style:family="text">
-   <style:text-properties officeooo:rsid="0050a29a"/>
-  </style:style>
-  <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="0050a50e"/>
-  </style:style>
-  <style:style style:name="T27" style:family="text">
-   <style:text-properties officeooo:rsid="00520978"/>
-  </style:style>
-  <style:style style:name="T28" style:family="text">
    <style:text-properties officeooo:rsid="005646f7"/>
   </style:style>
-  <style:style style:name="T29" style:family="text">
+  <style:style style:name="T3" style:family="text">
    <style:text-properties officeooo:rsid="00588854"/>
   </style:style>
-  <style:style style:name="T30" style:family="text">
+  <style:style style:name="T4" style:family="text">
    <style:text-properties officeooo:rsid="00598516"/>
   </style:style>
-  <style:style style:name="T31" style:family="text">
+  <style:style style:name="T5" style:family="text">
    <style:text-properties officeooo:rsid="0059b1c3"/>
   </style:style>
-  <style:style style:name="T32" style:family="text">
+  <style:style style:name="T6" style:family="text">
    <style:text-properties officeooo:rsid="005b859a"/>
   </style:style>
-  <style:style style:name="T33" style:family="text">
+  <style:style style:name="T7" style:family="text">
    <style:text-properties officeooo:rsid="005eded2"/>
   </style:style>
-  <style:style style:name="T34" style:family="text">
+  <style:style style:name="T8" style:family="text">
    <style:text-properties officeooo:rsid="005f121e"/>
   </style:style>
-  <style:style style:name="T35" style:family="text">
+  <style:style style:name="T9" style:family="text">
    <style:text-properties officeooo:rsid="00609768"/>
   </style:style>
-  <style:style style:name="T36" style:family="text">
+  <style:style style:name="T10" style:family="text">
    <style:text-properties officeooo:rsid="006303b7"/>
   </style:style>
-  <style:style style:name="T37" style:family="text">
+  <style:style style:name="T11" style:family="text">
    <style:text-properties officeooo:rsid="00645da3"/>
   </style:style>
-  <style:style style:name="T38" style:family="text">
+  <style:style style:name="T12" style:family="text">
    <style:text-properties officeooo:rsid="0067eca3"/>
   </style:style>
-  <style:style style:name="T39" style:family="text">
+  <style:style style:name="T13" style:family="text">
    <style:text-properties officeooo:rsid="0068faf7"/>
   </style:style>
-  <style:style style:name="T40" style:family="text">
+  <style:style style:name="T14" style:family="text">
    <style:text-properties officeooo:rsid="006aa6ce"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="006c38cb"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="006c50b0"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="006e1a77"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="0073256e"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="0076243f"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="0076b680"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="0077ad5d"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="007901aa" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="007c78c1" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007901aa" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00794d66" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007a1f54" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007bc2d9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007c78c1" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="007da5ad"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
@@ -406,33 +358,53 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:tab/><text:span text:style-name="T1">Chapter 1</text:span></text:h>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T25">I can tell that I crossed between worlds when I passed between a pair of trees even though I could not say what changed. I sighed as the tense fell away with the confirmation that my guide spoke true. I finally made it home. Enough light from the full moon filtered through the trees to let me see the surrounding forest. I don’t recognize the area but I can work with this.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T27">It would be nice if I was dropped off at the shrine but I’ve lived in the forest since I was a kit. As a 6-tailed kitsune there’s nothing in a forest that could threaten me anyway. Naturally, something comes barreling through the forest toward me as soon as the thought crosses my mind. I am surprised that she turns out to be some western woman that ends up sprawled on the ground after colliding with my shoulder. Her shirt was torn and bloodied around the shoulder but before I could wonder ‘why,’ the answers made themselves known.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T28">A pack of wolves emerged to surround us although I use the word ‘wolf’ loosely. These had long limbs and almost non-existent muzzles. The coarse hair of their coats was not the worst I had seen, but that’s the best I can say for these ugly creatures. I’m not sure what I find more annoying. The fact that there are enough of them to fully surround me and the woman, or that their presence means I’m nowhere near Japan. My growl is only enough to put them on them guard as they bare their fangs at me. Apparently they think the odds are still in their favor.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T29">The first to attack comes from behind but just gets caught by one of my tails for his trouble. It’s long enough to wrap around the creatures neck before smashing him into the ground and throwing his dazed body away. Now the rest of them are reconsidering… Well, almost all of them.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T30">The woman had backed against me and following her gaze told me why. One of the wolf beasts was focused on her. This moron has the audacity to ignore me and think he can just take her from me. I may not know why they are after her, but I’m not above opposing them out of spite.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T30">Activating some of my abilities, illusions blur and distort my movements as I lunge toward the distracted wolf. Ghostly copies of myself appear to lunge at other wolves with different timings to make it nigh impossible to guard against me. Most of the wolves panicked but one was still able to headbutt me off target. Instead of sinking my fangs into the fools neck I end up catching his foreleg. Before he can react I send him tumbling into the underbrush with one less limb. By the time I swallow his leg the creatures have scattered.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T31">Don’t eat me!” repeats the woman as a mantra as she cowers away from me.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T31">You’re safe. No ones going to eat you.” I said using more illusions while summoning flames to clear the blood off my fur.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T32">You can talk?” she questions before mumbling to herself, “Focus, Ashley, this isn’t even the weirdest thing to happen tonight.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T32">How is your shoulder?”</text:span></text:p>
-   <text:p text:style-name="P6"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T32">What?” Ashley took a moment to stare at me, “Oh, um. It’s fine.” She poked at the bloodied shoulder and true to her words there was no wound despite the blood and torn cloth. “I know I got bit… by a werewolf… Oh, no, no, no, no!”</text:span></text:p>
-   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T33">This isn’t working. She’s stuck on another mantra. I guess there’s nothing for it, a little bit of illusion and she’s asleep. Maybe tomorrow I can get her to lead me out of here but for now we sleep. After I lay down next to her she scoots closer so I assume she agrees.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T34">The sun was already nearing its zenith by the time my ward woke. It only took her a few seconds to inspect her situation and start screaming after that. “No,” I stated and covered her face with a paw, “I know this is a difficult situation but the noise is unneccessary.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T35">You’re real…” she stared at me for a while before continuing, “Why did you stay with me?”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T35">Hmm, I suppose there are variety of reasons. Simple curiosity. Just to be nice. I didn’t have a better place to spend the night. If you’re looking for something more cynical, then it’s because I don’t even know what forest this is so I need information and you are the first person I’ve come across.” I also suspect that Hekate sent me to you intentionally but I’ll keep that to myself.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T36">This is one parks in the city but I don’t know how to get out.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T36">This girl… “I’m sure we can find a way out, but what city is this?”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T36">New York.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T36">At least it’s a port city I’ve heard of, but its not even near the same ocean as Japan. It’s a good thing I’m not in a rush. It’s a really good thing I’m not in a rush considering it took half an hour of meandering around the forest with Ashley before she remembered that she had a cell phone. I thought cell phones were fascinating before but they have advanced so much in my absence. To think that they can not only store a map but tell where they are on said map. I want one.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T37">Ashley stops when we get close to the edge of the forest, </text:span>“<text:span text:style-name="T37">Wait, um, how are we going to get you to my apartment? People will freak out if they see you.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T37">Ah, thank you for reminding me! I forgot about that.” Shapeshifting is common trait among kitsune and with a quick application I assume a human form. I’m not looking to turn heads so I’m on the homely side of a Japanese woman. My clothes are a rough copy of Ashley’s since I figure that’s closer to the local average than anything I would come up with. My pure white hair will stand out but there’s nothing I can do about that. “It’s only been a decade since I’ve last been in human society, but it seems I’ve still fallen out of practice. I assume this will be fine right?”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T37">Uh, yeah. That should be fine.” She went quiet for the rest of the trip. As for me, there was more than enough to look at on the car trip. I assume it natural for a city like New York, but the shear amount of traffic surprised me. Even in the middle of the night many of the streets were still alive with people.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T38">I followed Ashley into her apartment and watched her make a bee line into the kitchen. She grabbed a bottle but stopped before removing it from its pack. Instead she grabbed the whole pack and </text:span><text:soft-page-break/><text:span text:style-name="T38">plopped down on the couch in main room with it. Watching the contents of an entire bottle disappear down her throat with stopping for breath was… disgusting, it was disgusting.</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T38">Ah, no!” She glared at me as I grabbed her hand before she could start on a second bottle, “You’re going to make yourself sick doing that.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T39">Yeah, well, that’s what I’m trying to do!” Ashley shot back, “My boyfriend turned into a goddamn monster last night and bit me! I just want to forget about last night so leave me alone!” I held her gaze as she tried to pulled her arm free. Each tug was weaker than the last until stopped and whispered, “Please, let me forget. It hurts.”</text:span></text:p>
-   <text:p text:style-name="P6"><text:tab/>“<text:span text:style-name="T40">I know you want it to stop, but it’s supposed to hurt. This is a safe place, you can let it out. Bottling it up would just make it worse in the end.” I cooed to her and her resistance evaporated. She melted into my embrace while I rubbed her back as she cried into my shoulder. This girl is far too trusting.</text:span></text:p>
-   <text:h text:style-name="P11" text:outline-level="1">Chapter 2</text:h>
+   <text:p text:style-name="Text_20_body"><text:tab/><text:span text:style-name="T21">The transition was subtle enough that I didn’t notice it until looking up. Hekate was true to her word and the empty skies of her garden no longer hung overhead. It feels like years since I’ve seen the stars. Come to think of it I don’t know how long I was trapped… Letting my haunches fall to the forest floor I stare at the full moon and let the tangled knot of emotions wash over me. </text:span><text:span text:style-name="T22">What do I do now?</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24"><text:tab/></text:span><text:span text:style-name="T25">My attention returned to the present when something collides with me. The recoil did little to me but left the woman dazed on the ground in front of my paws. As a six tailed kitsune, I am a fox large enough to rival the size of bears. I am impressed that she managed to overlook my presence. Even more so with the way the moon light makes my pure white fur stand out.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T25"><text:tab/></text:span><text:span text:style-name="T26">The smell of blood reached my nose before I noticed the red fluid covering her arm. There was enough to be concerning but not lethal. I expected a wound that produced that much blood would be visible but I couldn’t spot one. </text:span><text:span text:style-name="T27">Before she recovered enough to trying getting up I move to get a closer look. There’s nothing new to see but it </text:span><text:span text:style-name="T28">did</text:span><text:span text:style-name="T27"> mean I </text:span><text:span text:style-name="T28">was</text:span><text:span text:style-name="T27"> now standing over her causing her to freeze in place. She may be scared out of her mind now but it would be too hard to protect her if she ran.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T27"><text:tab/>Turning my ears to the direction she came </text:span><text:span text:style-name="T28">from</text:span><text:span text:style-name="T27"> I c</text:span><text:span text:style-name="T28">ould</text:span><text:span text:style-name="T27"> hear the sounds of her pursuers. There </text:span><text:span text:style-name="T28">were</text:span><text:span text:style-name="T27"> several moving as a group. They </text:span><text:span text:style-name="T28">were</text:span><text:span text:style-name="T27"> </text:span><text:span text:style-name="T28">quieter </text:span><text:span text:style-name="T27">than I would expect from a human, but too slow to be a wild animal on the hunt. </text:span><text:span text:style-name="T28">I hid the snarl that rose in my throat when I realized they could be tracking hounds. </text:span><text:span text:style-name="T23">Damn it, Hekate, I don’t mind being used as some sort of divine intervention but why dogs! I hate dealing with dogs!</text:span></text:p>
+   <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T29">Wolves? Not dogs, but the ugliest wolves I had ever seen came through the underbrush. They had scraggly brown fur and their muzzles were squashed nearly flat to their face. Long limbs supported too small bodies and ended in wicked claws. As if the visuals weren’t enough, I could smell the magic wafting off of them. Great… I have no idea what these things are, not what they can do.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T2">A pack of wolves emerged to surround us although I use the word ‘wolf’ loosely. These had long limbs and almost non-existent muzzles. The coarse hair of their coats was not the worst I had seen, but that’s the best I can say for these ugly creatures. I’m not sure what I find more annoying. The fact that there are enough of them to fully surround me and the woman, or that their presence means I’m nowhere near Japan. My growl is only enough to put them on them guard as they bare their fangs at me. Apparently they think the odds are still in their favor.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T3">The first to attack comes from behind but just gets caught by one of my tails for his trouble. It’s long enough to wrap around the creatures neck before smashing him into the ground and throwing his dazed body away. Now the rest of them are reconsidering… Well, almost all of them.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T4">The woman had backed against me and following her gaze told me why. One of the wolf beasts was focused on her. This moron has the audacity to ignore me and think he can just take her from me. I may not know why they are after her, but I’m not above opposing them out of spite.</text:span></text:p>
+   <text:p text:style-name="P1"><text:soft-page-break/><text:tab/><text:span text:style-name="T4">Activating some of my abilities, illusions blur and distort my movements as I lunge toward the distracted wolf. Ghostly copies of myself appear to lunge at other wolves with different timings to make it nigh impossible to guard against me. Most of the wolves panicked but one was still able to headbutt me off target. Instead of sinking my fangs into the fools neck I end up catching his foreleg. Before he can react I send him tumbling into the underbrush with one less limb. By the time I swallow his leg the creatures have scattered.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T5">Don’t eat me!” repeats the woman as a mantra as she cowers away from me.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T5">You’re safe. No ones going to eat you.” I said using more illusions while summoning flames to clear the blood off my fur.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T6">You can talk?” she questions before mumbling to herself, “Focus, Ashley, this isn’t even the weirdest thing to happen tonight.”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T6">How is your shoulder?”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T6">What?” Ashley took a moment to stare at me, “Oh, um. It’s fine.” She poked at the bloodied shoulder and true to her words there was no wound despite the blood and torn cloth. “I know I got bit… by a werewolf… Oh, no, no, no, no!”</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T7">This isn’t working. She’s stuck on another mantra. I guess there’s nothing for it, a little bit of illusion and she’s asleep. Maybe tomorrow I can get her to lead me out of here but for now we sleep. After I lay down next to her she scoots closer so I assume she agrees.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T8">The sun was already nearing its zenith by the time my ward woke. It only took her a few seconds to inspect her situation and start screaming after that. “No,” I stated and covered her face with a paw, “I know this is a difficult situation but the noise is unneccessary.”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T9">You’re real…” she stared at me for a while before continuing, “Why did you stay with me?”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T9">Hmm, I suppose there are variety of reasons. Simple curiosity. Just to be nice. I didn’t have a better place to spend the night. If you’re looking for something more cynical, then it’s because I don’t even know what forest this is so I need information and you are the first person I’ve come across.” I also suspect that Hekate sent me to you intentionally but I’ll keep that to myself.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T10">This is one parks in the city but I don’t know how to get out.”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">This girl… “I’m sure we can find a way out, but what city is this?”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T10">New York.”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">At least it’s a port city I’ve heard of, but its not even near the same ocean as Japan. It’s a good thing I’m not in a rush. It’s a really good thing I’m not in a rush considering it took half an hour of meandering around the forest with Ashley before she remembered that she had a cell phone. I thought cell phones were fascinating before but they have advanced so much in my absence. To think that they can not only store a map but tell where they are on said map. I want one.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T11">Ashley stops when we get close to the edge of the forest, </text:span>“<text:span text:style-name="T11">Wait, um, how are we going to get you to my apartment? People will freak out if they see you.”</text:span></text:p>
+   <text:p text:style-name="P1"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T11">Ah, thank you for reminding me! I forgot about that.” Shapeshifting is common trait among kitsune and with a quick application I assume a human form. I’m not looking to turn heads so I’m on the homely side of a Japanese woman. My clothes are a rough copy of Ashley’s since I figure that’s closer to the local average than anything I would come up with. My pure white hair will stand out but there’s nothing I can do about that. “It’s only been a decade since I’ve last been in human society, but it seems I’ve still fallen out of practice. I assume this will be fine right?”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T11">Uh, yeah. That should be fine.” She went quiet for the rest of the trip. As for me, there was more than enough to look at on the car trip. I assume it natural for a city like New York, but the shear amount of traffic surprised me. Even in the middle of the night many of the streets were still alive with people.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T12">I followed Ashley into her apartment and watched her make a bee line into the kitchen. She grabbed a bottle but stopped before removing it from its pack. Instead she grabbed the whole pack and plopped down on the couch in main room with it. Watching the contents of an entire bottle disappear down her throat with stopping for breath was… disgusting, it was disgusting.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T12">Ah, no!” She glared at me as I grabbed her hand before she could start on a second bottle, “You’re going to make yourself sick doing that.”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T13">Yeah, well, that’s what I’m trying to do!” Ashley shot back, “My boyfriend turned into a goddamn monster last night and bit me! I just want to forget about last night so leave me alone!” I held her gaze as she tried to pulled her arm free. Each tug was weaker than the last until stopped and whispered, “Please, let me forget. It hurts.”</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/>“<text:span text:style-name="T14">I know you want it to stop, but it’s supposed to hurt. This is a safe place, you can let it out. Bottling it up would just make it worse in the end.” I cooed to her and her resistance evaporated. She melted into my embrace while I rubbed her back as she cried into my shoulder. This girl is far too trusting.</text:span></text:p>
+   <text:h text:style-name="P5" text:outline-level="1">Chapter 2</text:h>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T14">Someone is knocking at the door. Ashley had long since fallen asleep and been tucked in to her bed. The sun may be peeking through the window but this is still earlier for a visitor. Approaching the door does nothing to quell my suspicions either. I can smell the same scent of magic and wolves from the other side of the door.</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T15">Opening the door revealed a plain man dressed in loose clothing. “What do you want?” I demanded.</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T16">Huh, coulda swore Ash lived alone. Anyway, Chris needs to see her so could ya get her for me?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T16">I’m sorry, but she needs her rest. I can tell her you stopped by when she wakes. Did Chris say why he wants to see her?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T17">Even if he did that’s none of your business.” He said and decided to grate on my nerves by leaning into my face, “Now are you going to go get her for me?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T17">Are you trying to test my patience?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T17">He scoffed and shouted, “Hey Ash, time to get up! Chris’ waiting for you!”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T18">I’ll take that as a yes.” I quip and push him out the door. Ashley is already making noise in the back but the flash of anger on the man’s face is what I was hoping for. “Before we see Chris, what’s your name?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T18">Your cute, babe, but you ain’t seeing the boss.” he sneered, “Why don’t you go back inside before you cause more trouble for your friend?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/><text:span text:style-name="T18">I stay silent as I run my tongue across my now pointed teeth. Losing control of my shape shifting won’t help no matter how aggravating this man is. The fact that this fool has visibly taken my silence as his victory is not helping. Ashley emerged before I broke the silence.</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T19">Brian, uh, is something wrong?” Ashley asked looking between the two of us.</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T19">Your friend is pretty protective of you. I was just explaining that she doesn’t need to worry.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T20">Is that what you call it, Brian?” I say, “It seemed more like you were trying anger me and succeeding beyond your wildest imagination. Who are these people, Ashley?”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T20">Brian’s just a friend and Chris is sort of the leader of our friend group. They can be a little crude, but they aren’t that bad. I’m sure there is no reason to be angry.” Ashley smiles at me but it’s strained, “Please, try not to overreact.”</text:span></text:p>
+   <text:p text:style-name="P2"><text:tab/>“<text:span text:style-name="T20">You sure found a feisty one if you have to be the voice of reason, Ash.” Brian rolled his eyes, “Now let’s get a move on and leave the hysterics behind.” He started moving down the hall and Ashley falls in behind him.</text:span></text:p>
+   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/><text:span text:style-name="T20">I have to suppress a groan as I stare at Ashley. Just what kind of mess am I getting myself into. This girl is the worst judge of character. I walk up beside my ward and ask, “Can you at least tell me about werewolves if we’re going to walk into a den of the things?”</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
