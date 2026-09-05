@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2026-05-20T14:21:07.925005514</meta:creation-date><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><dc:date>2026-09-05T17:19:03.753369659</dc:date><meta:editing-duration>P1DT7H46M31S</meta:editing-duration><meta:editing-cycles>137</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="49" meta:word-count="1666" meta:character-count="8806" meta:non-whitespace-character-count="7146"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">64135</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">47468</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21645</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">29757</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">82264</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">64135</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">47466</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">85778</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="JustifyLinesWithShrinking" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1117501</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3376410</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <loext:theme loext:name="Office">
+   <loext:theme-colors loext:name="LibreOffice">
+    <loext:color loext:name="dark1" loext:color="#000000"/>
+    <loext:color loext:name="light1" loext:color="#ffffff"/>
+    <loext:color loext:name="dark2" loext:color="#000000"/>
+    <loext:color loext:name="light2" loext:color="#ffffff"/>
+    <loext:color loext:name="accent1" loext:color="#18a303"/>
+    <loext:color loext:name="accent2" loext:color="#0369a3"/>
+    <loext:color loext:name="accent3" loext:color="#a33e03"/>
+    <loext:color loext:name="accent4" loext:color="#8e03a3"/>
+    <loext:color loext:name="accent5" loext:color="#c99c00"/>
+    <loext:color loext:name="accent6" loext:color="#c9211e"/>
+    <loext:color loext:name="hyperlink" loext:color="#0000ee"/>
+    <loext:color loext:name="followed-hyperlink" loext:color="#551a8b"/>
+   </loext:theme-colors>
+  </loext:theme>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00110d3d" officeooo:paragraph-rsid="00110d3d"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0012a8fe" officeooo:paragraph-rsid="0012a8fe"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0014e895" officeooo:paragraph-rsid="0014e895"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0015a2d8" officeooo:paragraph-rsid="0015a2d8"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0015a2d8" officeooo:paragraph-rsid="0019369e"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0019369e" officeooo:paragraph-rsid="0019369e" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00199b09" officeooo:paragraph-rsid="00199b09"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00199b09" officeooo:paragraph-rsid="00199b09"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="002b2d8f" officeooo:paragraph-rsid="0019369e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="002b2d8f" officeooo:paragraph-rsid="0019369e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="0012bf49"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="0013f576"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00147753"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="0016c213"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="00177280"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="001799d5"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="0019369e"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="00199b09"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="001b6a43"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="001c0a6e"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="001cce8a"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="001dbde0"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="001f14be"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="0020fd77"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="0022c969"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="00248054"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="0025eba9"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="0027d71c"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="002949f3"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="002b2d8f"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="002b2d8f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="002ce382"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="002d687e"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="002ebf53"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="002ff5ec"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="003184ba"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="0032ca6d"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="0033851a"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P1">She came, she saw, she conquered</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P2">Goal: <text:span text:style-name="T3">Show the flaws of ‘might makes right.’ Strength takes a tremendous amount of upkeep and tends to make enemies. Even allies are suspect in such an ambitious environment.</text:span></text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P3">The System has crystallized its own rules into laws of physics and has an immune system that prevents unauthorized deviations.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P6">Plot</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P5">Kim gets summoned with a small cohort. She finds cracks in the System and escapes. </text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"><text:span text:style-name="T6">Randel, the trainer, follows her into The Woods. </text:span><text:span text:style-name="T7">Randel captures Kim and tries to force her to find an exist.</text:span><text:span text:style-name="T6"> </text:span><text:span text:style-name="T7">Kim just watches as he grows unstable over the days until she can continue her escape.</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"><text:span text:style-name="T5">The local dungeon attracts her attention and becomes her new den of sorts. </text:span>She gets summoned again but now is under guard. <text:span text:style-name="T4">The public punishment finally pushes her to consider the entire country her enemy. </text:span>She ditches the human form and haunts the area as her kitsune self. <text:span text:style-name="T4">Her main targets are the undefended supports for the common people goading leadership to hurt their own people. </text:span><text:span text:style-name="T5">Eventually things decay enough for the Church to step in and end things. They set the System after her but it hits the dungeon and causes part of the world to collapse shattering the forest. Kim leaves defeated to regroup.</text:span></text:p>
+   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P8"><text:tab/>Entering The Woods is the most important trick I picked up from Hecate. It’s the concept of a forest imprinted on magic and acts as a bridge connecting every forest that exists. It’s also a place that’s based more on perception than physics <text:span text:style-name="T9">so the resistance I felt trying to cross over meant someone was watching me. It would be easy to drag them to their doom into The Woods.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T8">That’s far enough.” Randel says.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T9">I sigh and turn to face him, “</text:span><text:span text:style-name="T10">I don’t suppose you could just let me go?”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T10">No,” he replies and takes a step forward. An unfortunate decision but I get to decide the results too. The chase is on as when I bolt and lasts all of 10 seconds. That’s still enough to escape Triton before I get a face full of dirt. “Now stop this foolishness. You’re only hurting yourself.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T10">He’s not wrong, even if he doesn’t realize t</text:span><text:span text:style-name="T11">hat we both lost. I make no complaint as we march deeper into The Woods. The silence I annoying so I ask, “Why did you even bother following me? It’s not like I’m very valuable to the Empire.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T12">You have a duty. The Empire can’t just let you run off whenever you want.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T13">A duty, huh? Is that what you’re calling slavery these days?”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T13">He pauses before finally saying, “Yes. Look I don’t like it either, but it’s easier if you just go along with it. The Empire’s not going to let you go and it only gets worse if you try.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T14">I’m not interested in easier.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T14">You don’t know what you’re saying, girl.” he huffs then suddenly halts, “What did you do!? Why do I have mana poisoning?”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T14">Huh?” I say as I try to catch up. Mana poisoning is familiar. Using magic creates waste and too much will make a person sick. Usually that takes some serious effort to even be noticeable though. Way more effort than could sneak by so I have no idea what he could have gotten poisoned from.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T15">Don’t play dumb! What did you do?”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T15">The only thing I’ve done is escape. Is mana poisoning common?” I ask but Randel doesn’t seem interested in satisfying my curiosity. He just narrows his eyes and stares at me. That’s fine I can do a gormless stare too.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T15">Right. And what was your plan afterward?” he asks, “Surely, you didn’t think a simple forest would keep you safe.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T15">Well, it’s not like the secret will last much longer so I reply, “Not a forest, THE forest. We aren’t in Triton anymore. This is a liminal space.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T15">A what space?”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T15">It’s a threshold. The space between every forest. It’s very useful if you can navigate it.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T16">So you did </text:span><text:span text:style-name="T17">do </text:span><text:span text:style-name="T16">something!” he growls, “</text:span><text:span text:style-name="T17">Will this poisoning fade away when we get back?”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T17">I guess? I don’t know where it came from in the first place. </text:span><text:span text:style-name="T18">I’m not going back though.</text:span><text:span text:style-name="T17">”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T18">You can’t escape the Empire’s reach.” he states by reflex as he looks around, “We should have reached the edge by now. How do we get out of here?”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T18">I can lead you out if you let me go afterward.” I offer. </text:span><text:span text:style-name="T19">I don’t think I ditch him on my own. He hasn’t earned that fate either.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T19">He thinks for a moment before saying, “I’ll consider it.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T19">Well, that’s an obvious lie. He made up his mind </text:span><text:span text:style-name="T20">years ago and is just trying to figure out how to live with them</text:span><text:span text:style-name="T19">. Still the entire point of second chances is to be surprised. </text:span><text:span text:style-name="T20">I agree and lead him out with only a little hesitation on his part. Of course I make sure that the forest exit is behind us so that he has no need to approach me. “There. You can simply walk out of the forest now.” I say and gesture for him to leave.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T20">Alright, the mana poisoning is gone.” he says and reaches to grab my arm, “Now come on.”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T20">How treacherous.” I roll my eyes, “Are you sure you don’t want to just go home?” This is his last chance but I guess a scorpion can’t change his nature.</text:span></text:p>
+   <text:p text:style-name="P5"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T20">I only promised I would consider it, not that I would actually let you go.” he states and drag me along.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T20">While waiting for him to notice that we are back in The Woods I turn my attention to the mana poisoning. It must be the System. The entire world must be designed as a giant sink for the waste mana. Still I’m surprised the System is so inefficient that mana poisoning builds up that fast.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T20">What? It’s back?” he whirls around to yell, “You did it again!”</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>“<text:span text:style-name="T20">Yes, we went in a circle. What did you expect?” I say. Well, it’s not exactly the same. The easy option is closed now. Also, I’m now stuck with a large man that is slowly realizing he’s doomed. This is going to suck.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/><text:span text:style-name="T20">His eye twitches before he lets out an explosive sigh, </text:span><text:span text:style-name="T21">“</text:span><text:span text:style-name="T22">Fine, what do you want?”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>“What do you mean?”</text:p>
+   <text:p text:style-name="P9"><text:tab/>“You’ve got me at your mercy. Just tell me your demands so we can get back already. The longer this lasts the worse it looks to the higher ups.”</text:p>
+   <text:p text:style-name="P9"><text:tab/>We are so far from the same page that it takes me a while to untangle things. He has so much blind obedience to the Empire that he can’t grasp that I don’t care about them at all. The idea that he could be stranded beyond the Empire’s reach is unthinkable.</text:p>
+   <text:p text:style-name="P9"><text:tab/>“I don’t want anything from you.” I say. I wouldn’t trust him even <text:span text:style-name="T23">if I did.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T24">I can see </text:span><text:span text:style-name="T25">my words</text:span><text:span text:style-name="T24"> crawl through him as he goes through a storm of emotions. </text:span><text:span text:style-name="T25">Still they fail to get through as he puts up on a contrite face and pleads, “You don’t need to make this harder. I understand that I lost. I’m at your mercy, just name your price.”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T25">There is nothing I can say to make him understand so I just prepare. A series of illusion dampening my own senses until I’m a spectator in this body. In The Woods awareness matter more than distance. I can’t outrun him but if we both lose track of each for a few seconds I can escape. All I need to do is wait for him to focus on anything else then blind myself and walk away. This is not going to be a pleasant wait.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T26">Smoke practically pours from Randel ears before he erupts, “Girl, you’re only making things worse for yourself! Don’t you understand I’m trying to help you!? You aren’t the first otherworlder to throw a tantrum and you won’t be the last, but it never ends well!” </text:span><text:span text:style-name="T27">He looks at me expectantly until his patience runs out. “Well, what do you have to say for yourself?”</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T27">Ignoring someone is fast way to piss them off but there is no reason to delay things. Randel escalates to shouting and curses before finally getting physical. He pauses when his slap doesn’t get a reaction beyond me falling to the ground like a rag doll.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T27">Something ugly crosses his faces and he says, “So that’s how you want to play it, bitch.” He draws out the sword I hadn’t noticed and places the tip against my stomach, “You should speak up now.” My flesh offers no resistance as the sword slides through my gut and I am glad I already turned off my sense of pain. Randel is nonplussed at the lack of reaction and stalks off after kicking me into a tree.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T27">That’s all the opening I needed. I create an illusion to dampen sound and another to blind me. At the same time I pull the sword out and lean forward just enough to stop touching the tree. I let my expectation flow out with my breath and roll backwards straight through where that tree should have been. When I restore my sight there is a brand new clearing without Randel.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T28">The Woods are sensitive to expectation but to find something specific it has to be within both The Woods and those expectation. There is no chance Randel will be able to find me. </text:span><text:span text:style-name="T29">This is a safe area to rest and deal with this damn hole in my stomach. It wouldn’t have changed anything but missing the sword is not a pleasant reminder about how poor my combat skills are.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T29">Shapeshifting makes short work of my injuries but my hands are shaking now. Now that the adrenaline has faded the full weight of my emotions comes crashing down. It’s time for a rest. A literal bed of moss is even plausible enough for The Woods to put one just a few a steps away.</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>
